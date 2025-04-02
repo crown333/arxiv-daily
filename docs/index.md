@@ -59,6 +59,16 @@ layout: default
 |**2025-01-16**|**Lossless Compression of Vector IDs for Approximate Nearest Neighbor Search**|Daniel Severo et.al.|[2501.10479](http://arxiv.org/abs/2501.10479)|**[link](https://github.com/facebookresearch/vector_db_id_compression)**|
 |**2025-01-26**|**MiniRAG: Towards Extremely Simple Retrieval-Augmented Generation**|Tianyu Fan et.al.|[2501.06713](http://arxiv.org/abs/2501.06713)|**[link](https://github.com/hkuds/minirag)**|
 |**2025-01-10**|**kANNolo: Sweet and Smooth Approximate k-Nearest Neighbors Search**|Leonardo Delfino et.al.|[2501.06121](http://arxiv.org/abs/2501.06121)|**[link](https://github.com/tuskanny/kannolo)**|
+|**2025-01-09**|**A Flexible and Scalable Framework for Video Moment Search**|Chongzhi Zhang et.al.|[2501.05072](http://arxiv.org/abs/2501.05072)|**[link](https://github.com/ranking-vmr/spr)**|
+|**2025-01-09**|**CHASE: A Native Relational Database for Hybrid Queries on Structured and Unstructured Data**|Rui Ma et.al.|[2501.05006](http://arxiv.org/abs/2501.05006)|null|
+|**2025-01-06**|**Tree-based RAG-Agent Recommendation System: A Case Study in Medical Test Data**|Yahe Yang et.al.|[2501.02727](http://arxiv.org/abs/2501.02727)|null|
+|**2025-01-05**|**Chameleon2++: An Efficient Chameleon2 Clustering with Approximate Nearest Neighbors**|Priyanshu Singh et.al.|[2501.02612](http://arxiv.org/abs/2501.02612)|null|
+|**2025-01-03**|**End-to-End Long Document Summarization using Gradient Caching**|Rohit Saxena et.al.|[2501.01805](http://arxiv.org/abs/2501.01805)|null|
+|**2024-12-31**|**EQUATOR: A Deterministic Framework for Evaluating LLM Reasoning with Open-Ended Questions. # v1.0.0-beta**|Raymond Bernard et.al.|[2501.00257](http://arxiv.org/abs/2501.00257)|null|
+|**2024-12-31**|**Towards Real-Time 2D Mapping: Harnessing Drones, AI, and Computer Vision for Advanced Insights**|Bharath Kumar Agnur et.al.|[2412.20210](http://arxiv.org/abs/2412.20210)|null|
+|**2024-12-27**|**KALAHash: Knowledge-Anchored Low-Resource Adaptation for Deep Hashing**|Shu Zhao et.al.|[2412.19417](http://arxiv.org/abs/2412.19417)|**[link](https://github.com/Tree-Shu-Zhao/KALAHash.pytorch)**|
+|**2024-12-30**|**LLM-assisted Vector Similarity Search**|Md Riyadh et.al.|[2412.18819](http://arxiv.org/abs/2412.18819)|null|
+|**2024-12-25**|**Optimization and Scalability of Collaborative Filtering Algorithms in Large Language Models**|Haowei Yang et.al.|[2412.18715](http://arxiv.org/abs/2412.18715)|null|
 
 ## Parallel and Concurrent Algorithms
 
@@ -114,6 +124,16 @@ layout: default
 |**2025-02-06**|**CMoE: Fast Carving of Mixture-of-Experts for Efficient LLM Inference**|Zehua Pei et.al.|[2502.04416](http://arxiv.org/abs/2502.04416)|**[link](https://github.com/JarvisPei/CMoE)**|
 |**2025-02-06**|**Division-of-Thoughts: Harnessing Hybrid Language Model Synergy for Efficient On-Device Agents**|Chenyang Shao et.al.|[2502.04392](http://arxiv.org/abs/2502.04392)|null|
 |**2025-02-10**|**Performing Load Balancing under Constraints**|Andrea Fox et.al.|[2502.01843](http://arxiv.org/abs/2502.01843)|null|
+|**2025-02-02**|**Mathematical Cell Deployment Optimization for Capacity and Coverage of Ground and UAV Users**|Saeed Karimi-Bidhendi et.al.|[2502.00928](http://arxiv.org/abs/2502.00928)|null|
+|**2025-02-02**|**Using Causality for Enhanced Prediction of Web Traffic Time Series**|Chang Tian et.al.|[2502.00612](http://arxiv.org/abs/2502.00612)|null|
+|**2025-01-30**|**Semaphores Augmented with a Waiting Array**|Dave Dice et.al.|[2501.18447](http://arxiv.org/abs/2501.18447)|null|
+|**2025-01-29**|**Exploring the Potential of Wireless-enabled Multi-Chip AI Accelerators**|Emmanuel Irabor et.al.|[2501.17567](http://arxiv.org/abs/2501.17567)|null|
+|**2025-01-26**|**Task Scheduling in Geo-Distributed Computing: A Survey**|Yujian Wu et.al.|[2501.15504](http://arxiv.org/abs/2501.15504)|null|
+|**2025-01-25**|**A Game-Theoretic Framework for Distributed Load Balancing: Static and Dynamic Game Models**|Fatemeh Fardno et.al.|[2501.15324](http://arxiv.org/abs/2501.15324)|null|
+|**2025-01-24**|**Locality-aware Fair Scheduling in LLM Serving**|Shiyi Cao et.al.|[2501.14312](http://arxiv.org/abs/2501.14312)|null|
+|**2025-01-22**|**A transformer-based deep q learning approach for dynamic load balancing in software-defined networks**|Evans Tetteh Owusu et.al.|[2501.12829](http://arxiv.org/abs/2501.12829)|null|
+|**2025-01-21**|**Distributed Multi-Head Learning Systems for Power Consumption Prediction**|Jia-Hao Syu et.al.|[2501.12133](http://arxiv.org/abs/2501.12133)|null|
+|**2025-01-21**|**ENTIRE: Learning-based Volume Rendering Time Prediction**|Zikai Yin et.al.|[2501.12119](http://arxiv.org/abs/2501.12119)|null|
 
 ## CPU and Memory Cache
 
@@ -169,6 +189,16 @@ layout: default
 |**2025-03-19**|**Formalising CXL Cache Coherence**|Chengsong Tan et.al.|[2410.15908](http://arxiv.org/abs/2410.15908)|**[link](https://github.com/asplos272/ASPLOS25CXLcacheFormalisation)**|
 |**2024-10-17**|**Per-Bank Bandwidth Regulation of Shared Last-Level Cache for Real-Time Systems**|Connor Sullivan et.al.|[2410.14003](http://arxiv.org/abs/2410.14003)|**[link](https://github.com/csl-ku/per-bank-regulation-firesim)**|
 |**2025-03-27**|**FlooNoC: A 645 Gbps/link 0.15 pJ/B/hop Open-Source NoC with Wide Physical Links and End-to-End AXI4 Parallel Multi-Stream Support**|Tim Fischer et.al.|[2409.17606](http://arxiv.org/abs/2409.17606)|**[link](https://github.com/pulp-platform/floonoc)**|
+|**2024-09-26**|**INT-FlashAttention: Enabling Flash Attention for INT8 Quantization**|Shimao Chen et.al.|[2409.16997](http://arxiv.org/abs/2409.16997)|**[link](https://github.com/int-flashattention2024/int-flashattention)**|
+|**2024-10-04**|**A Toolbox for Optimization of Reconstruction and Post-processing Pipelines in In Vivo $^{31}$ P MR Imaging**|Pontus Pandurevic et.al.|[2409.16221](http://arxiv.org/abs/2409.16221)|null|
+|**2024-09-21**|**CompressedMediQ: Hybrid Quantum Machine Learning Pipeline for High-Dimensional Neuroimaging Data**|Kuan-Cheng Chen et.al.|[2409.08584](http://arxiv.org/abs/2409.08584)|null|
+|**2024-08-29**|**Reconsidering the energy efficiency of spiking neural networks**|Zhanglu Yan et.al.|[2409.08290](http://arxiv.org/abs/2409.08290)|null|
+|**2024-10-28**|**Rethinking Programmed I/O for Fast Devices, Cheap Cores, and Coherent Interconnects**|Anastasiia Ruzhanskaia et.al.|[2409.08141](http://arxiv.org/abs/2409.08141)|null|
+|**2024-09-05**|**Red-Blue Pebbling with Multiple Processors: Time, Communication and Memory Trade-offs**|Toni Böhnlein et.al.|[2409.03898](http://arxiv.org/abs/2409.03898)|null|
+|**2025-02-23**|**Cache Coherence Over Disaggregated Memory**|Ruihong Wang et.al.|[2409.02088](http://arxiv.org/abs/2409.02088)|null|
+|**2024-12-19**|**Exposing Shadow Branches**|Chrysanthos Pepi et.al.|[2408.12592](http://arxiv.org/abs/2408.12592)|null|
+|**2024-08-21**|**Telepathic Datacenters: Fast RPCs using Shared CXL Memory**|Suyash Mahar et.al.|[2408.11325](http://arxiv.org/abs/2408.11325)|null|
+|**2024-08-18**|**Scalable Systems and Software Architectures for High-Performance Computing on cloud platforms**|Risshab Srinivas Ramesh et.al.|[2408.10281](http://arxiv.org/abs/2408.10281)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
