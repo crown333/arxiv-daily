@@ -107,7 +107,6 @@ def get_daily_papers(topic, query="slam", max_results=30):
     for result in search_engine.results():
         publish_time = result.published.date()
         
-        # 只保留过去一年的论文
         if publish_time >= cutoff_date:
             paper_id = result.get_short_id()
             paper_title = result.title
@@ -151,7 +150,6 @@ def get_daily_papers(topic, query="slam", max_results=30):
                 else:
                     content_to_web[paper_key] += f"\n"
 
-                # 当达到 max_results 时停止
                 if len(content) >= max_results:
                     break
 
