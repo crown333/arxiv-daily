@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2025.04.03
+## Updated on 2025.04.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vector Database and Approximate Nearest Neighbor
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**Bhakti: A Lightweight Vector Database Management System for Endowing Large Language Models with Semantic Search Capabilities and Memory**|Zihao Wu et.al.|[2504.01553](http://arxiv.org/abs/2504.01553)|null|
+|**2025-04-01**|**Knowledge-Base based Semantic Image Transmission Using CLIP**|Chongyang Li et.al.|[2504.01053](http://arxiv.org/abs/2504.01053)|null|
+|**2025-03-31**|**Universal Zero-shot Embedding Inversion**|Collin Zhang et.al.|[2504.00147](http://arxiv.org/abs/2504.00147)|null|
 |**2025-03-30**|**LIRA: A Learning-based Query-aware Partition Framework for Large-scale ANN Search**|Ximu Zeng et.al.|[2503.23409](http://arxiv.org/abs/2503.23409)|**[link](https://github.com/simonezeng/lira-ann-search)**|
 |**2025-03-28**|**MultiClaimNet: A Massively Multilingual Dataset of Fact-Checked Claim Clusters**|Rrubaa Panchendrarajan et.al.|[2503.22280](http://arxiv.org/abs/2503.22280)|null|
 |**2025-03-27**|**PilotANN: Memory-Bounded GPU Acceleration for Vector Search**|Yuntao Gui et.al.|[2503.21206](http://arxiv.org/abs/2503.21206)|**[link](https://github.com/ytgui/pilotann)**|
@@ -74,6 +77,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**Dynamic Incentive Strategies for Smart EV Charging Stations: An LLM-Driven User Digital Twin Approach**|Yichen Sun et.al.|[2504.01423](http://arxiv.org/abs/2504.01423)|null|
 |**2025-04-01**|**A Performance Analysis of Task Scheduling for UQ Workflows on HPC Systems**|Chung Ming Loi et.al.|[2503.22645](http://arxiv.org/abs/2503.22645)|null|
 |**2025-03-28**|**Service-the-Longest-Queue Among d Choices Policy for Quantum Entanglement Switching**|Guo Xian Yau et.al.|[2503.22292](http://arxiv.org/abs/2503.22292)|null|
 |**2025-03-25**|**Obstructions for homomorphisms to odd cycles in series-parallel graphs**|Eun-Kyung Cho et.al.|[2503.19411](http://arxiv.org/abs/2503.19411)|null|
@@ -139,7 +143,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-28**|**A Pilot Study on Tunable Precision Emulation via Automatic BLAS Offloading**|Hang Liu et.al.|[2503.22875](http://arxiv.org/abs/2503.22875)|null|
+|**2025-04-02**|**A Pilot Study on Tunable Precision Emulation via Automatic BLAS Offloading**|Hang Liu et.al.|[2503.22875](http://arxiv.org/abs/2503.22875)|null|
 |**2025-03-28**|**Hiding Latencies in Network-Based Image Loading for Deep Learning**|Francesco Versaci et.al.|[2503.22643](http://arxiv.org/abs/2503.22643)|null|
 |**2025-03-26**|**Can geometric combinatorics improve RNA branching predictions?**|Svetlana Poznanović et.al.|[2503.20977](http://arxiv.org/abs/2503.20977)|**[link](https://github.com/gtDMMB/pmfe2023)**|
 |**2025-03-26**|**Unlocking the Hidden Potential of CLIP in Generalizable Deepfake Detection**|Andrii Yermakov et.al.|[2503.19683](http://arxiv.org/abs/2503.19683)|**[link](https://github.com/yermandy/deepfake-detection)**|
