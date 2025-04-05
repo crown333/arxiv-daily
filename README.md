@@ -1,4 +1,4 @@
-## Updated on 2025.04.04
+## Updated on 2025.04.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,7 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-04-02**|**Bhakti: A Lightweight Vector Database Management System for Endowing Large Language Models with Semantic Search Capabilities and Memory**|Zihao Wu et.al.|[2504.01553](http://arxiv.org/abs/2504.01553)|null|
+|**2025-04-02**|**Bhakti: A Lightweight Vector Database Management System for Endowing Large Language Models with Semantic Search Capabilities and Memory**|Zihao Wu et.al.|[2504.01553](http://arxiv.org/abs/2504.01553)|**[link](https://github.com/vortezwohl/bhakti)**|
 |**2025-04-01**|**Knowledge-Base based Semantic Image Transmission Using CLIP**|Chongyang Li et.al.|[2504.01053](http://arxiv.org/abs/2504.01053)|null|
 |**2025-03-31**|**Universal Zero-shot Embedding Inversion**|Collin Zhang et.al.|[2504.00147](http://arxiv.org/abs/2504.00147)|null|
 |**2025-03-30**|**LIRA: A Learning-based Query-aware Partition Framework for Large-scale ANN Search**|Ximu Zeng et.al.|[2503.23409](http://arxiv.org/abs/2503.23409)|**[link](https://github.com/simonezeng/lira-ann-search)**|
@@ -78,14 +78,14 @@
 |**2024-12-30**|**LLM-assisted Vector Similarity Search**|Md Riyadh et.al.|[2412.18819](http://arxiv.org/abs/2412.18819)|null|
 |**2024-12-25**|**Optimization and Scalability of Collaborative Filtering Algorithms in Large Language Models**|Haowei Yang et.al.|[2412.18715](http://arxiv.org/abs/2412.18715)|null|
 
-<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250405>back to top</a>)</p>
 
 ## Parallel and Concurrent Algorithms
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-04-02**|**Dynamic Incentive Strategies for Smart EV Charging Stations: An LLM-Driven User Digital Twin Approach**|Yichen Sun et.al.|[2504.01423](http://arxiv.org/abs/2504.01423)|null|
-|**2025-04-01**|**A Performance Analysis of Task Scheduling for UQ Workflows on HPC Systems**|Chung Ming Loi et.al.|[2503.22645](http://arxiv.org/abs/2503.22645)|null|
+|**2025-04-01**|**A Performance Analysis of Task Scheduling for UQ Workflows on HPC Systems**|Chung Ming Loi et.al.|[2503.22645](http://arxiv.org/abs/2503.22645)|**[link](https://github.com/chun9l/UMBridge_Loadbalancer)**|
 |**2025-03-28**|**Service-the-Longest-Queue Among d Choices Policy for Quantum Entanglement Switching**|Guo Xian Yau et.al.|[2503.22292](http://arxiv.org/abs/2503.22292)|null|
 |**2025-03-25**|**Obstructions for homomorphisms to odd cycles in series-parallel graphs**|Eun-Kyung Cho et.al.|[2503.19411](http://arxiv.org/abs/2503.19411)|null|
 |**2025-03-25**|**A Reliable and Efficient 5G Vehicular MEC: Guaranteed Task Completion with Minimal Latency**|Mahsa Paknejad et.al.|[2503.19320](http://arxiv.org/abs/2503.19320)|null|
@@ -146,14 +146,15 @@
 |**2025-01-21**|**Distributed Multi-Head Learning Systems for Power Consumption Prediction**|Jia-Hao Syu et.al.|[2501.12133](http://arxiv.org/abs/2501.12133)|null|
 |**2025-01-21**|**ENTIRE: Learning-based Volume Rendering Time Prediction**|Zikai Yin et.al.|[2501.12119](http://arxiv.org/abs/2501.12119)|null|
 
-<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250405>back to top</a>)</p>
 
 ## CPU and Memory Cache
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-03**|**OmniTalker: Real-Time Text-Driven Talking Head Generation with In-Context Audio-Visual Style Replication**|Zhongjian Wang et.al.|[2504.02433](http://arxiv.org/abs/2504.02433)|null|
 |**2025-04-02**|**A Pilot Study on Tunable Precision Emulation via Automatic BLAS Offloading**|Hang Liu et.al.|[2503.22875](http://arxiv.org/abs/2503.22875)|null|
-|**2025-03-28**|**Hiding Latencies in Network-Based Image Loading for Deep Learning**|Francesco Versaci et.al.|[2503.22643](http://arxiv.org/abs/2503.22643)|null|
+|**2025-03-28**|**Hiding Latencies in Network-Based Image Loading for Deep Learning**|Francesco Versaci et.al.|[2503.22643](http://arxiv.org/abs/2503.22643)|**[link](https://github.com/fversaci/cassandra-dali-plugin)**|
 |**2025-03-26**|**Can geometric combinatorics improve RNA branching predictions?**|Svetlana Poznanović et.al.|[2503.20977](http://arxiv.org/abs/2503.20977)|**[link](https://github.com/gtDMMB/pmfe2023)**|
 |**2025-03-26**|**Unlocking the Hidden Potential of CLIP in Generalizable Deepfake Detection**|Andrii Yermakov et.al.|[2503.19683](http://arxiv.org/abs/2503.19683)|**[link](https://github.com/yermandy/deepfake-detection)**|
 |**2025-03-23**|**Formal Verification of Parameterized Systems based on Induction**|Jiaqi Xiu et.al.|[2503.18030](http://arxiv.org/abs/2503.18030)|null|
@@ -213,7 +214,7 @@
 |**2024-08-21**|**Telepathic Datacenters: Fast RPCs using Shared CXL Memory**|Suyash Mahar et.al.|[2408.11325](http://arxiv.org/abs/2408.11325)|null|
 |**2024-08-18**|**Scalable Systems and Software Architectures for High-Performance Computing on cloud platforms**|Risshab Srinivas Ramesh et.al.|[2408.10281](http://arxiv.org/abs/2408.10281)|null|
 
-<p align=right>(<a href=#updated-on-20250404>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250405>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
