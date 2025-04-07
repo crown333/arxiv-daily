@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.06
+## Updated on 2025.04.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vector Database and Approximate Nearest Neighbor
@@ -11,7 +11,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-02**|**Bhakti: A Lightweight Vector Database Management System for Endowing Large Language Models with Semantic Search Capabilities and Memory**|Zihao Wu et.al.|[2504.01553](http://arxiv.org/abs/2504.01553)|**[link](https://github.com/vortezwohl/bhakti)**|
 |**2025-04-01**|**Knowledge-Base based Semantic Image Transmission Using CLIP**|Chongyang Li et.al.|[2504.01053](http://arxiv.org/abs/2504.01053)|null|
-|**2025-03-31**|**Universal Zero-shot Embedding Inversion**|Collin Zhang et.al.|[2504.00147](http://arxiv.org/abs/2504.00147)|null|
+|**2025-03-31**|**Universal Zero-shot Embedding Inversion**|Collin Zhang et.al.|[2504.00147](http://arxiv.org/abs/2504.00147)|**[link](https://github.com/collinzrj/adversarial_decoding)**|
 |**2025-03-30**|**LIRA: A Learning-based Query-aware Partition Framework for Large-scale ANN Search**|Ximu Zeng et.al.|[2503.23409](http://arxiv.org/abs/2503.23409)|**[link](https://github.com/simonezeng/lira-ann-search)**|
 |**2025-03-28**|**MultiClaimNet: A Massively Multilingual Dataset of Fact-Checked Claim Clusters**|Rrubaa Panchendrarajan et.al.|[2503.22280](http://arxiv.org/abs/2503.22280)|null|
 |**2025-03-27**|**PilotANN: Memory-Bounded GPU Acceleration for Vector Search**|Yuntao Gui et.al.|[2503.21206](http://arxiv.org/abs/2503.21206)|**[link](https://github.com/ytgui/pilotann)**|
@@ -49,7 +49,7 @@ layout: default
 |**2025-02-11**|**DEG: Efficient Hybrid Vector Search Using the Dynamic Edge Navigation Graph**|Ziqi Yin et.al.|[2502.07343](http://arxiv.org/abs/2502.07343)|**[link](https://github.com/Heisenberg-Yin/DEG)**|
 |**2025-02-11**|**Graph RAG-Tool Fusion**|Elias Lumer et.al.|[2502.07223](http://arxiv.org/abs/2502.07223)|**[link](https://github.com/eliaslumer/graph-rag-tool-fusion-toollinkos)**|
 |**2025-02-10**|**Scalable k-Means Clustering for Large k via Seeded Approximate Nearest-Neighbor Search**|Jack Spalding-Jamieson et.al.|[2502.06163](http://arxiv.org/abs/2502.06163)|**[link](https://github.com/jacketsj/mopbucket)**|
-|**2025-02-06**|**Adaptive Semantic Prompt Caching with VectorQ**|Luis Gaspar Schroeder et.al.|[2502.03771](http://arxiv.org/abs/2502.03771)|null|
+|**2025-04-04**|**Adaptive Semantic Prompt Caching with VectorQ**|Luis Gaspar Schroeder et.al.|[2502.03771](http://arxiv.org/abs/2502.03771)|null|
 |**2025-02-10**|**AdaPhish: AI-Powered Adaptive Defense and Education Resource Against Deceptive Emails**|Rei Meguro et.al.|[2502.03622](http://arxiv.org/abs/2502.03622)|null|
 |**2025-02-03**|**SQUASH: Serverless and Distributed Quantization-based Attributed Vector Similarity Search**|Joe Oakley et.al.|[2502.01528](http://arxiv.org/abs/2502.01528)|**[link](https://github.com/squash-authors/squash)**|
 |**2025-02-03**|**Knowledge Synthesis of Photosynthesis Research Using a Large Language Model**|Seungri Yoon et.al.|[2502.01059](http://arxiv.org/abs/2502.01059)|null|
