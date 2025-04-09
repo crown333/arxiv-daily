@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.04.08
+## Updated on 2025.04.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vector Database and Approximate Nearest Neighbor
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-07**|**RS-RAG: Bridging Remote Sensing Imagery and Comprehensive Knowledge with a Multi-Modal Dataset and Retrieval-Augmented Generation Model**|Congcong Wen et.al.|[2504.04988](http://arxiv.org/abs/2504.04988)|null|
 |**2025-04-04**|**Local Search for Clustering in Almost-linear Time**|Shaofeng H. -C. Jiang et.al.|[2504.03513](http://arxiv.org/abs/2504.03513)|null|
 |**2025-04-04**|**Improved Circular Dictionary Matching**|Nicola Cotumaccio et.al.|[2504.03394](http://arxiv.org/abs/2504.03394)|null|
 |**2025-04-04**|**Talk2X -- An Open-Source Toolkit Facilitating Deployment of LLM-Powered Chatbots on the Web**|Lars Krupp et.al.|[2504.03343](http://arxiv.org/abs/2504.03343)|null|
@@ -80,6 +81,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-07**|**The Minimum Eternal Vertex Cover Problem on a Subclass of Series-Parallel Graphs**|Tiziana Calamoneri et.al.|[2504.04897](http://arxiv.org/abs/2504.04897)|null|
+|**2025-04-06**|**SchEdge: A Dynamic, Multi-agent, and Scalable Scheduling Simulator for IoT Edge**|Ali Hamedi et.al.|[2504.04555](http://arxiv.org/abs/2504.04555)|null|
+|**2025-04-05**|**Data-driven Method to Ensure Cascade Stability of Traffic Load Balancing in O-RAN Based Networks**|Mengbang Zou et.al.|[2504.04154](http://arxiv.org/abs/2504.04154)|null|
+|**2025-04-04**|**Accurate GPU Memory Prediction for Deep Learning Jobs through Dynamic Analysis**|Jiabo Shi et.al.|[2504.03887](http://arxiv.org/abs/2504.03887)|null|
+|**2025-04-04**|**HeterMoE: Efficient Training of Mixture-of-Experts Models on Heterogeneous GPUs**|Yongji Wu et.al.|[2504.03871](http://arxiv.org/abs/2504.03871)|null|
+|**2025-02-21**|**What Every Computer Scientist Needs To Know About Parallelization**|Temitayo Adefemi et.al.|[2504.03647](http://arxiv.org/abs/2504.03647)|null|
 |**2025-04-02**|**Dynamic Incentive Strategies for Smart EV Charging Stations: An LLM-Driven User Digital Twin Approach**|Yichen Sun et.al.|[2504.01423](http://arxiv.org/abs/2504.01423)|null|
 |**2025-04-04**|**AMP4EC: Adaptive Model Partitioning Framework for Efficient Deep Learning Inference in Edge Computing Environments**|Guilin Zhang et.al.|[2504.00407](http://arxiv.org/abs/2504.00407)|**[link](https://github.com/cloudNativeAiops/adaptive-edge-computing-framework)**|
 |**2025-04-01**|**A Performance Analysis of Task Scheduling for UQ Workflows on HPC Systems**|Chung Ming Loi et.al.|[2503.22645](http://arxiv.org/abs/2503.22645)|**[link](https://github.com/chun9l/UMBridge_Loadbalancer)**|
@@ -147,6 +154,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-05**|**Learning Cache Coherence Traffic for NoC Routing Design**|Guochu Xiong et.al.|[2504.04005](http://arxiv.org/abs/2504.04005)|null|
+|**2025-03-21**|**Fused-Tiled Layers: Minimizing Data Movement on RISC-V SoCs with Software-Managed Caches**|Victor J. B. Jung et.al.|[2504.03676](http://arxiv.org/abs/2504.03676)|null|
 |**2025-04-03**|**OmniTalker: Real-Time Text-Driven Talking Head Generation with In-Context Audio-Visual Style Replication**|Zhongjian Wang et.al.|[2504.02433](http://arxiv.org/abs/2504.02433)|null|
 |**2025-04-02**|**A Pilot Study on Tunable Precision Emulation via Automatic BLAS Offloading**|Hang Liu et.al.|[2503.22875](http://arxiv.org/abs/2503.22875)|null|
 |**2025-03-28**|**Hiding Latencies in Network-Based Image Loading for Deep Learning**|Francesco Versaci et.al.|[2503.22643](http://arxiv.org/abs/2503.22643)|**[link](https://github.com/fversaci/cassandra-dali-plugin)**|
