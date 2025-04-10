@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2025.04.09
+## Updated on 2025.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vector Database and Approximate Nearest Neighbor
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**Simplifying Data Integration: SLM-Driven Systems for Unified Semantic Queries Across Heterogeneous Databases**|Teng Lin et.al.|[2504.05634](http://arxiv.org/abs/2504.05634)|null|
+|**2025-04-08**|**MicroNN: An On-device Disk-resident Updatable Vector Database**|Jeffrey Pound et.al.|[2504.05573](http://arxiv.org/abs/2504.05573)|null|
+|**2025-04-07**|**Bridging Industrial Expertise and XR with LLM-Powered Conversational Agents**|Despina Tomkou et.al.|[2504.05527](http://arxiv.org/abs/2504.05527)|null|
 |**2025-04-07**|**RS-RAG: Bridging Remote Sensing Imagery and Comprehensive Knowledge with a Multi-Modal Dataset and Retrieval-Augmented Generation Model**|Congcong Wen et.al.|[2504.04988](http://arxiv.org/abs/2504.04988)|null|
 |**2025-04-04**|**Local Search for Clustering in Almost-linear Time**|Shaofeng H. -C. Jiang et.al.|[2504.03513](http://arxiv.org/abs/2504.03513)|null|
 |**2025-04-04**|**Improved Circular Dictionary Matching**|Nicola Cotumaccio et.al.|[2504.03394](http://arxiv.org/abs/2504.03394)|null|
@@ -81,6 +84,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-07**|**TRATSS: Transformer-Based Task Scheduling System for Autonomous Vehicles**|Yazan Youssef et.al.|[2504.05407](http://arxiv.org/abs/2504.05407)|null|
 |**2025-04-07**|**The Minimum Eternal Vertex Cover Problem on a Subclass of Series-Parallel Graphs**|Tiziana Calamoneri et.al.|[2504.04897](http://arxiv.org/abs/2504.04897)|null|
 |**2025-04-06**|**SchEdge: A Dynamic, Multi-agent, and Scalable Scheduling Simulator for IoT Edge**|Ali Hamedi et.al.|[2504.04555](http://arxiv.org/abs/2504.04555)|null|
 |**2025-04-05**|**Data-driven Method to Ensure Cascade Stability of Traffic Load Balancing in O-RAN Based Networks**|Mengbang Zou et.al.|[2504.04154](http://arxiv.org/abs/2504.04154)|null|

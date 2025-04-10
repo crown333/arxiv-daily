@@ -1,4 +1,4 @@
-## Updated on 2025.04.09
+## Updated on 2025.04.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-08**|**Simplifying Data Integration: SLM-Driven Systems for Unified Semantic Queries Across Heterogeneous Databases**|Teng Lin et.al.|[2504.05634](http://arxiv.org/abs/2504.05634)|null|
+|**2025-04-08**|**MicroNN: An On-device Disk-resident Updatable Vector Database**|Jeffrey Pound et.al.|[2504.05573](http://arxiv.org/abs/2504.05573)|null|
+|**2025-04-07**|**Bridging Industrial Expertise and XR with LLM-Powered Conversational Agents**|Despina Tomkou et.al.|[2504.05527](http://arxiv.org/abs/2504.05527)|null|
 |**2025-04-07**|**RS-RAG: Bridging Remote Sensing Imagery and Comprehensive Knowledge with a Multi-Modal Dataset and Retrieval-Augmented Generation Model**|Congcong Wen et.al.|[2504.04988](http://arxiv.org/abs/2504.04988)|null|
 |**2025-04-04**|**Local Search for Clustering in Almost-linear Time**|Shaofeng H. -C. Jiang et.al.|[2504.03513](http://arxiv.org/abs/2504.03513)|null|
 |**2025-04-04**|**Improved Circular Dictionary Matching**|Nicola Cotumaccio et.al.|[2504.03394](http://arxiv.org/abs/2504.03394)|null|
@@ -82,12 +85,13 @@
 |**2024-12-30**|**LLM-assisted Vector Similarity Search**|Md Riyadh et.al.|[2412.18819](http://arxiv.org/abs/2412.18819)|null|
 |**2024-12-25**|**Optimization and Scalability of Collaborative Filtering Algorithms in Large Language Models**|Haowei Yang et.al.|[2412.18715](http://arxiv.org/abs/2412.18715)|null|
 
-<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250410>back to top</a>)</p>
 
 ## Parallel and Concurrent Algorithms
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-07**|**TRATSS: Transformer-Based Task Scheduling System for Autonomous Vehicles**|Yazan Youssef et.al.|[2504.05407](http://arxiv.org/abs/2504.05407)|null|
 |**2025-04-07**|**The Minimum Eternal Vertex Cover Problem on a Subclass of Series-Parallel Graphs**|Tiziana Calamoneri et.al.|[2504.04897](http://arxiv.org/abs/2504.04897)|null|
 |**2025-04-06**|**SchEdge: A Dynamic, Multi-agent, and Scalable Scheduling Simulator for IoT Edge**|Ali Hamedi et.al.|[2504.04555](http://arxiv.org/abs/2504.04555)|null|
 |**2025-04-05**|**Data-driven Method to Ensure Cascade Stability of Traffic Load Balancing in O-RAN Based Networks**|Mengbang Zou et.al.|[2504.04154](http://arxiv.org/abs/2504.04154)|null|
@@ -157,7 +161,7 @@
 |**2025-01-21**|**Distributed Multi-Head Learning Systems for Power Consumption Prediction**|Jia-Hao Syu et.al.|[2501.12133](http://arxiv.org/abs/2501.12133)|null|
 |**2025-01-21**|**ENTIRE: Learning-based Volume Rendering Time Prediction**|Zikai Yin et.al.|[2501.12119](http://arxiv.org/abs/2501.12119)|null|
 
-<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250410>back to top</a>)</p>
 
 ## CPU and Memory Cache
 
@@ -227,7 +231,7 @@
 |**2024-08-21**|**Telepathic Datacenters: Fast RPCs using Shared CXL Memory**|Suyash Mahar et.al.|[2408.11325](http://arxiv.org/abs/2408.11325)|null|
 |**2024-08-18**|**Scalable Systems and Software Architectures for High-Performance Computing on cloud platforms**|Risshab Srinivas Ramesh et.al.|[2408.10281](http://arxiv.org/abs/2408.10281)|null|
 
-<p align=right>(<a href=#updated-on-20250409>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250410>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
