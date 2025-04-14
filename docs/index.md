@@ -2,21 +2,21 @@
 layout: default
 ---
 
-## Updated on 2025.04.13
+## Updated on 2025.04.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vector Database and Approximate Nearest Neighbor
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-10**|**A System for Comprehensive Assessment of RAG Frameworks**|Mattia Rengo et.al.|[2504.07803](http://arxiv.org/abs/2504.07803)|null|
+|**2025-04-10**|**A System for Comprehensive Assessment of RAG Frameworks**|Mattia Rengo et.al.|[2504.07803](http://arxiv.org/abs/2504.07803)|**[link](https://github.com/eustema-s-p-a/scarf)**|
 |**2025-04-08**|**Simplifying Data Integration: SLM-Driven Systems for Unified Semantic Queries Across Heterogeneous Databases**|Teng Lin et.al.|[2504.05634](http://arxiv.org/abs/2504.05634)|null|
 |**2025-04-08**|**MicroNN: An On-device Disk-resident Updatable Vector Database**|Jeffrey Pound et.al.|[2504.05573](http://arxiv.org/abs/2504.05573)|null|
 |**2025-04-07**|**Bridging Industrial Expertise and XR with LLM-Powered Conversational Agents**|Despina Tomkou et.al.|[2504.05527](http://arxiv.org/abs/2504.05527)|null|
 |**2025-04-07**|**RS-RAG: Bridging Remote Sensing Imagery and Comprehensive Knowledge with a Multi-Modal Dataset and Retrieval-Augmented Generation Model**|Congcong Wen et.al.|[2504.04988](http://arxiv.org/abs/2504.04988)|null|
 |**2025-04-04**|**Local Search for Clustering in Almost-linear Time**|Shaofeng H. -C. Jiang et.al.|[2504.03513](http://arxiv.org/abs/2504.03513)|null|
 |**2025-04-04**|**Improved Circular Dictionary Matching**|Nicola Cotumaccio et.al.|[2504.03394](http://arxiv.org/abs/2504.03394)|null|
-|**2025-04-04**|**Talk2X -- An Open-Source Toolkit Facilitating Deployment of LLM-Powered Chatbots on the Web**|Lars Krupp et.al.|[2504.03343](http://arxiv.org/abs/2504.03343)|null|
+|**2025-04-04**|**Talk2X -- An Open-Source Toolkit Facilitating Deployment of LLM-Powered Chatbots on the Web**|Lars Krupp et.al.|[2504.03343](http://arxiv.org/abs/2504.03343)|**[link](https://github.com/aiondemand/aiod-chatbot)**|
 |**2025-04-07**|**Bhakti: A Lightweight Vector Database Management System for Endowing Large Language Models with Semantic Search Capabilities and Memory**|Zihao Wu et.al.|[2504.01553](http://arxiv.org/abs/2504.01553)|**[link](https://github.com/vortezwohl/bhakti)**|
 |**2025-04-01**|**Knowledge-Base based Semantic Image Transmission Using CLIP**|Chongyang Li et.al.|[2504.01053](http://arxiv.org/abs/2504.01053)|null|
 |**2025-03-31**|**Universal Zero-shot Embedding Inversion**|Collin Zhang et.al.|[2504.00147](http://arxiv.org/abs/2504.00147)|**[link](https://github.com/collinzrj/adversarial_decoding)**|
@@ -32,13 +32,13 @@ layout: default
 |**2025-03-10**|**Approximate Hausdorff Distance for Multi-Vector Databases**|Dongfang Zhao et.al.|[2503.06833](http://arxiv.org/abs/2503.06833)|null|
 |**2025-03-07**|**Encrypted Vector Similarity Computations Using Partially Homomorphic Encryption: Applications and Performance Analysis**|Sefik Serengil et.al.|[2503.05850](http://arxiv.org/abs/2503.05850)|null|
 |**2025-03-07**|**Leveraging Approximate Caching for Faster Retrieval-Augmented Generation**|Shai Bergman et.al.|[2503.05530](http://arxiv.org/abs/2503.05530)|null|
-|**2025-03-05**|**Role of Databases in GenAI Applications**|Santosh Bhupathi et.al.|[2503.04847](http://arxiv.org/abs/2503.04847)|null|
+|**2025-04-11**|**Role of Databases in GenAI Applications**|Santosh Bhupathi et.al.|[2503.04847](http://arxiv.org/abs/2503.04847)|null|
 |**2025-02-28**|**AgroLLM: Connecting Farmers and Agricultural Practices through Large Language Models for Enhanced Knowledge Transfer and Practical Application**|Dinesh Jackson Samuel et.al.|[2503.04788](http://arxiv.org/abs/2503.04788)|null|
 |**2025-03-06**|**PDX: A Data Layout for Vector Similarity Search**|Leonardo Kuffo et.al.|[2503.04422](http://arxiv.org/abs/2503.04422)|**[link](https://github.com/cwida/pdx)**|
 |**2025-03-05**|**Find Matching Faces Based On Face Parameters**|Setu A. Bhatt et.al.|[2503.03204](http://arxiv.org/abs/2503.03204)|null|
 |**2025-03-03**|**Cracking Vector Search Indexes**|Vasilis Mageirakos et.al.|[2503.01823](http://arxiv.org/abs/2503.01823)|null|
 |**2025-03-18**|**A Topology-Aware Localized Update Strategy for Graph-Based ANN Index**|Song Yu et.al.|[2503.00402](http://arxiv.org/abs/2503.00402)|null|
-|**2025-02-28**|**Fine-Grained Retrieval-Augmented Generation for Visual Question Answering**|Zhengxuan Zhang et.al.|[2502.20964](http://arxiv.org/abs/2502.20964)|null|
+|**2025-04-11**|**Fine-Grained Retrieval-Augmented Generation for Visual Question Answering**|Zhengxuan Zhang et.al.|[2502.20964](http://arxiv.org/abs/2502.20964)|null|
 |**2025-02-28**|**Towards Reliable Vector Database Management Systems: A Software Testing Roadmap for 2030**|Shenao Wang et.al.|[2502.20812](http://arxiv.org/abs/2502.20812)|null|
 |**2025-02-28**|**Scalable Overload-Aware Graph-Based Index Construction for 10-Billion-Scale Vector Similarity Search**|Yang Shi et.al.|[2502.20695](http://arxiv.org/abs/2502.20695)|null|
 |**2025-02-26**|**Efficient Federated Search for Retrieval-Augmented Generation**|Rachid Guerraoui et.al.|[2502.19280](http://arxiv.org/abs/2502.19280)|null|
