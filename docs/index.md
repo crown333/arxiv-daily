@@ -2,14 +2,16 @@
 layout: default
 ---
 
-## Updated on 2025.04.15
+## Updated on 2025.04.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vector Database and Approximate Nearest Neighbor
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-11**|**MooseAgent: A LLM Based Multi-agent Framework for Automating Moose Simulation**|Tao Zhang et.al.|[2504.08621](http://arxiv.org/abs/2504.08621)|null|
+|**2025-04-14**|**AlayaDB: The Data Foundation for Efficient and Effective Long-context LLM Inference**|Yangshen Deng et.al.|[2504.10326](http://arxiv.org/abs/2504.10326)|null|
+|**2025-04-11**|**An Adaptive Vector Index Partitioning Scheme for Low-Latency RAG Pipeline**|Junkyum Kim et.al.|[2504.08930](http://arxiv.org/abs/2504.08930)|null|
+|**2025-04-11**|**MooseAgent: A LLM Based Multi-agent Framework for Automating Moose Simulation**|Tao Zhang et.al.|[2504.08621](http://arxiv.org/abs/2504.08621)|**[link](https://github.com/taozhan18/mooseagent)**|
 |**2025-04-10**|**A System for Comprehensive Assessment of RAG Frameworks**|Mattia Rengo et.al.|[2504.07803](http://arxiv.org/abs/2504.07803)|**[link](https://github.com/eustema-s-p-a/scarf)**|
 |**2025-04-08**|**Simplifying Data Integration: SLM-Driven Systems for Unified Semantic Queries Across Heterogeneous Databases**|Teng Lin et.al.|[2504.05634](http://arxiv.org/abs/2504.05634)|null|
 |**2025-04-08**|**MicroNN: An On-device Disk-resident Updatable Vector Database**|Jeffrey Pound et.al.|[2504.05573](http://arxiv.org/abs/2504.05573)|null|
@@ -86,6 +88,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-12**|**DynaServe: Unified and Elastic Tandem-Style Execution for Dynamic Disaggregated LLM Serving**|Chaoyi Ruan et.al.|[2504.09285](http://arxiv.org/abs/2504.09285)|null|
+|**2025-04-11**|**A Nonlinear Hash-based Optimization Method for SpMV on GPUs**|Chen Yan et.al.|[2504.08860](http://arxiv.org/abs/2504.08860)|null|
 |**2025-04-07**|**TRATSS: Transformer-Based Task Scheduling System for Autonomous Vehicles**|Yazan Youssef et.al.|[2504.05407](http://arxiv.org/abs/2504.05407)|null|
 |**2025-04-07**|**The Minimum Eternal Vertex Cover Problem on a Subclass of Series-Parallel Graphs**|Tiziana Calamoneri et.al.|[2504.04897](http://arxiv.org/abs/2504.04897)|null|
 |**2025-04-06**|**SchEdge: A Dynamic, Multi-agent, and Scalable Scheduling Simulator for IoT Edge**|Ali Hamedi et.al.|[2504.04555](http://arxiv.org/abs/2504.04555)|null|
@@ -160,6 +164,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-14**|**Understanding and Optimizing Multi-Stage AI Inference Pipelines**|Abhimanyu Rajeshkumar Bambhaniya et.al.|[2504.09775](http://arxiv.org/abs/2504.09775)|null|
+|**2025-04-13**|**A Full Spectrum of 3D Ferroelectric Memory Architectures Shaped by Polarization Sensing**|Jiahui Duan et.al.|[2504.09713](http://arxiv.org/abs/2504.09713)|null|
 |**2025-04-05**|**Learning Cache Coherence Traffic for NoC Routing Design**|Guochu Xiong et.al.|[2504.04005](http://arxiv.org/abs/2504.04005)|null|
 |**2025-03-21**|**Fused-Tiled Layers: Minimizing Data Movement on RISC-V SoCs with Software-Managed Caches**|Victor J. B. Jung et.al.|[2504.03676](http://arxiv.org/abs/2504.03676)|null|
 |**2025-04-03**|**OmniTalker: Real-Time Text-Driven Talking Head Generation with In-Context Audio-Visual Style Replication**|Zhongjian Wang et.al.|[2504.02433](http://arxiv.org/abs/2504.02433)|null|
@@ -194,7 +200,7 @@ layout: default
 |**2025-01-17**|**The NIC should be part of the OS**|Pengcheng Xu et.al.|[2501.10138](http://arxiv.org/abs/2501.10138)|null|
 |**2025-03-05**|**Modular Compilation for Quantum Chiplet Architectures**|Mingyoung Jessica Jeng et.al.|[2501.08478](http://arxiv.org/abs/2501.08478)|null|
 |**2025-01-29**|**Reciprocating Locks**|Dave Dice et.al.|[2501.02380](http://arxiv.org/abs/2501.02380)|null|
-|**2025-02-10**|**Performant Automatic BLAS Offloading on Unified Memory Architecture with OpenMP First-Touch Style Data Movement**|Junjie Li et.al.|[2501.00279](http://arxiv.org/abs/2501.00279)|null|
+|**2025-04-15**|**Performant Automatic BLAS Offloading on Unified Memory Architecture with OpenMP First-Touch Style Data Movement**|Junjie Li et.al.|[2501.00279](http://arxiv.org/abs/2501.00279)|null|
 |**2024-12-26**|**Optimizing Multi-Stage Language Models for Effective Text Retrieval**|Quang Hoang Trung et.al.|[2412.19265](http://arxiv.org/abs/2412.19265)|null|
 |**2024-12-21**|**DFModel: Design Space Optimization of Large-Scale Systems Exploiting Dataflow Mappings**|Sho Ko et.al.|[2412.16432](http://arxiv.org/abs/2412.16432)|null|
 |**2024-12-20**|**Multi-Strided Access Patterns to Boost Hardware Prefetching**|Miguel O. Blom et.al.|[2412.16001](http://arxiv.org/abs/2412.16001)|null|
