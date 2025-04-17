@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.16
+## Updated on 2025.04.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vector Database and Approximate Nearest Neighbor
@@ -88,6 +88,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-14**|**Optimizing Data Distribution and Kernel Performance for Efficient Training of Chemistry Foundation Models: A Case Study with MACE**|Jesun Firoz et.al.|[2504.10700](http://arxiv.org/abs/2504.10700)|null|
+|**2025-04-14**|**Load Balancing with Network Latencies via Distributed Gradient Descent**|Santiago R. Balseiro et.al.|[2504.10693](http://arxiv.org/abs/2504.10693)|null|
 |**2025-04-12**|**DynaServe: Unified and Elastic Tandem-Style Execution for Dynamic Disaggregated LLM Serving**|Chaoyi Ruan et.al.|[2504.09285](http://arxiv.org/abs/2504.09285)|null|
 |**2025-04-11**|**A Nonlinear Hash-based Optimization Method for SpMV on GPUs**|Chen Yan et.al.|[2504.08860](http://arxiv.org/abs/2504.08860)|null|
 |**2025-04-07**|**TRATSS: Transformer-Based Task Scheduling System for Autonomous Vehicles**|Yazan Youssef et.al.|[2504.05407](http://arxiv.org/abs/2504.05407)|null|
@@ -164,7 +166,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-14**|**Understanding and Optimizing Multi-Stage AI Inference Pipelines**|Abhimanyu Rajeshkumar Bambhaniya et.al.|[2504.09775](http://arxiv.org/abs/2504.09775)|null|
+|**2025-04-15**|**TMCIR: Token Merge Benefits Composed Image Retrieval**|Chaoyang Wang et.al.|[2504.10995](http://arxiv.org/abs/2504.10995)|null|
+|**2025-04-16**|**Understanding and Optimizing Multi-Stage AI Inference Pipelines**|Abhimanyu Rajeshkumar Bambhaniya et.al.|[2504.09775](http://arxiv.org/abs/2504.09775)|null|
 |**2025-04-13**|**A Full Spectrum of 3D Ferroelectric Memory Architectures Shaped by Polarization Sensing**|Jiahui Duan et.al.|[2504.09713](http://arxiv.org/abs/2504.09713)|null|
 |**2025-04-05**|**Learning Cache Coherence Traffic for NoC Routing Design**|Guochu Xiong et.al.|[2504.04005](http://arxiv.org/abs/2504.04005)|null|
 |**2025-03-21**|**Fused-Tiled Layers: Minimizing Data Movement on RISC-V SoCs with Software-Managed Caches**|Victor J. B. Jung et.al.|[2504.03676](http://arxiv.org/abs/2504.03676)|null|
@@ -185,7 +188,7 @@ layout: default
 |**2025-02-06**|**Light Virtualization: a proof-of-concept for hardware-based virtualization**|Francesco Ciraolo et.al.|[2502.15738](http://arxiv.org/abs/2502.15738)|null|
 |**2025-02-21**|**SAAP: Spatial awareness and Association based Prefetching of Virtual Objects in Augmented Reality at the Edge**|Nikhil Sreekumar et.al.|[2502.15192](http://arxiv.org/abs/2502.15192)|null|
 |**2025-02-18**|**HARP: A Taxonomy for Heterogeneous and Hierarchical Processors for Mixed-reuse Workloads**|Raveesh Garg et.al.|[2502.13113](http://arxiv.org/abs/2502.13113)|null|
-|**2025-02-17**|**Gem5-AcceSys: Enabling System-Level Exploration of Standard Interconnects for Novel Accelerators**|Qunyou Liu et.al.|[2502.12273](http://arxiv.org/abs/2502.12273)|null|
+|**2025-04-15**|**Gem5-AcceSys: Enabling System-Level Exploration of Standard Interconnects for Novel Accelerators**|Qunyou Liu et.al.|[2502.12273](http://arxiv.org/abs/2502.12273)|null|
 |**2025-02-16**|**Enabling Efficient Transaction Processing on CXL-Based Memory Sharing**|Zhao Wang et.al.|[2502.11046](http://arxiv.org/abs/2502.11046)|null|
 |**2025-02-15**|**Reverse Engineering the Apple M1 Conditional Branch Predictor for Out-of-Place Spectre Mistraining**|Adam Tuby et.al.|[2502.10719](http://arxiv.org/abs/2502.10719)|null|
 |**2025-02-14**|**INF^2: High-Throughput Generative Inference of Large Language Models using Near-Storage Processing**|Hongsun Jang et.al.|[2502.09921](http://arxiv.org/abs/2502.09921)|null|
