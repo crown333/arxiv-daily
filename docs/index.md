@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.21
+## Updated on 2025.04.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vector Database and Approximate Nearest Neighbor
@@ -90,6 +90,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**Decentralized Handover Parameter Optimization with MARL for Load Balancing in 5G Networks**|Yang Shen et.al.|[2504.13424](http://arxiv.org/abs/2504.13424)|null|
+|**2025-04-13**|**Optimizing Multi-Gateway LoRaWAN via Cloud-Edge Collaboration and Knowledge Distillation**|Hong Yang et.al.|[2504.13194](http://arxiv.org/abs/2504.13194)|null|
 |**2025-04-15**|**Matrix representation and GPU-optimized parallel B-spline computing**|Jiayu Wu et.al.|[2504.11498](http://arxiv.org/abs/2504.11498)|null|
 |**2025-04-14**|**Optimizing Data Distribution and Kernel Performance for Efficient Training of Chemistry Foundation Models: A Case Study with MACE**|Jesun Firoz et.al.|[2504.10700](http://arxiv.org/abs/2504.10700)|null|
 |**2025-04-14**|**Load Balancing with Network Latencies via Distributed Gradient Descent**|Santiago R. Balseiro et.al.|[2504.10693](http://arxiv.org/abs/2504.10693)|null|
@@ -169,8 +171,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**Toward Portable GPU Performance: Julia Recursive Implementation of TRMM and TRSM**|Vicki Carrica et.al.|[2504.13821](http://arxiv.org/abs/2504.13821)|null|
 |**2025-04-15**|**TMCIR: Token Merge Benefits Composed Image Retrieval**|Chaoyang Wang et.al.|[2504.10995](http://arxiv.org/abs/2504.10995)|null|
-|**2025-04-16**|**Understanding and Optimizing Multi-Stage AI Inference Pipelines**|Abhimanyu Rajeshkumar Bambhaniya et.al.|[2504.09775](http://arxiv.org/abs/2504.09775)|null|
+|**2025-04-20**|**Understanding and Optimizing Multi-Stage AI Inference Pipelines**|Abhimanyu Rajeshkumar Bambhaniya et.al.|[2504.09775](http://arxiv.org/abs/2504.09775)|null|
 |**2025-04-13**|**A Full Spectrum of 3D Ferroelectric Memory Architectures Shaped by Polarization Sensing**|Jiahui Duan et.al.|[2504.09713](http://arxiv.org/abs/2504.09713)|null|
 |**2025-04-05**|**Learning Cache Coherence Traffic for NoC Routing Design**|Guochu Xiong et.al.|[2504.04005](http://arxiv.org/abs/2504.04005)|null|
 |**2025-03-21**|**Fused-Tiled Layers: Minimizing Data Movement on RISC-V SoCs with Software-Managed Caches**|Victor J. B. Jung et.al.|[2504.03676](http://arxiv.org/abs/2504.03676)|null|
