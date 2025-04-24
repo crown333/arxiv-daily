@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.23
+## Updated on 2025.04.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vector Database and Approximate Nearest Neighbor
@@ -90,6 +90,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**GraphEdge: Dynamic Graph Partition and Task Scheduling for GNNs Computing in Edge Network**|Wenjing Xiao et.al.|[2504.15905](http://arxiv.org/abs/2504.15905)|null|
+|**2025-04-22**|**Scaling Neural-Network-Based Molecular Dynamics with Long-Range Electrostatic Interactions to 51 Nanoseconds per Day**|Jianxiong Li et.al.|[2504.15508](http://arxiv.org/abs/2504.15508)|null|
+|**2025-04-16**|**Scalability Optimization in Cloud-Based AI Inference Services: Strategies for Real-Time Load Balancing and Automated Scaling**|Yihong Jin et.al.|[2504.15296](http://arxiv.org/abs/2504.15296)|null|
 |**2025-03-26**|**Utsarjan: A smartphone App for providing kidney care and real-time assistance to children with nephrotic syndrome**|Snigdha Tiwari et.al.|[2504.13863](http://arxiv.org/abs/2504.13863)|null|
 |**2025-03-10**|**Resource Utilization Optimized Federated Learning**|Zihan Zhang et.al.|[2504.13850](http://arxiv.org/abs/2504.13850)|null|
 |**2025-04-18**|**Decentralized Handover Parameter Optimization with MARL for Load Balancing in 5G Networks**|Yang Shen et.al.|[2504.13424](http://arxiv.org/abs/2504.13424)|null|
@@ -209,7 +212,7 @@ layout: default
 |**2024-12-17**|**Accelerating End-Cloud Collaborative Inference via Near Bubble-free Pipeline Optimization**|Luyao Gao et.al.|[2501.12388](http://arxiv.org/abs/2501.12388)|null|
 |**2025-01-21**|**Memory Storyboard: Leveraging Temporal Segmentation for Streaming Self-Supervised Learning from Egocentric Videos**|Yanlai Yang et.al.|[2501.12254](http://arxiv.org/abs/2501.12254)|null|
 |**2025-01-19**|**CIBPU: A Conflict-Invisible Secure Branch Prediction Unit**|Zhe Zhou et.al.|[2501.10983](http://arxiv.org/abs/2501.10983)|null|
-|**2025-01-17**|**The NIC should be part of the OS**|Pengcheng Xu et.al.|[2501.10138](http://arxiv.org/abs/2501.10138)|null|
+|**2025-04-23**|**The NIC should be part of the OS**|Pengcheng Xu et.al.|[2501.10138](http://arxiv.org/abs/2501.10138)|null|
 |**2025-04-21**|**Modular Compilation for Quantum Chiplet Architectures**|Mingyoung Jessica Jeng et.al.|[2501.08478](http://arxiv.org/abs/2501.08478)|null|
 |**2025-01-29**|**Reciprocating Locks**|Dave Dice et.al.|[2501.02380](http://arxiv.org/abs/2501.02380)|null|
 |**2025-04-15**|**Performant Automatic BLAS Offloading on Unified Memory Architecture with OpenMP First-Touch Style Data Movement**|Junjie Li et.al.|[2501.00279](http://arxiv.org/abs/2501.00279)|null|
