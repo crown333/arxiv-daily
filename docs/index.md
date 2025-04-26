@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.25
+## Updated on 2025.04.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vector Database and Approximate Nearest Neighbor
@@ -90,6 +90,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-23**|**Transactional Cloud Applications: Status Quo, Challenges, and Opportunities**|Rodrigo Laigner et.al.|[2504.17106](http://arxiv.org/abs/2504.17106)|null|
+|**2025-04-23**|**Enhanced load balancing technique for SDN controllers: A multi-threshold approach with migration of switches**|Mohammad Kazemiesfeh et.al.|[2504.17046](http://arxiv.org/abs/2504.17046)|null|
 |**2025-04-23**|**Preemption Aware Task Scheduling for Priority and Deadline Constrained DNN Inference Task Offloading in Homogeneous Mobile-Edge Networks**|Jamie Cotter et.al.|[2504.16792](http://arxiv.org/abs/2504.16792)|null|
 |**2025-04-22**|**GraphEdge: Dynamic Graph Partition and Task Scheduling for GNNs Computing in Edge Network**|Wenjing Xiao et.al.|[2504.15905](http://arxiv.org/abs/2504.15905)|null|
 |**2025-04-22**|**Scaling Neural-Network-Based Molecular Dynamics with Long-Range Electrostatic Interactions to 51 Nanoseconds per Day**|Jianxiong Li et.al.|[2504.15508](http://arxiv.org/abs/2504.15508)|null|
