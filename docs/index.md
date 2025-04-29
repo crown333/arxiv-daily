@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.28
+## Updated on 2025.04.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vector Database and Approximate Nearest Neighbor
@@ -90,6 +90,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**Constructing Hamiltonian Decompositions of Complete $k$ -Uniform Hypergraphs**|Javad Maheri et.al.|[2504.18434](http://arxiv.org/abs/2504.18434)|null|
+|**2025-04-25**|**EcoServe: Enabling Cost-effective LLM Serving with Proactive Intra- and Inter-Instance Orchestration**|Jiangsu Du et.al.|[2504.18154](http://arxiv.org/abs/2504.18154)|null|
+|**2025-04-15**|**Fuzzy Based Secure Clustering Schemes for Wireless Sensor Networks**|Mohd Adnan et.al.|[2504.17795](http://arxiv.org/abs/2504.17795)|null|
 |**2025-04-23**|**Transactional Cloud Applications: Status Quo, Challenges, and Opportunities**|Rodrigo Laigner et.al.|[2504.17106](http://arxiv.org/abs/2504.17106)|null|
 |**2025-04-23**|**Enhanced load balancing technique for SDN controllers: A multi-threshold approach with migration of switches**|Mohammad Kazemiesfeh et.al.|[2504.17046](http://arxiv.org/abs/2504.17046)|null|
 |**2025-04-23**|**Preemption Aware Task Scheduling for Priority and Deadline Constrained DNN Inference Task Offloading in Homogeneous Mobile-Edge Networks**|Jamie Cotter et.al.|[2504.16792](http://arxiv.org/abs/2504.16792)|null|

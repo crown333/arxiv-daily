@@ -1,4 +1,4 @@
-## Updated on 2025.04.28
+## Updated on 2025.04.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -91,12 +91,15 @@
 |**2024-12-30**|**LLM-assisted Vector Similarity Search**|Md Riyadh et.al.|[2412.18819](http://arxiv.org/abs/2412.18819)|null|
 |**2024-12-25**|**Optimization and Scalability of Collaborative Filtering Algorithms in Large Language Models**|Haowei Yang et.al.|[2412.18715](http://arxiv.org/abs/2412.18715)|null|
 
-<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250429>back to top</a>)</p>
 
 ## Parallel and Concurrent Algorithms
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-25**|**Constructing Hamiltonian Decompositions of Complete $k$ -Uniform Hypergraphs**|Javad Maheri et.al.|[2504.18434](http://arxiv.org/abs/2504.18434)|null|
+|**2025-04-25**|**EcoServe: Enabling Cost-effective LLM Serving with Proactive Intra- and Inter-Instance Orchestration**|Jiangsu Du et.al.|[2504.18154](http://arxiv.org/abs/2504.18154)|null|
+|**2025-04-15**|**Fuzzy Based Secure Clustering Schemes for Wireless Sensor Networks**|Mohd Adnan et.al.|[2504.17795](http://arxiv.org/abs/2504.17795)|null|
 |**2025-04-23**|**Transactional Cloud Applications: Status Quo, Challenges, and Opportunities**|Rodrigo Laigner et.al.|[2504.17106](http://arxiv.org/abs/2504.17106)|null|
 |**2025-04-23**|**Enhanced load balancing technique for SDN controllers: A multi-threshold approach with migration of switches**|Mohammad Kazemiesfeh et.al.|[2504.17046](http://arxiv.org/abs/2504.17046)|null|
 |**2025-04-23**|**Preemption Aware Task Scheduling for Priority and Deadline Constrained DNN Inference Task Offloading in Homogeneous Mobile-Edge Networks**|Jamie Cotter et.al.|[2504.16792](http://arxiv.org/abs/2504.16792)|null|
@@ -182,7 +185,7 @@
 |**2025-01-21**|**Distributed Multi-Head Learning Systems for Power Consumption Prediction**|Jia-Hao Syu et.al.|[2501.12133](http://arxiv.org/abs/2501.12133)|null|
 |**2025-01-21**|**ENTIRE: Learning-based Volume Rendering Time Prediction**|Zikai Yin et.al.|[2501.12119](http://arxiv.org/abs/2501.12119)|null|
 
-<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250429>back to top</a>)</p>
 
 ## CPU and Memory Cache
 
@@ -258,7 +261,7 @@
 |**2024-08-21**|**Telepathic Datacenters: Fast RPCs using Shared CXL Memory**|Suyash Mahar et.al.|[2408.11325](http://arxiv.org/abs/2408.11325)|null|
 |**2024-08-18**|**Scalable Systems and Software Architectures for High-Performance Computing on cloud platforms**|Risshab Srinivas Ramesh et.al.|[2408.10281](http://arxiv.org/abs/2408.10281)|null|
 
-<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250429>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
