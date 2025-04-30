@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.04.29
+## Updated on 2025.04.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vector Database and Approximate Nearest Neighbor
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**MINT: Multi-Vector Search Index Tuning**|Jiongli Zhu et.al.|[2504.20018](http://arxiv.org/abs/2504.20018)|null|
+|**2025-04-26**|**Building Scalable AI-Powered Applications with Cloud Databases: Architectures, Best Practices and Performance Considerations**|Santosh Bhupathi et.al.|[2504.18793](http://arxiv.org/abs/2504.18793)|null|
 |**2025-04-15**|**NodeRAG: Structuring Graph-based RAG with Heterogeneous Nodes**|Tianyang Xu et.al.|[2504.11544](http://arxiv.org/abs/2504.11544)|null|
 |**2025-04-15**|**A Machine Learning Framework for Stellar Collision Transient Identification**|Betty X. Hu et.al.|[2504.11529](http://arxiv.org/abs/2504.11529)|null|
 |**2025-04-14**|**AlayaDB: The Data Foundation for Efficient and Effective Long-context LLM Inference**|Yangshen Deng et.al.|[2504.10326](http://arxiv.org/abs/2504.10326)|null|
@@ -90,6 +92,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**Taming the Titans: A Survey of Efficient LLM Inference Serving**|Ranran Zhen et.al.|[2504.19720](http://arxiv.org/abs/2504.19720)|null|
+|**2025-04-28**|**Graph Reinforcement Learning for QoS-Aware Load Balancing in Open Radio Access Networks**|Omid Semiari et.al.|[2504.19499](http://arxiv.org/abs/2504.19499)|null|
+|**2025-04-26**|**A Group Theoretic Construction of Batch Codes**|Eldho K. Thomas et.al.|[2504.18844](http://arxiv.org/abs/2504.18844)|null|
 |**2025-04-25**|**Constructing Hamiltonian Decompositions of Complete $k$ -Uniform Hypergraphs**|Javad Maheri et.al.|[2504.18434](http://arxiv.org/abs/2504.18434)|null|
 |**2025-04-25**|**EcoServe: Enabling Cost-effective LLM Serving with Proactive Intra- and Inter-Instance Orchestration**|Jiangsu Du et.al.|[2504.18154](http://arxiv.org/abs/2504.18154)|null|
 |**2025-04-15**|**Fuzzy Based Secure Clustering Schemes for Wireless Sensor Networks**|Mohd Adnan et.al.|[2504.17795](http://arxiv.org/abs/2504.17795)|null|
@@ -182,6 +187,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**3D MPSoC with On-Chip Cache Support -- Design and Exploitation**|Rodrigo Cataldo et.al.|[2504.19984](http://arxiv.org/abs/2504.19984)|null|
+|**2025-04-25**|**On Queueing Theory for Large-Scale CI/CD Pipelines Optimization**|Grégory Bournassenko et.al.|[2504.18705](http://arxiv.org/abs/2504.18705)|null|
 |**2025-04-22**|**The Dawn of Disaggregation and the Coherence Conundrum: A Call for Federated Coherence**|Jaewan Hong et.al.|[2504.16324](http://arxiv.org/abs/2504.16324)|null|
 |**2025-04-21**|**Is Intelligence the Right Direction in New OS Scheduling for Multiple Resources in Cloud Environments?**|Xinglei Dou et.al.|[2504.15021](http://arxiv.org/abs/2504.15021)|null|
 |**2025-04-18**|**Toward Portable GPU Performance: Julia Recursive Implementation of TRMM and TRSM**|Vicki Carrica et.al.|[2504.13821](http://arxiv.org/abs/2504.13821)|null|
