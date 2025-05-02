@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.05.01
+## Updated on 2025.05.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vector Database and Approximate Nearest Neighbor
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-09**|**The Joint Distance Measure: A Measure of Similarity Accounting for Spatial and Angular Distances**|Abeeb A. Awotunde et.al.|[2504.21005](http://arxiv.org/abs/2504.21005)|null|
 |**2025-04-30**|**Efficient Graph-Based Approximate Nearest Neighbor Search Achieving: Low Latency Without Throughput Loss**|Jingjia Luo et.al.|[2504.20461](http://arxiv.org/abs/2504.20461)|null|
 |**2025-04-28**|**MINT: Multi-Vector Search Index Tuning**|Jiongli Zhu et.al.|[2504.20018](http://arxiv.org/abs/2504.20018)|null|
 |**2025-04-26**|**Building Scalable AI-Powered Applications with Cloud Databases: Architectures, Best Practices and Performance Considerations**|Santosh Bhupathi et.al.|[2504.18793](http://arxiv.org/abs/2504.18793)|null|
@@ -93,6 +94,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-30**|**Coyote v2: Raising the Level of Abstraction for Data Center FPGAs**|Benjamin Ramhorst et.al.|[2504.21538](http://arxiv.org/abs/2504.21538)|null|
+|**2025-04-30**|**Scientific Workflow Scheduling in Cloud Considering Cold Start and Variable Pricing Model**|Suvarthi Sarkar et.al.|[2504.21536](http://arxiv.org/abs/2504.21536)|null|
 |**2025-04-30**|**Efficient Graph-Based Approximate Nearest Neighbor Search Achieving: Low Latency Without Throughput Loss**|Jingjia Luo et.al.|[2504.20461](http://arxiv.org/abs/2504.20461)|null|
 |**2025-04-28**|**Taming the Titans: A Survey of Efficient LLM Inference Serving**|Ranran Zhen et.al.|[2504.19720](http://arxiv.org/abs/2504.19720)|null|
 |**2025-04-28**|**Graph Reinforcement Learning for QoS-Aware Load Balancing in Open Radio Access Networks**|Omid Semiari et.al.|[2504.19499](http://arxiv.org/abs/2504.19499)|null|
@@ -213,7 +216,7 @@ layout: default
 |**2025-03-04**|**VQ-LLM: High-performance Code Generation for Vector Quantization Augmented LLM Inference**|Zihan Liu et.al.|[2503.02236](http://arxiv.org/abs/2503.02236)|null|
 |**2025-02-28**|**Cicada: A Pipeline-Efficient Approach to Serverless Inference with Decoupled Management**|Z. Wu et.al.|[2502.20959](http://arxiv.org/abs/2502.20959)|null|
 |**2025-02-28**|**$R^4$ : A Racetrack Register File with Runtime Software Reconfiguration**|Christian Hakert et.al.|[2502.20775](http://arxiv.org/abs/2502.20775)|null|
-|**2025-02-23**|**TerEffic: Highly Efficient Ternary LLM Inference on FPGA**|Chenyang Yin et.al.|[2502.16473](http://arxiv.org/abs/2502.16473)|null|
+|**2025-05-01**|**TerEffic: Highly Efficient Ternary LLM Inference on FPGA**|Chenyang Yin et.al.|[2502.16473](http://arxiv.org/abs/2502.16473)|null|
 |**2025-02-06**|**Light Virtualization: a proof-of-concept for hardware-based virtualization**|Francesco Ciraolo et.al.|[2502.15738](http://arxiv.org/abs/2502.15738)|null|
 |**2025-04-24**|**SPAARC: Spatial Proximity and Association based prefetching for Augmented Reality in edge Cache**|Nikhil Sreekumar et.al.|[2502.15192](http://arxiv.org/abs/2502.15192)|null|
 |**2025-02-18**|**HARP: A Taxonomy for Heterogeneous and Hierarchical Processors for Mixed-reuse Workloads**|Raveesh Garg et.al.|[2502.13113](http://arxiv.org/abs/2502.13113)|null|
