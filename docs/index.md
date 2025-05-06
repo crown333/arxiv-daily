@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.05
+## Updated on 2025.05.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vector Database and Approximate Nearest Neighbor
@@ -194,6 +194,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**The Open-Source BlackParrot-BedRock Cache Coherence System**|Mark Unruh Wyse et.al.|[2505.00962](http://arxiv.org/abs/2505.00962)|null|
 |**2025-05-01**|**HP-MDR: High-performance and Portable Data Refactoring and Progressive Retrieval with Advanced GPUs**|Yanliang Li et.al.|[2505.00227](http://arxiv.org/abs/2505.00227)|null|
 |**2025-04-29**|**DEER: Deep Runahead for Instruction Prefetching on Modern Mobile Workloads**|Parmida Vahdatniya et.al.|[2504.20387](http://arxiv.org/abs/2504.20387)|null|
 |**2025-04-28**|**3D MPSoC with On-Chip Cache Support -- Design and Exploitation**|Rodrigo Cataldo et.al.|[2504.19984](http://arxiv.org/abs/2504.19984)|null|
