@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.05.06
+## Updated on 2025.05.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vector Database and Approximate Nearest Neighbor
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-04**|**Subspace Aggregation Query and Index Generation for Multidimensional Resource Space Mode**|Xiaoping Sun et.al.|[2505.02129](http://arxiv.org/abs/2505.02129)|null|
+|**2025-05-02**|**HoneyBee: Efficient Role-based Access Control for Vector Databases via Dynamic Partitioning**|Hongbin Zhong et.al.|[2505.01538](http://arxiv.org/abs/2505.01538)|null|
 |**2025-04-09**|**The Joint Distance Measure: A Measure of Similarity Accounting for Spatial and Angular Distances**|Abeeb A. Awotunde et.al.|[2504.21005](http://arxiv.org/abs/2504.21005)|null|
 |**2025-04-30**|**Efficient Graph-Based Approximate Nearest Neighbor Search Achieving: Low Latency Without Throughput Loss**|Jingjia Luo et.al.|[2504.20461](http://arxiv.org/abs/2504.20461)|null|
 |**2025-04-28**|**MINT: Multi-Vector Search Index Tuning**|Jiongli Zhu et.al.|[2504.20018](http://arxiv.org/abs/2504.20018)|null|
@@ -94,6 +96,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-05**|**Spatiotemporal Non-Uniformity-Aware Online Task Scheduling in Collaborative Edge Computing for Industrial Internet of Things**|Yang Li et.al.|[2505.02597](http://arxiv.org/abs/2505.02597)|null|
+|**2025-05-04**|**Paired 2-disjoint path covers of Bcube under the partitioned edge fault model**|Qingqiong Cai et.al.|[2505.02150](http://arxiv.org/abs/2505.02150)|null|
+|**2025-05-03**|**LCI: a Lightweight Communication Interface for Efficient Asynchronous Multithreaded Communication**|Jiakun Yan et.al.|[2505.01864](http://arxiv.org/abs/2505.01864)|null|
 |**2025-05-01**|**New Distributed Interactive Proofs for Planarity: A Matter of Left and Right**|Yuval Gil et.al.|[2505.00338](http://arxiv.org/abs/2505.00338)|null|
 |**2025-05-01**|**Intelligent Task Scheduling for Microservices via A3C-Based Reinforcement Learning**|Yang Wang et.al.|[2505.00299](http://arxiv.org/abs/2505.00299)|null|
 |**2025-04-30**|**Coyote v2: Raising the Level of Abstraction for Data Center FPGAs**|Benjamin Ramhorst et.al.|[2504.21538](http://arxiv.org/abs/2504.21538)|null|
