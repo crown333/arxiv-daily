@@ -1,4 +1,4 @@
-## Updated on 2025.05.07
+## Updated on 2025.05.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**Elastic Index Select for Label-Hybrid Search in Vector Database**|Mingyu Yang et.al.|[2505.03212](http://arxiv.org/abs/2505.03212)|null|
 |**2025-05-04**|**Subspace Aggregation Query and Index Generation for Multidimensional Resource Space Mode**|Xiaoping Sun et.al.|[2505.02129](http://arxiv.org/abs/2505.02129)|null|
 |**2025-05-02**|**HoneyBee: Efficient Role-based Access Control for Vector Databases via Dynamic Partitioning**|Hongbin Zhong et.al.|[2505.01538](http://arxiv.org/abs/2505.01538)|null|
 |**2025-04-09**|**The Joint Distance Measure: A Measure of Similarity Accounting for Spatial and Angular Distances**|Abeeb A. Awotunde et.al.|[2504.21005](http://arxiv.org/abs/2504.21005)|null|
@@ -97,12 +98,16 @@
 |**2024-12-30**|**LLM-assisted Vector Similarity Search**|Md Riyadh et.al.|[2412.18819](http://arxiv.org/abs/2412.18819)|null|
 |**2024-12-25**|**Optimization and Scalability of Collaborative Filtering Algorithms in Large Language Models**|Haowei Yang et.al.|[2412.18715](http://arxiv.org/abs/2412.18715)|null|
 
-<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
 
 ## Parallel and Concurrent Algorithms
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**RoboOS: A Hierarchical Embodied Framework for Cross-Embodiment and Multi-Agent Collaboration**|Huajie Tan et.al.|[2505.03673](http://arxiv.org/abs/2505.03673)|null|
+|**2025-05-06**|**Dynamic load balancing for cloud systems under heterogeneous setup delays**|Fernando Paganini et.al.|[2505.03596](http://arxiv.org/abs/2505.03596)|null|
+|**2025-05-06**|**Hierarchical dynamic domain decomposition for the multiscale Boltzmann equation**|Domenico Caparello et.al.|[2505.03360](http://arxiv.org/abs/2505.03360)|null|
+|**2025-05-05**|**Multiscale Parallel Simulation of Malignant Pleural Mesothelioma via Adaptive Domain Partitioning -- an Efficiency Analysis Study**|Anton Dolganov et.al.|[2505.03067](http://arxiv.org/abs/2505.03067)|null|
 |**2025-05-05**|**Spatiotemporal Non-Uniformity-Aware Online Task Scheduling in Collaborative Edge Computing for Industrial Internet of Things**|Yang Li et.al.|[2505.02597](http://arxiv.org/abs/2505.02597)|null|
 |**2025-05-04**|**Paired 2-disjoint path covers of Bcube under the partitioned edge fault model**|Qingqiong Cai et.al.|[2505.02150](http://arxiv.org/abs/2505.02150)|null|
 |**2025-05-03**|**LCI: a Lightweight Communication Interface for Efficient Asynchronous Multithreaded Communication**|Jiakun Yan et.al.|[2505.01864](http://arxiv.org/abs/2505.01864)|null|
@@ -202,7 +207,7 @@
 |**2025-01-21**|**Distributed Multi-Head Learning Systems for Power Consumption Prediction**|Jia-Hao Syu et.al.|[2501.12133](http://arxiv.org/abs/2501.12133)|null|
 |**2025-01-21**|**ENTIRE: Learning-based Volume Rendering Time Prediction**|Zikai Yin et.al.|[2501.12119](http://arxiv.org/abs/2501.12119)|null|
 
-<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
 
 ## CPU and Memory Cache
 
@@ -252,7 +257,7 @@
 |**2025-01-19**|**CIBPU: A Conflict-Invisible Secure Branch Prediction Unit**|Zhe Zhou et.al.|[2501.10983](http://arxiv.org/abs/2501.10983)|null|
 |**2025-04-23**|**The NIC should be part of the OS**|Pengcheng Xu et.al.|[2501.10138](http://arxiv.org/abs/2501.10138)|null|
 |**2025-04-21**|**Modular Compilation for Quantum Chiplet Architectures**|Mingyoung Jessica Jeng et.al.|[2501.08478](http://arxiv.org/abs/2501.08478)|null|
-|**2025-01-29**|**Reciprocating Locks**|Dave Dice et.al.|[2501.02380](http://arxiv.org/abs/2501.02380)|null|
+|**2025-05-06**|**Reciprocating Locks**|Dave Dice et.al.|[2501.02380](http://arxiv.org/abs/2501.02380)|null|
 |**2025-04-15**|**Performant Automatic BLAS Offloading on Unified Memory Architecture with OpenMP First-Touch Style Data Movement**|Junjie Li et.al.|[2501.00279](http://arxiv.org/abs/2501.00279)|null|
 |**2024-12-26**|**Optimizing Multi-Stage Language Models for Effective Text Retrieval**|Quang Hoang Trung et.al.|[2412.19265](http://arxiv.org/abs/2412.19265)|null|
 |**2024-12-21**|**DFModel: Design Space Optimization of Large-Scale Systems Exploiting Dataflow Mappings**|Sho Ko et.al.|[2412.16432](http://arxiv.org/abs/2412.16432)|null|
@@ -283,7 +288,7 @@
 |**2024-08-21**|**Telepathic Datacenters: Fast RPCs using Shared CXL Memory**|Suyash Mahar et.al.|[2408.11325](http://arxiv.org/abs/2408.11325)|null|
 |**2024-08-18**|**Scalable Systems and Software Architectures for High-Performance Computing on cloud platforms**|Risshab Srinivas Ramesh et.al.|[2408.10281](http://arxiv.org/abs/2408.10281)|null|
 
-<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
