@@ -1,4 +1,4 @@
-## Updated on 2025.05.09
+## Updated on 2025.05.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -98,16 +98,18 @@
 |**2024-12-30**|**LLM-assisted Vector Similarity Search**|Md Riyadh et.al.|[2412.18819](http://arxiv.org/abs/2412.18819)|null|
 |**2024-12-25**|**Optimization and Scalability of Collaborative Filtering Algorithms in Large Language Models**|Haowei Yang et.al.|[2412.18715](http://arxiv.org/abs/2412.18715)|null|
 
-<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250510>back to top</a>)</p>
 
 ## Parallel and Concurrent Algorithms
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**Neural Pathways to Program Success: Hopfield Networks for PERT Analysis**|Azgar Ali Noor Ahamed et.al.|[2505.05047](http://arxiv.org/abs/2505.05047)|null|
+|**2025-05-08**|**Randomized Routing to Remote Queues**|Shuangchi He et.al.|[2505.04942](http://arxiv.org/abs/2505.04942)|null|
 |**2025-05-07**|**Dynamic Network Flow Optimization for Task Scheduling in PTZ Camera Surveillance Systems**|Mohammad Merati et.al.|[2505.04596](http://arxiv.org/abs/2505.04596)|null|
 |**2025-05-07**|**Comparing CPU and GPU compute of PERMANOVA on MI300A**|Igor Sfiligoi et.al.|[2505.04556](http://arxiv.org/abs/2505.04556)|null|
 |**2025-05-07**|**Plexus: Taming Billion-edge Graphs with 3D Parallel GNN Training**|Aditya K. Ranjan et.al.|[2505.04083](http://arxiv.org/abs/2505.04083)|null|
-|**2025-05-06**|**RoboOS: A Hierarchical Embodied Framework for Cross-Embodiment and Multi-Agent Collaboration**|Huajie Tan et.al.|[2505.03673](http://arxiv.org/abs/2505.03673)|null|
+|**2025-05-06**|**RoboOS: A Hierarchical Embodied Framework for Cross-Embodiment and Multi-Agent Collaboration**|Huajie Tan et.al.|[2505.03673](http://arxiv.org/abs/2505.03673)|**[link](https://github.com/flagopen/roboos)**|
 |**2025-05-06**|**Dynamic load balancing for cloud systems under heterogeneous setup delays**|Fernando Paganini et.al.|[2505.03596](http://arxiv.org/abs/2505.03596)|null|
 |**2025-05-06**|**Hierarchical dynamic domain decomposition for the multiscale Boltzmann equation**|Domenico Caparello et.al.|[2505.03360](http://arxiv.org/abs/2505.03360)|null|
 |**2025-05-05**|**Multiscale Parallel Simulation of Malignant Pleural Mesothelioma via Adaptive Domain Partitioning -- an Efficiency Analysis Study**|Anton Dolganov et.al.|[2505.03067](http://arxiv.org/abs/2505.03067)|null|
@@ -210,12 +212,13 @@
 |**2025-01-21**|**Distributed Multi-Head Learning Systems for Power Consumption Prediction**|Jia-Hao Syu et.al.|[2501.12133](http://arxiv.org/abs/2501.12133)|null|
 |**2025-01-21**|**ENTIRE: Learning-based Volume Rendering Time Prediction**|Zikai Yin et.al.|[2501.12119](http://arxiv.org/abs/2501.12119)|null|
 
-<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250510>back to top</a>)</p>
 
 ## CPU and Memory Cache
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-07**|**SOAEsV2-7B/72B: Full-Pipeline Optimization for State-Owned Enterprise LLMs via Continual Pre-Training, Domain-Progressive SFT and Distillation-Enhanced Speculative Decoding**|Jingyang Deng et.al.|[2505.04723](http://arxiv.org/abs/2505.04723)|null|
 |**2025-05-08**|**CVA6S+: A Superscalar RISC-V Core with High-Throughput Memory Architecture**|Riccardo Tedeschi et.al.|[2505.03762](http://arxiv.org/abs/2505.03762)|null|
 |**2025-05-02**|**The Open-Source BlackParrot-BedRock Cache Coherence System**|Mark Unruh Wyse et.al.|[2505.00962](http://arxiv.org/abs/2505.00962)|null|
 |**2025-05-01**|**HP-MDR: High-performance and Portable Data Refactoring and Progressive Retrieval with Advanced GPUs**|Yanliang Li et.al.|[2505.00227](http://arxiv.org/abs/2505.00227)|null|
@@ -232,7 +235,7 @@
 |**2025-03-21**|**Fused-Tiled Layers: Minimizing Data Movement on RISC-V SoCs with Software-Managed Caches**|Victor J. B. Jung et.al.|[2504.03676](http://arxiv.org/abs/2504.03676)|null|
 |**2025-04-03**|**OmniTalker: Real-Time Text-Driven Talking Head Generation with In-Context Audio-Visual Style Replication**|Zhongjian Wang et.al.|[2504.02433](http://arxiv.org/abs/2504.02433)|null|
 |**2025-04-02**|**A Pilot Study on Tunable Precision Emulation via Automatic BLAS Offloading**|Hang Liu et.al.|[2503.22875](http://arxiv.org/abs/2503.22875)|null|
-|**2025-03-28**|**Hiding Latencies in Network-Based Image Loading for Deep Learning**|Francesco Versaci et.al.|[2503.22643](http://arxiv.org/abs/2503.22643)|**[link](https://github.com/fversaci/cassandra-dali-plugin)**|
+|**2025-03-28**|**Hiding Latencies in Network-Based Image Loading for Deep Learning**|Francesco Versaci et.al.|[2503.22643](http://arxiv.org/abs/2503.22643)|**[link](https://github.com/crs4/cassandra-dali-plugin)**|
 |**2025-03-26**|**Can geometric combinatorics improve RNA branching predictions?**|Svetlana Poznanović et.al.|[2503.20977](http://arxiv.org/abs/2503.20977)|**[link](https://github.com/gtDMMB/pmfe2023)**|
 |**2025-03-26**|**Unlocking the Hidden Potential of CLIP in Generalizable Deepfake Detection**|Andrii Yermakov et.al.|[2503.19683](http://arxiv.org/abs/2503.19683)|**[link](https://github.com/yermandy/deepfake-detection)**|
 |**2025-03-23**|**Formal Verification of Parameterized Systems based on Induction**|Jiaqi Xiu et.al.|[2503.18030](http://arxiv.org/abs/2503.18030)|null|
@@ -292,7 +295,7 @@
 |**2024-08-21**|**Telepathic Datacenters: Fast RPCs using Shared CXL Memory**|Suyash Mahar et.al.|[2408.11325](http://arxiv.org/abs/2408.11325)|null|
 |**2024-08-18**|**Scalable Systems and Software Architectures for High-Performance Computing on cloud platforms**|Risshab Srinivas Ramesh et.al.|[2408.10281](http://arxiv.org/abs/2408.10281)|null|
 
-<p align=right>(<a href=#updated-on-20250509>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250510>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
