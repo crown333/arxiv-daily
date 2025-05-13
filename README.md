@@ -1,4 +1,4 @@
-## Updated on 2025.05.12
+## Updated on 2025.05.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-09**|**Cost-Effective, Low Latency Vector Search with Azure Cosmos DB**|Nitish Upreti et.al.|[2505.05885](http://arxiv.org/abs/2505.05885)|null|
 |**2025-05-06**|**Elastic Index Select for Label-Hybrid Search in Vector Database**|Mingyu Yang et.al.|[2505.03212](http://arxiv.org/abs/2505.03212)|null|
 |**2025-05-09**|**Subspace Aggregation Query and Index Generation for Multidimensional Resource Space Model**|Xiaoping Sun et.al.|[2505.02129](http://arxiv.org/abs/2505.02129)|null|
 |**2025-05-02**|**HoneyBee: Efficient Role-based Access Control for Vector Databases via Dynamic Partitioning**|Hongbin Zhong et.al.|[2505.01538](http://arxiv.org/abs/2505.01538)|null|
@@ -98,12 +99,14 @@
 |**2024-12-30**|**LLM-assisted Vector Similarity Search**|Md Riyadh et.al.|[2412.18819](http://arxiv.org/abs/2412.18819)|null|
 |**2024-12-25**|**Optimization and Scalability of Collaborative Filtering Algorithms in Large Language Models**|Haowei Yang et.al.|[2412.18715](http://arxiv.org/abs/2412.18715)|null|
 
-<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
 
 ## Parallel and Concurrent Algorithms
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-09**|**P4Kube: In-Network Load Balancer for Kubernetes**|Garegin Grigoryan et.al.|[2505.05996](http://arxiv.org/abs/2505.05996)|null|
+|**2025-05-07**|**Economic Analysis and Optimization of Energy Storage Configuration for Park Power Systems Based on Random Forest and Genetic Algorithm**|Yanghui Song et.al.|[2505.05511](http://arxiv.org/abs/2505.05511)|null|
 |**2025-05-08**|**Neural Pathways to Program Success: Hopfield Networks for PERT Analysis**|Azgar Ali Noor Ahamed et.al.|[2505.05047](http://arxiv.org/abs/2505.05047)|null|
 |**2025-05-08**|**Randomized Routing to Remote Queues**|Shuangchi He et.al.|[2505.04942](http://arxiv.org/abs/2505.04942)|null|
 |**2025-05-07**|**Dynamic Network Flow Optimization for Task Scheduling in PTZ Camera Surveillance Systems**|Mohammad Merati et.al.|[2505.04596](http://arxiv.org/abs/2505.04596)|null|
@@ -212,7 +215,7 @@
 |**2025-01-21**|**Distributed Multi-Head Learning Systems for Power Consumption Prediction**|Jia-Hao Syu et.al.|[2501.12133](http://arxiv.org/abs/2501.12133)|null|
 |**2025-01-21**|**ENTIRE: Learning-based Volume Rendering Time Prediction**|Zikai Yin et.al.|[2501.12119](http://arxiv.org/abs/2501.12119)|null|
 
-<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
 
 ## CPU and Memory Cache
 
@@ -295,7 +298,7 @@
 |**2024-08-21**|**Telepathic Datacenters: Fast RPCs using Shared CXL Memory**|Suyash Mahar et.al.|[2408.11325](http://arxiv.org/abs/2408.11325)|null|
 |**2024-08-18**|**Scalable Systems and Software Architectures for High-Performance Computing on cloud platforms**|Risshab Srinivas Ramesh et.al.|[2408.10281](http://arxiv.org/abs/2408.10281)|null|
 
-<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

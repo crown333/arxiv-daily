@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.05.12
+## Updated on 2025.05.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vector Database and Approximate Nearest Neighbor
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-09**|**Cost-Effective, Low Latency Vector Search with Azure Cosmos DB**|Nitish Upreti et.al.|[2505.05885](http://arxiv.org/abs/2505.05885)|null|
 |**2025-05-06**|**Elastic Index Select for Label-Hybrid Search in Vector Database**|Mingyu Yang et.al.|[2505.03212](http://arxiv.org/abs/2505.03212)|null|
 |**2025-05-09**|**Subspace Aggregation Query and Index Generation for Multidimensional Resource Space Model**|Xiaoping Sun et.al.|[2505.02129](http://arxiv.org/abs/2505.02129)|null|
 |**2025-05-02**|**HoneyBee: Efficient Role-based Access Control for Vector Databases via Dynamic Partitioning**|Hongbin Zhong et.al.|[2505.01538](http://arxiv.org/abs/2505.01538)|null|
@@ -97,6 +98,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-09**|**P4Kube: In-Network Load Balancer for Kubernetes**|Garegin Grigoryan et.al.|[2505.05996](http://arxiv.org/abs/2505.05996)|null|
+|**2025-05-07**|**Economic Analysis and Optimization of Energy Storage Configuration for Park Power Systems Based on Random Forest and Genetic Algorithm**|Yanghui Song et.al.|[2505.05511](http://arxiv.org/abs/2505.05511)|null|
 |**2025-05-08**|**Neural Pathways to Program Success: Hopfield Networks for PERT Analysis**|Azgar Ali Noor Ahamed et.al.|[2505.05047](http://arxiv.org/abs/2505.05047)|null|
 |**2025-05-08**|**Randomized Routing to Remote Queues**|Shuangchi He et.al.|[2505.04942](http://arxiv.org/abs/2505.04942)|null|
 |**2025-05-07**|**Dynamic Network Flow Optimization for Task Scheduling in PTZ Camera Surveillance Systems**|Mohammad Merati et.al.|[2505.04596](http://arxiv.org/abs/2505.04596)|null|
