@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.05.13
+## Updated on 2025.05.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vector Database and Approximate Nearest Neighbor
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-12**|**Bang for the Buck: Vector Search on Cloud CPUs**|Leonardo Kuffo et.al.|[2505.07621](http://arxiv.org/abs/2505.07621)|null|
+|**2025-05-10**|**Survey of Filtered Approximate Nearest Neighbor Search over the Vector-Scalar Hybrid Data**|Yanjun Lin et.al.|[2505.06501](http://arxiv.org/abs/2505.06501)|null|
 |**2025-05-09**|**Cost-Effective, Low Latency Vector Search with Azure Cosmos DB**|Nitish Upreti et.al.|[2505.05885](http://arxiv.org/abs/2505.05885)|null|
 |**2025-05-06**|**Elastic Index Select for Label-Hybrid Search in Vector Database**|Mingyu Yang et.al.|[2505.03212](http://arxiv.org/abs/2505.03212)|null|
 |**2025-05-09**|**Subspace Aggregation Query and Index Generation for Multidimensional Resource Space Model**|Xiaoping Sun et.al.|[2505.02129](http://arxiv.org/abs/2505.02129)|null|
@@ -98,6 +100,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-10**|**Improving 5G/B5G Network Performance with RFID-Enabled Resource Management Systems**|Stella N. Arinze et.al.|[2505.06764](http://arxiv.org/abs/2505.06764)|null|
 |**2025-05-09**|**P4Kube: In-Network Load Balancer for Kubernetes**|Garegin Grigoryan et.al.|[2505.05996](http://arxiv.org/abs/2505.05996)|null|
 |**2025-05-07**|**Economic Analysis and Optimization of Energy Storage Configuration for Park Power Systems Based on Random Forest and Genetic Algorithm**|Yanghui Song et.al.|[2505.05511](http://arxiv.org/abs/2505.05511)|null|
 |**2025-05-08**|**Neural Pathways to Program Success: Hopfield Networks for PERT Analysis**|Azgar Ali Noor Ahamed et.al.|[2505.05047](http://arxiv.org/abs/2505.05047)|null|
@@ -117,7 +120,7 @@ layout: default
 |**2025-04-30**|**Coyote v2: Raising the Level of Abstraction for Data Center FPGAs**|Benjamin Ramhorst et.al.|[2504.21538](http://arxiv.org/abs/2504.21538)|null|
 |**2025-04-30**|**Scientific Workflow Scheduling in Cloud Considering Cold Start and Variable Pricing Model**|Suvarthi Sarkar et.al.|[2504.21536](http://arxiv.org/abs/2504.21536)|null|
 |**2025-04-30**|**Efficient Graph-Based Approximate Nearest Neighbor Search Achieving: Low Latency Without Throughput Loss**|Jingjia Luo et.al.|[2504.20461](http://arxiv.org/abs/2504.20461)|null|
-|**2025-04-28**|**Taming the Titans: A Survey of Efficient LLM Inference Serving**|Ranran Zhen et.al.|[2504.19720](http://arxiv.org/abs/2504.19720)|null|
+|**2025-04-28**|**Taming the Titans: A Survey of Efficient LLM Inference Serving**|Ranran Zhen et.al.|[2504.19720](http://arxiv.org/abs/2504.19720)|**[link](https://github.com/zenrran4nlp/Awesome-LLM-Inference-Serving)**|
 |**2025-04-28**|**Graph Reinforcement Learning for QoS-Aware Load Balancing in Open Radio Access Networks**|Omid Semiari et.al.|[2504.19499](http://arxiv.org/abs/2504.19499)|null|
 |**2025-04-26**|**A Group Theoretic Construction of Batch Codes**|Eldho K. Thomas et.al.|[2504.18844](http://arxiv.org/abs/2504.18844)|null|
 |**2025-04-25**|**Constructing Hamiltonian Decompositions of Complete $k$ -Uniform Hypergraphs**|Javad Maheri et.al.|[2504.18434](http://arxiv.org/abs/2504.18434)|null|
