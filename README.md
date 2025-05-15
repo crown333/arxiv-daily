@@ -1,4 +1,4 @@
-## Updated on 2025.05.14
+## Updated on 2025.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**SLAG: Scalable Language-Augmented Gaussian Splatting**|Laszlo Szilagyi et.al.|[2505.08124](http://arxiv.org/abs/2505.08124)|null|
 |**2025-05-12**|**Bang for the Buck: Vector Search on Cloud CPUs**|Leonardo Kuffo et.al.|[2505.07621](http://arxiv.org/abs/2505.07621)|null|
 |**2025-05-10**|**Survey of Filtered Approximate Nearest Neighbor Search over the Vector-Scalar Hybrid Data**|Yanjun Lin et.al.|[2505.06501](http://arxiv.org/abs/2505.06501)|null|
 |**2025-05-09**|**Cost-Effective, Low Latency Vector Search with Azure Cosmos DB**|Nitish Upreti et.al.|[2505.05885](http://arxiv.org/abs/2505.05885)|null|
@@ -101,12 +102,17 @@
 |**2024-12-30**|**LLM-assisted Vector Similarity Search**|Md Riyadh et.al.|[2412.18819](http://arxiv.org/abs/2412.18819)|null|
 |**2024-12-25**|**Optimization and Scalability of Collaborative Filtering Algorithms in Large Language Models**|Haowei Yang et.al.|[2412.18715](http://arxiv.org/abs/2412.18715)|null|
 
-<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
 
 ## Parallel and Concurrent Algorithms
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**PWC-MoE: Privacy-Aware Wireless Collaborative Mixture of Experts**|Yang Su et.al.|[2505.08719](http://arxiv.org/abs/2505.08719)|null|
+|**2025-05-13**|**Joint Optimization of User Association and Resource Allocation for Load Balancing With Multi-Level Fairness**|Jonggyu Jang et.al.|[2505.08573](http://arxiv.org/abs/2505.08573)|null|
+|**2025-05-13**|**HMR-ODTA: Online Diverse Task Allocation for a Team of Heterogeneous Mobile Robots**|Ashish Verma et.al.|[2505.08419](http://arxiv.org/abs/2505.08419)|null|
+|**2025-05-10**|**ASIL-Decomposition Based Resource Allocation Optimization for Automotive E/E Architectures**|Dorsa Zaheri et.al.|[2505.07881](http://arxiv.org/abs/2505.07881)|null|
+|**2025-05-06**|**Intelligent Load Balancing Systems using Reinforcement Learning System**|Raju Singh et.al.|[2505.07844](http://arxiv.org/abs/2505.07844)|null|
 |**2025-05-10**|**Improving 5G/B5G Network Performance with RFID-Enabled Resource Management Systems**|Stella N. Arinze et.al.|[2505.06764](http://arxiv.org/abs/2505.06764)|null|
 |**2025-05-09**|**P4Kube: In-Network Load Balancer for Kubernetes**|Garegin Grigoryan et.al.|[2505.05996](http://arxiv.org/abs/2505.05996)|null|
 |**2025-05-07**|**Economic Analysis and Optimization of Energy Storage Configuration for Park Power Systems Based on Random Forest and Genetic Algorithm**|Yanghui Song et.al.|[2505.05511](http://arxiv.org/abs/2505.05511)|null|
@@ -218,12 +224,13 @@
 |**2025-01-21**|**Distributed Multi-Head Learning Systems for Power Consumption Prediction**|Jia-Hao Syu et.al.|[2501.12133](http://arxiv.org/abs/2501.12133)|null|
 |**2025-01-21**|**ENTIRE: Learning-based Volume Rendering Time Prediction**|Zikai Yin et.al.|[2501.12119](http://arxiv.org/abs/2501.12119)|null|
 
-<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
 
 ## CPU and Memory Cache
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-29**|**Blockbuster, Part 1: Block-level AI Operator Fusion**|Ofer Dekel et.al.|[2505.07829](http://arxiv.org/abs/2505.07829)|null|
 |**2025-05-07**|**SOAEsV2-7B/72B: Full-Pipeline Optimization for State-Owned Enterprise LLMs via Continual Pre-Training, Domain-Progressive SFT and Distillation-Enhanced Speculative Decoding**|Jingyang Deng et.al.|[2505.04723](http://arxiv.org/abs/2505.04723)|null|
 |**2025-05-08**|**CVA6S+: A Superscalar RISC-V Core with High-Throughput Memory Architecture**|Riccardo Tedeschi et.al.|[2505.03762](http://arxiv.org/abs/2505.03762)|null|
 |**2025-05-02**|**The Open-Source BlackParrot-BedRock Cache Coherence System**|Mark Unruh Wyse et.al.|[2505.00962](http://arxiv.org/abs/2505.00962)|null|
@@ -301,7 +308,7 @@
 |**2024-08-21**|**Telepathic Datacenters: Fast RPCs using Shared CXL Memory**|Suyash Mahar et.al.|[2408.11325](http://arxiv.org/abs/2408.11325)|null|
 |**2024-08-18**|**Scalable Systems and Software Architectures for High-Performance Computing on cloud platforms**|Risshab Srinivas Ramesh et.al.|[2408.10281](http://arxiv.org/abs/2408.10281)|null|
 
-<p align=right>(<a href=#updated-on-20250514>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
