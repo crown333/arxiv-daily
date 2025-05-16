@@ -1,4 +1,4 @@
-## Updated on 2025.05.15
+## Updated on 2025.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,10 +14,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-14**|**Focus, Merge, Rank: Improved Question Answering Based on Semi-structured Knowledge Bases**|Derian Boer et.al.|[2505.09246](http://arxiv.org/abs/2505.09246)|**[link](https://github.com/kramerlab/focusedretriever)**|
 |**2025-05-12**|**SLAG: Scalable Language-Augmented Gaussian Splatting**|Laszlo Szilagyi et.al.|[2505.08124](http://arxiv.org/abs/2505.08124)|null|
 |**2025-05-12**|**Bang for the Buck: Vector Search on Cloud CPUs**|Leonardo Kuffo et.al.|[2505.07621](http://arxiv.org/abs/2505.07621)|null|
-|**2025-05-10**|**Survey of Filtered Approximate Nearest Neighbor Search over the Vector-Scalar Hybrid Data**|Yanjun Lin et.al.|[2505.06501](http://arxiv.org/abs/2505.06501)|null|
-|**2025-05-09**|**Cost-Effective, Low Latency Vector Search with Azure Cosmos DB**|Nitish Upreti et.al.|[2505.05885](http://arxiv.org/abs/2505.05885)|null|
+|**2025-05-10**|**Survey of Filtered Approximate Nearest Neighbor Search over the Vector-Scalar Hybrid Data**|Yanjun Lin et.al.|[2505.06501](http://arxiv.org/abs/2505.06501)|**[link](https://github.com/lyj-fdu/fanns)**|
+|**2025-05-09**|**Cost-Effective, Low Latency Vector Search with Azure Cosmos DB**|Nitish Upreti et.al.|[2505.05885](http://arxiv.org/abs/2505.05885)|**[link](https://github.com/azurecosmosdb/vectorindexscenariosuite)**|
 |**2025-05-06**|**Elastic Index Select for Label-Hybrid Search in Vector Database**|Mingyu Yang et.al.|[2505.03212](http://arxiv.org/abs/2505.03212)|null|
 |**2025-05-09**|**Subspace Aggregation Query and Index Generation for Multidimensional Resource Space Model**|Xiaoping Sun et.al.|[2505.02129](http://arxiv.org/abs/2505.02129)|null|
 |**2025-05-02**|**HoneyBee: Efficient Role-based Access Control for Vector Databases via Dynamic Partitioning**|Hongbin Zhong et.al.|[2505.01538](http://arxiv.org/abs/2505.01538)|null|
@@ -102,7 +103,7 @@
 |**2024-12-30**|**LLM-assisted Vector Similarity Search**|Md Riyadh et.al.|[2412.18819](http://arxiv.org/abs/2412.18819)|null|
 |**2024-12-25**|**Optimization and Scalability of Collaborative Filtering Algorithms in Large Language Models**|Haowei Yang et.al.|[2412.18715](http://arxiv.org/abs/2412.18715)|null|
 
-<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
 
 ## Parallel and Concurrent Algorithms
 
@@ -224,7 +225,7 @@
 |**2025-01-21**|**Distributed Multi-Head Learning Systems for Power Consumption Prediction**|Jia-Hao Syu et.al.|[2501.12133](http://arxiv.org/abs/2501.12133)|null|
 |**2025-01-21**|**ENTIRE: Learning-based Volume Rendering Time Prediction**|Zikai Yin et.al.|[2501.12119](http://arxiv.org/abs/2501.12119)|null|
 
-<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
 
 ## CPU and Memory Cache
 
@@ -277,7 +278,7 @@
 |**2025-01-19**|**CIBPU: A Conflict-Invisible Secure Branch Prediction Unit**|Zhe Zhou et.al.|[2501.10983](http://arxiv.org/abs/2501.10983)|null|
 |**2025-04-23**|**The NIC should be part of the OS**|Pengcheng Xu et.al.|[2501.10138](http://arxiv.org/abs/2501.10138)|null|
 |**2025-04-21**|**Modular Compilation for Quantum Chiplet Architectures**|Mingyoung Jessica Jeng et.al.|[2501.08478](http://arxiv.org/abs/2501.08478)|null|
-|**2025-05-06**|**Reciprocating Locks**|Dave Dice et.al.|[2501.02380](http://arxiv.org/abs/2501.02380)|null|
+|**2025-05-15**|**Reciprocating Locks**|Dave Dice et.al.|[2501.02380](http://arxiv.org/abs/2501.02380)|null|
 |**2025-04-15**|**Performant Automatic BLAS Offloading on Unified Memory Architecture with OpenMP First-Touch Style Data Movement**|Junjie Li et.al.|[2501.00279](http://arxiv.org/abs/2501.00279)|null|
 |**2024-12-26**|**Optimizing Multi-Stage Language Models for Effective Text Retrieval**|Quang Hoang Trung et.al.|[2412.19265](http://arxiv.org/abs/2412.19265)|null|
 |**2024-12-21**|**DFModel: Design Space Optimization of Large-Scale Systems Exploiting Dataflow Mappings**|Sho Ko et.al.|[2412.16432](http://arxiv.org/abs/2412.16432)|null|
@@ -308,7 +309,7 @@
 |**2024-08-21**|**Telepathic Datacenters: Fast RPCs using Shared CXL Memory**|Suyash Mahar et.al.|[2408.11325](http://arxiv.org/abs/2408.11325)|null|
 |**2024-08-18**|**Scalable Systems and Software Architectures for High-Performance Computing on cloud platforms**|Risshab Srinivas Ramesh et.al.|[2408.10281](http://arxiv.org/abs/2408.10281)|null|
 
-<p align=right>(<a href=#updated-on-20250515>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
