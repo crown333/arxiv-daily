@@ -2,13 +2,19 @@
 layout: default
 ---
 
-## Updated on 2025.05.20
+## Updated on 2025.05.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vector Database and Approximate Nearest Neighbor
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**AutoMathKG: The automated mathematical knowledge graph based on LLM and vector database**|Rong Bian et.al.|[2505.13406](http://arxiv.org/abs/2505.13406)|null|
+|**2025-05-19**|**Agentic Publications: An LLM-Driven Framework for Interactive Scientific Publishing, Supplementing Traditional Papers with AI-Powered Knowledge Systems**|Roberto Pugliese et.al.|[2505.13246](http://arxiv.org/abs/2505.13246)|null|
+|**2025-05-20**|**Harnessing the Universal Geometry of Embeddings**|Rishi Jha et.al.|[2505.12540](http://arxiv.org/abs/2505.12540)|null|
+|**2025-05-18**|**HAKES: Scalable Vector Database for Embedding Search Service**|Guoyu Hu et.al.|[2505.12524](http://arxiv.org/abs/2505.12524)|null|
+|**2025-05-18**|**LightRetriever: A LLM-based Hybrid Retrieval Architecture with 1000x Faster Query Inference**|Guangyuan Ma et.al.|[2505.12260](http://arxiv.org/abs/2505.12260)|**[link](https://github.com/caskcsg/lightretriever)**|
+|**2025-05-17**|**Efficient Vector Search on Disaggregated Memory with d-HNSW**|Yi Liu et.al.|[2505.11783](http://arxiv.org/abs/2505.11783)|null|
 |**2025-05-15**|**From Text to Network: Constructing a Knowledge Graph of Taiwan-Based China Studies Using Generative AI**|Hsuan-Lei Shao et.al.|[2505.10093](http://arxiv.org/abs/2505.10093)|null|
 |**2025-05-14**|**Focus, Merge, Rank: Improved Question Answering Based on Semi-structured Knowledge Bases**|Derian Boer et.al.|[2505.09246](http://arxiv.org/abs/2505.09246)|**[link](https://github.com/kramerlab/focusedretriever)**|
 |**2025-05-12**|**SLAG: Scalable Language-Augmented Gaussian Splatting**|Laszlo Szilagyi et.al.|[2505.08124](http://arxiv.org/abs/2505.08124)|null|
@@ -103,6 +109,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**FireFly-T: High-Throughput Sparsity Exploitation for Spiking Transformer Acceleration with Dual-Engine Overlay Architecture**|Tenglong Li et.al.|[2505.12771](http://arxiv.org/abs/2505.12771)|null|
+|**2025-05-19**|**HydraInfer: Hybrid Disaggregated Scheduling for Multimodal Large Language Model Serving**|Xianzhe Dong et.al.|[2505.12658](http://arxiv.org/abs/2505.12658)|null|
+|**2025-05-18**|**MoreFit: A More Optimised, Rapid and Efficient Fit**|Christoph Langenbruch et.al.|[2505.12414](http://arxiv.org/abs/2505.12414)|null|
+|**2025-05-20**|**GATES: Cost-aware Dynamic Workflow Scheduling via Graph Attention Networks and Evolution Strategy**|Ya Shen et.al.|[2505.12355](http://arxiv.org/abs/2505.12355)|**[link](https://github.com/yashen998/gates)**|
+|**2025-05-17**|**Task Scheduling in Space-Air-Ground Uniformly Integrated Networks with Ripple Effects**|Chuan Huang et.al.|[2505.11974](http://arxiv.org/abs/2505.11974)|null|
 |**2025-05-13**|**PWC-MoE: Privacy-Aware Wireless Collaborative Mixture of Experts**|Yang Su et.al.|[2505.08719](http://arxiv.org/abs/2505.08719)|null|
 |**2025-05-13**|**Joint Optimization of User Association and Resource Allocation for Load Balancing With Multi-Level Fairness**|Jonggyu Jang et.al.|[2505.08573](http://arxiv.org/abs/2505.08573)|null|
 |**2025-05-13**|**HMR-ODTA: Online Diverse Task Allocation for a Team of Heterogeneous Mobile Robots**|Ashish Verma et.al.|[2505.08419](http://arxiv.org/abs/2505.08419)|null|
@@ -223,6 +234,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**Addressing memory bandwidth scalability in vector processors for streaming applications**|Jordi Altayo et.al.|[2505.12856](http://arxiv.org/abs/2505.12856)|null|
 |**2025-04-29**|**Blockbuster, Part 1: Block-level AI Operator Fusion**|Ofer Dekel et.al.|[2505.07829](http://arxiv.org/abs/2505.07829)|null|
 |**2025-05-07**|**SOAEsV2-7B/72B: Full-Pipeline Optimization for State-Owned Enterprise LLMs via Continual Pre-Training, Domain-Progressive SFT and Distillation-Enhanced Speculative Decoding**|Jingyang Deng et.al.|[2505.04723](http://arxiv.org/abs/2505.04723)|null|
 |**2025-05-08**|**CVA6S+: A Superscalar RISC-V Core with High-Throughput Memory Architecture**|Riccardo Tedeschi et.al.|[2505.03762](http://arxiv.org/abs/2505.03762)|null|
