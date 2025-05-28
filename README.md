@@ -1,4 +1,4 @@
-## Updated on 2025.05.27
+## Updated on 2025.05.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-25**|**DeepResearchGym: A Free, Transparent, and Reproducible Evaluation Sandbox for Deep Research**|João Coelho et.al.|[2505.19253](http://arxiv.org/abs/2505.19253)|null|
+|**2025-05-25**|**DARTH: Declarative Recall Through Early Termination for Approximate Nearest Neighbor Search**|Manos Chatzakis et.al.|[2505.19001](http://arxiv.org/abs/2505.19001)|null|
 |**2025-05-23**|**Locality-Sensitive Hashing for Efficient Hard Negative Sampling in Contrastive Learning**|Fabian Deuser et.al.|[2505.17844](http://arxiv.org/abs/2505.17844)|null|
 |**2025-05-23**|**VIBE: Vector Index Benchmark for Embeddings**|Elias Jääsaari et.al.|[2505.17810](http://arxiv.org/abs/2505.17810)|null|
 |**2025-05-23**|**HENN: A Hierarchical Epsilon Net Navigation Graph for Approximate Nearest Neighbor Search**|Mohsen Dehghankar et.al.|[2505.17368](http://arxiv.org/abs/2505.17368)|null|
@@ -117,12 +119,15 @@
 |**2024-12-30**|**LLM-assisted Vector Similarity Search**|Md Riyadh et.al.|[2412.18819](http://arxiv.org/abs/2412.18819)|null|
 |**2024-12-25**|**Optimization and Scalability of Collaborative Filtering Algorithms in Large Language Models**|Haowei Yang et.al.|[2412.18715](http://arxiv.org/abs/2412.18715)|null|
 
-<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
 
 ## Parallel and Concurrent Algorithms
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-26**|**Rethinking Gating Mechanism in Sparse MoE: Handling Arbitrary Modality Inputs with Confidence-Guided Gate**|Liangwei Nathan Zheng et.al.|[2505.19525](http://arxiv.org/abs/2505.19525)|null|
+|**2025-05-26**|**Balancing Computation Load and Representation Expressivity in Parallel Hybrid Neural Networks**|Mohammad Mahdi Moradi et.al.|[2505.19472](http://arxiv.org/abs/2505.19472)|null|
+|**2025-05-23**|**ZeroML: A Next Generation AutoML Language**|Monirul Islam Mahmud et.al.|[2505.18243](http://arxiv.org/abs/2505.18243)|null|
 |**2025-05-22**|**Graph Attention Network for Optimal User Association in Wireless Networks**|Javad Mirzaei et.al.|[2505.16347](http://arxiv.org/abs/2505.16347)|null|
 |**2025-05-22**|**Graph Neural Network-Based Collaborative Perception for Adaptive Scheduling in Distributed Systems**|Wenxuan Zhu et.al.|[2505.16248](http://arxiv.org/abs/2505.16248)|null|
 |**2025-05-21**|**Robo-DM: Data Management For Large Robot Datasets**|Kaiyuan Chen et.al.|[2505.15558](http://arxiv.org/abs/2505.15558)|null|
@@ -256,12 +261,13 @@
 |**2025-01-21**|**Distributed Multi-Head Learning Systems for Power Consumption Prediction**|Jia-Hao Syu et.al.|[2501.12133](http://arxiv.org/abs/2501.12133)|null|
 |**2025-01-21**|**ENTIRE: Learning-based Volume Rendering Time Prediction**|Zikai Yin et.al.|[2501.12119](http://arxiv.org/abs/2501.12119)|null|
 
-<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
 
 ## CPU and Memory Cache
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-24**|**Garibaldi: A Pairwise Instruction-Data Management for Enhancing Shared Last-Level Cache Performance in Server Workloads**|Jaewon Kwon et.al.|[2505.18554](http://arxiv.org/abs/2505.18554)|null|
 |**2025-05-23**|**DiFache: Efficient and Scalable Caching on Disaggregated Memory using Decentralized Coherence**|Hanze Zhang et.al.|[2505.18013](http://arxiv.org/abs/2505.18013)|null|
 |**2025-05-23**|**Trinity-RFT: A General-Purpose and Unified Framework for Reinforcement Fine-Tuning of Large Language Models**|Xuchen Pan et.al.|[2505.17826](http://arxiv.org/abs/2505.17826)|null|
 |**2025-05-23**|**FlashForge: Ultra-Efficient Prefix-Aware Attention for LLM Decoding**|Zhibin Wang et.al.|[2505.17694](http://arxiv.org/abs/2505.17694)|null|
@@ -345,7 +351,7 @@
 |**2024-08-21**|**Telepathic Datacenters: Fast RPCs using Shared CXL Memory**|Suyash Mahar et.al.|[2408.11325](http://arxiv.org/abs/2408.11325)|null|
 |**2024-08-18**|**Scalable Systems and Software Architectures for High-Performance Computing on cloud platforms**|Risshab Srinivas Ramesh et.al.|[2408.10281](http://arxiv.org/abs/2408.10281)|null|
 
-<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250528>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -2,13 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.05.27
+## Updated on 2025.05.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vector Database and Approximate Nearest Neighbor
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-25**|**DeepResearchGym: A Free, Transparent, and Reproducible Evaluation Sandbox for Deep Research**|João Coelho et.al.|[2505.19253](http://arxiv.org/abs/2505.19253)|null|
+|**2025-05-25**|**DARTH: Declarative Recall Through Early Termination for Approximate Nearest Neighbor Search**|Manos Chatzakis et.al.|[2505.19001](http://arxiv.org/abs/2505.19001)|null|
 |**2025-05-23**|**Locality-Sensitive Hashing for Efficient Hard Negative Sampling in Contrastive Learning**|Fabian Deuser et.al.|[2505.17844](http://arxiv.org/abs/2505.17844)|null|
 |**2025-05-23**|**VIBE: Vector Index Benchmark for Embeddings**|Elias Jääsaari et.al.|[2505.17810](http://arxiv.org/abs/2505.17810)|null|
 |**2025-05-23**|**HENN: A Hierarchical Epsilon Net Navigation Graph for Approximate Nearest Neighbor Search**|Mohsen Dehghankar et.al.|[2505.17368](http://arxiv.org/abs/2505.17368)|null|
@@ -116,6 +118,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**Rethinking Gating Mechanism in Sparse MoE: Handling Arbitrary Modality Inputs with Confidence-Guided Gate**|Liangwei Nathan Zheng et.al.|[2505.19525](http://arxiv.org/abs/2505.19525)|null|
+|**2025-05-26**|**Balancing Computation Load and Representation Expressivity in Parallel Hybrid Neural Networks**|Mohammad Mahdi Moradi et.al.|[2505.19472](http://arxiv.org/abs/2505.19472)|null|
+|**2025-05-23**|**ZeroML: A Next Generation AutoML Language**|Monirul Islam Mahmud et.al.|[2505.18243](http://arxiv.org/abs/2505.18243)|null|
 |**2025-05-22**|**Graph Attention Network for Optimal User Association in Wireless Networks**|Javad Mirzaei et.al.|[2505.16347](http://arxiv.org/abs/2505.16347)|null|
 |**2025-05-22**|**Graph Neural Network-Based Collaborative Perception for Adaptive Scheduling in Distributed Systems**|Wenxuan Zhu et.al.|[2505.16248](http://arxiv.org/abs/2505.16248)|null|
 |**2025-05-21**|**Robo-DM: Data Management For Large Robot Datasets**|Kaiyuan Chen et.al.|[2505.15558](http://arxiv.org/abs/2505.15558)|null|
@@ -253,6 +258,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-24**|**Garibaldi: A Pairwise Instruction-Data Management for Enhancing Shared Last-Level Cache Performance in Server Workloads**|Jaewon Kwon et.al.|[2505.18554](http://arxiv.org/abs/2505.18554)|null|
 |**2025-05-23**|**DiFache: Efficient and Scalable Caching on Disaggregated Memory using Decentralized Coherence**|Hanze Zhang et.al.|[2505.18013](http://arxiv.org/abs/2505.18013)|null|
 |**2025-05-23**|**Trinity-RFT: A General-Purpose and Unified Framework for Reinforcement Fine-Tuning of Large Language Models**|Xuchen Pan et.al.|[2505.17826](http://arxiv.org/abs/2505.17826)|null|
 |**2025-05-23**|**FlashForge: Ultra-Efficient Prefix-Aware Attention for LLM Decoding**|Zhibin Wang et.al.|[2505.17694](http://arxiv.org/abs/2505.17694)|null|
