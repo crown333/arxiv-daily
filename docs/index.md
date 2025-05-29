@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2025.05.28
+## Updated on 2025.05.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vector Database and Approximate Nearest Neighbor
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**LazyVLM: Neuro-Symbolic Approach to Video Analytics**|Xiangru Jian et.al.|[2505.21459](http://arxiv.org/abs/2505.21459)|null|
+|**2025-05-26**|**Probabilistic Kernel Function for Fast Angle Testing**|Kejing Lu et.al.|[2505.20274](http://arxiv.org/abs/2505.20274)|null|
+|**2025-05-26**|**syftr: Pareto-Optimal Generative AI**|Alexander Conway et.al.|[2505.20266](http://arxiv.org/abs/2505.20266)|**[link](https://github.com/datarobot/syftr)**|
 |**2025-05-25**|**DeepResearchGym: A Free, Transparent, and Reproducible Evaluation Sandbox for Deep Research**|João Coelho et.al.|[2505.19253](http://arxiv.org/abs/2505.19253)|null|
 |**2025-05-25**|**DARTH: Declarative Recall Through Early Termination for Approximate Nearest Neighbor Search**|Manos Chatzakis et.al.|[2505.19001](http://arxiv.org/abs/2505.19001)|null|
 |**2025-05-23**|**Locality-Sensitive Hashing for Efficient Hard Negative Sampling in Contrastive Learning**|Fabian Deuser et.al.|[2505.17844](http://arxiv.org/abs/2505.17844)|null|
@@ -118,8 +121,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**Optimal Approximations for the Requirement Cut Problem on Sparse Graph Classes**|Nadym Mallek et.al.|[2505.21433](http://arxiv.org/abs/2505.21433)|null|
+|**2025-05-28**|**Pangu Pro MoE: Mixture of Grouped Experts for Efficient Sparsity**|Yehui Tang et.al.|[2505.21411](http://arxiv.org/abs/2505.21411)|null|
+|**2025-05-27**|**Load Balancing in Strongly Inhomogeneous Simulations -- a Vlasiator Case Study**|Leo Kotipalo et.al.|[2505.20908](http://arxiv.org/abs/2505.20908)|null|
+|**2025-05-27**|**InstGenIE: Generative Image Editing Made Efficient with Mask-aware Caching and Scheduling**|Xiaoxiao Jiang et.al.|[2505.20600](http://arxiv.org/abs/2505.20600)|null|
+|**2025-05-26**|**Synergising Hierarchical Data Centers and Power Networks: A Privacy-Preserving Approach**|Junhong Liu et.al.|[2505.20575](http://arxiv.org/abs/2505.20575)|null|
 |**2025-05-26**|**Rethinking Gating Mechanism in Sparse MoE: Handling Arbitrary Modality Inputs with Confidence-Guided Gate**|Liangwei Nathan Zheng et.al.|[2505.19525](http://arxiv.org/abs/2505.19525)|null|
-|**2025-05-26**|**Balancing Computation Load and Representation Expressivity in Parallel Hybrid Neural Networks**|Mohammad Mahdi Moradi et.al.|[2505.19472](http://arxiv.org/abs/2505.19472)|null|
+|**2025-05-28**|**Balancing Computation Load and Representation Expressivity in Parallel Hybrid Neural Networks**|Mohammad Mahdi Moradi et.al.|[2505.19472](http://arxiv.org/abs/2505.19472)|null|
 |**2025-05-23**|**ZeroML: A Next Generation AutoML Language**|Monirul Islam Mahmud et.al.|[2505.18243](http://arxiv.org/abs/2505.18243)|null|
 |**2025-05-22**|**Graph Attention Network for Optimal User Association in Wireless Networks**|Javad Mirzaei et.al.|[2505.16347](http://arxiv.org/abs/2505.16347)|null|
 |**2025-05-22**|**Graph Neural Network-Based Collaborative Perception for Adaptive Scheduling in Distributed Systems**|Wenxuan Zhu et.al.|[2505.16248](http://arxiv.org/abs/2505.16248)|null|
@@ -260,7 +268,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-24**|**Garibaldi: A Pairwise Instruction-Data Management for Enhancing Shared Last-Level Cache Performance in Server Workloads**|Jaewon Kwon et.al.|[2505.18554](http://arxiv.org/abs/2505.18554)|null|
 |**2025-05-23**|**DiFache: Efficient and Scalable Caching on Disaggregated Memory using Decentralized Coherence**|Hanze Zhang et.al.|[2505.18013](http://arxiv.org/abs/2505.18013)|null|
-|**2025-05-23**|**Trinity-RFT: A General-Purpose and Unified Framework for Reinforcement Fine-Tuning of Large Language Models**|Xuchen Pan et.al.|[2505.17826](http://arxiv.org/abs/2505.17826)|null|
+|**2025-05-23**|**Trinity-RFT: A General-Purpose and Unified Framework for Reinforcement Fine-Tuning of Large Language Models**|Xuchen Pan et.al.|[2505.17826](http://arxiv.org/abs/2505.17826)|**[link](https://github.com/modelscope/trinity-rft)**|
 |**2025-05-23**|**FlashForge: Ultra-Efficient Prefix-Aware Attention for LLM Decoding**|Zhibin Wang et.al.|[2505.17694](http://arxiv.org/abs/2505.17694)|null|
 |**2025-05-21**|**CP-LLM: Context and Pixel Aware Large Language Model for Video Quality Assessment**|Wen Wen et.al.|[2505.16025](http://arxiv.org/abs/2505.16025)|null|
 |**2025-05-19**|**Addressing memory bandwidth scalability in vector processors for streaming applications**|Jordi Altayo et.al.|[2505.12856](http://arxiv.org/abs/2505.12856)|null|
