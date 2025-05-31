@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.30
+## Updated on 2025.05.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vector Database and Approximate Nearest Neighbor
@@ -122,6 +122,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-29**|**Energy-Efficient QoS-Aware Scheduling for S-NUCA Many-Cores**|Sudam M. Wasala et.al.|[2505.23351](http://arxiv.org/abs/2505.23351)|null|
 |**2025-05-28**|**Advancing Expert Specialization for Better MoE**|Hongcan Guo et.al.|[2505.22323](http://arxiv.org/abs/2505.22323)|null|
 |**2025-05-28**|**LaMM: Semi-Supervised Pre-Training of Large-Scale Materials Models**|Yosuke Oyama et.al.|[2505.22208](http://arxiv.org/abs/2505.22208)|null|
 |**2025-05-28**|**Optimal Approximations for the Requirement Cut Problem on Sparse Graph Classes**|Nadym Mallek et.al.|[2505.21433](http://arxiv.org/abs/2505.21433)|null|
