@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.01
+## Updated on 2025.06.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vector Database and Approximate Nearest Neighbor
@@ -13,11 +13,11 @@ layout: default
 |**2025-05-27**|**LazyVLM: Neuro-Symbolic Approach to Video Analytics**|Xiangru Jian et.al.|[2505.21459](http://arxiv.org/abs/2505.21459)|null|
 |**2025-05-26**|**Probabilistic Kernel Function for Fast Angle Testing**|Kejing Lu et.al.|[2505.20274](http://arxiv.org/abs/2505.20274)|null|
 |**2025-05-26**|**syftr: Pareto-Optimal Generative AI**|Alexander Conway et.al.|[2505.20266](http://arxiv.org/abs/2505.20266)|**[link](https://github.com/datarobot/syftr)**|
-|**2025-05-25**|**DeepResearchGym: A Free, Transparent, and Reproducible Evaluation Sandbox for Deep Research**|João Coelho et.al.|[2505.19253](http://arxiv.org/abs/2505.19253)|null|
+|**2025-05-30**|**DeepResearchGym: A Free, Transparent, and Reproducible Evaluation Sandbox for Deep Research**|João Coelho et.al.|[2505.19253](http://arxiv.org/abs/2505.19253)|null|
 |**2025-05-25**|**DARTH: Declarative Recall Through Early Termination for Approximate Nearest Neighbor Search**|Manos Chatzakis et.al.|[2505.19001](http://arxiv.org/abs/2505.19001)|null|
 |**2025-05-23**|**Locality-Sensitive Hashing for Efficient Hard Negative Sampling in Contrastive Learning**|Fabian Deuser et.al.|[2505.17844](http://arxiv.org/abs/2505.17844)|null|
 |**2025-05-23**|**VIBE: Vector Index Benchmark for Embeddings**|Elias Jääsaari et.al.|[2505.17810](http://arxiv.org/abs/2505.17810)|null|
-|**2025-05-23**|**HENN: A Hierarchical Epsilon Net Navigation Graph for Approximate Nearest Neighbor Search**|Mohsen Dehghankar et.al.|[2505.17368](http://arxiv.org/abs/2505.17368)|null|
+|**2025-05-23**|**HENN: A Hierarchical Epsilon Net Navigation Graph for Approximate Nearest Neighbor Search**|Mohsen Dehghankar et.al.|[2505.17368](http://arxiv.org/abs/2505.17368)|**[link](https://github.com/uic-indexlab/henn)**|
 |**2025-05-22**|**LSM-VEC: A Large-Scale Disk-Based System for Dynamic Vector Search**|Shurui Zhong et.al.|[2505.17152](http://arxiv.org/abs/2505.17152)|null|
 |**2025-05-22**|**Cosmos: A CXL-Based Full In-Memory System for Approximate Nearest Neighbor Search**|Seoyoung Ko et.al.|[2505.16096](http://arxiv.org/abs/2505.16096)|null|
 |**2025-05-21**|**Three Algorithms for Merging Hierarchical Navigable Small World Graphs**|Alexander Ponomarenko et.al.|[2505.16064](http://arxiv.org/abs/2505.16064)|**[link](https://github.com/aponom84/merging-navigable-graphs)**|
@@ -130,7 +130,7 @@ layout: default
 |**2025-05-27**|**Load Balancing in Strongly Inhomogeneous Simulations -- a Vlasiator Case Study**|Leo Kotipalo et.al.|[2505.20908](http://arxiv.org/abs/2505.20908)|null|
 |**2025-05-27**|**InstGenIE: Generative Image Editing Made Efficient with Mask-aware Caching and Scheduling**|Xiaoxiao Jiang et.al.|[2505.20600](http://arxiv.org/abs/2505.20600)|null|
 |**2025-05-26**|**Synergising Hierarchical Data Centers and Power Networks: A Privacy-Preserving Approach**|Junhong Liu et.al.|[2505.20575](http://arxiv.org/abs/2505.20575)|null|
-|**2025-05-26**|**Rethinking Gating Mechanism in Sparse MoE: Handling Arbitrary Modality Inputs with Confidence-Guided Gate**|Liangwei Nathan Zheng et.al.|[2505.19525](http://arxiv.org/abs/2505.19525)|null|
+|**2025-05-26**|**Rethinking Gating Mechanism in Sparse MoE: Handling Arbitrary Modality Inputs with Confidence-Guided Gate**|Liangwei Nathan Zheng et.al.|[2505.19525](http://arxiv.org/abs/2505.19525)|**[link](https://github.com/icuraslw/official-repository-of-confsmoe)**|
 |**2025-05-28**|**Balancing Computation Load and Representation Expressivity in Parallel Hybrid Neural Networks**|Mohammad Mahdi Moradi et.al.|[2505.19472](http://arxiv.org/abs/2505.19472)|null|
 |**2025-05-23**|**ZeroML: A Next Generation AutoML Language**|Monirul Islam Mahmud et.al.|[2505.18243](http://arxiv.org/abs/2505.18243)|null|
 |**2025-05-22**|**Graph Attention Network for Optimal User Association in Wireless Networks**|Javad Mirzaei et.al.|[2505.16347](http://arxiv.org/abs/2505.16347)|null|
