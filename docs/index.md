@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.07
+## Updated on 2025.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vector Database and Approximate Nearest Neighbor
@@ -179,7 +179,7 @@ layout: default
 |**2025-05-07**|**Dynamic Network Flow Optimization for Task Scheduling in PTZ Camera Surveillance Systems**|Mohammad Merati et.al.|[2505.04596](http://arxiv.org/abs/2505.04596)|null|
 |**2025-05-07**|**Comparing CPU and GPU compute of PERMANOVA on MI300A**|Igor Sfiligoi et.al.|[2505.04556](http://arxiv.org/abs/2505.04556)|null|
 |**2025-05-07**|**Plexus: Taming Billion-edge Graphs with 3D Parallel GNN Training**|Aditya K. Ranjan et.al.|[2505.04083](http://arxiv.org/abs/2505.04083)|null|
-|**2025-05-06**|**RoboOS: A Hierarchical Embodied Framework for Cross-Embodiment and Multi-Agent Collaboration**|Huajie Tan et.al.|[2505.03673](http://arxiv.org/abs/2505.03673)|**[link](https://github.com/flagopen/roboos)**|
+|**2025-06-05**|**RoboOS: A Hierarchical Embodied Framework for Cross-Embodiment and Multi-Agent Collaboration**|Huajie Tan et.al.|[2505.03673](http://arxiv.org/abs/2505.03673)|**[link](https://github.com/flagopen/roboos)**|
 |**2025-05-06**|**Dynamic load balancing for cloud systems under heterogeneous setup delays**|Fernando Paganini et.al.|[2505.03596](http://arxiv.org/abs/2505.03596)|null|
 |**2025-05-06**|**Hierarchical dynamic domain decomposition for the multiscale Boltzmann equation**|Domenico Caparello et.al.|[2505.03360](http://arxiv.org/abs/2505.03360)|null|
 |**2025-05-05**|**Multiscale Parallel Simulation of Malignant Pleural Mesothelioma via Adaptive Domain Partitioning -- an Efficiency Analysis Study**|Anton Dolganov et.al.|[2505.03067](http://arxiv.org/abs/2505.03067)|null|

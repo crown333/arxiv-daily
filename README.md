@@ -1,4 +1,4 @@
-## Updated on 2025.06.07
+## Updated on 2025.06.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -131,7 +131,7 @@
 |**2024-12-30**|**LLM-assisted Vector Similarity Search**|Md Riyadh et.al.|[2412.18819](http://arxiv.org/abs/2412.18819)|null|
 |**2024-12-25**|**Optimization and Scalability of Collaborative Filtering Algorithms in Large Language Models**|Haowei Yang et.al.|[2412.18715](http://arxiv.org/abs/2412.18715)|null|
 
-<p align=right>(<a href=#updated-on-20250607>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
 
 ## Parallel and Concurrent Algorithms
 
@@ -186,7 +186,7 @@
 |**2025-05-07**|**Dynamic Network Flow Optimization for Task Scheduling in PTZ Camera Surveillance Systems**|Mohammad Merati et.al.|[2505.04596](http://arxiv.org/abs/2505.04596)|null|
 |**2025-05-07**|**Comparing CPU and GPU compute of PERMANOVA on MI300A**|Igor Sfiligoi et.al.|[2505.04556](http://arxiv.org/abs/2505.04556)|null|
 |**2025-05-07**|**Plexus: Taming Billion-edge Graphs with 3D Parallel GNN Training**|Aditya K. Ranjan et.al.|[2505.04083](http://arxiv.org/abs/2505.04083)|null|
-|**2025-05-06**|**RoboOS: A Hierarchical Embodied Framework for Cross-Embodiment and Multi-Agent Collaboration**|Huajie Tan et.al.|[2505.03673](http://arxiv.org/abs/2505.03673)|**[link](https://github.com/flagopen/roboos)**|
+|**2025-06-05**|**RoboOS: A Hierarchical Embodied Framework for Cross-Embodiment and Multi-Agent Collaboration**|Huajie Tan et.al.|[2505.03673](http://arxiv.org/abs/2505.03673)|**[link](https://github.com/flagopen/roboos)**|
 |**2025-05-06**|**Dynamic load balancing for cloud systems under heterogeneous setup delays**|Fernando Paganini et.al.|[2505.03596](http://arxiv.org/abs/2505.03596)|null|
 |**2025-05-06**|**Hierarchical dynamic domain decomposition for the multiscale Boltzmann equation**|Domenico Caparello et.al.|[2505.03360](http://arxiv.org/abs/2505.03360)|null|
 |**2025-05-05**|**Multiscale Parallel Simulation of Malignant Pleural Mesothelioma via Adaptive Domain Partitioning -- an Efficiency Analysis Study**|Anton Dolganov et.al.|[2505.03067](http://arxiv.org/abs/2505.03067)|null|
@@ -289,7 +289,7 @@
 |**2025-01-21**|**Distributed Multi-Head Learning Systems for Power Consumption Prediction**|Jia-Hao Syu et.al.|[2501.12133](http://arxiv.org/abs/2501.12133)|null|
 |**2025-01-21**|**ENTIRE: Learning-based Volume Rendering Time Prediction**|Zikai Yin et.al.|[2501.12119](http://arxiv.org/abs/2501.12119)|null|
 
-<p align=right>(<a href=#updated-on-20250607>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
 
 ## CPU and Memory Cache
 
@@ -385,7 +385,7 @@
 |**2024-08-21**|**Telepathic Datacenters: Fast RPCs using Shared CXL Memory**|Suyash Mahar et.al.|[2408.11325](http://arxiv.org/abs/2408.11325)|null|
 |**2024-08-18**|**Scalable Systems and Software Architectures for High-Performance Computing on cloud platforms**|Risshab Srinivas Ramesh et.al.|[2408.10281](http://arxiv.org/abs/2408.10281)|null|
 
-<p align=right>(<a href=#updated-on-20250607>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250609>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
