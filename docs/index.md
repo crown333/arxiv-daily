@@ -2,18 +2,19 @@
 layout: default
 ---
 
-## Updated on 2025.06.09
+## Updated on 2025.06.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vector Database and Approximate Nearest Neighbor
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**PCDVQ: Enhancing Vector Quantization for Large Language Models via Polar Coordinate Decoupling**|Yuxuan Yue et.al.|[2506.05432](http://arxiv.org/abs/2506.05432)|null|
 |**2025-06-05**|**On Automating Security Policies with Contemporary LLMs**|Pablo Fernández Saura et.al.|[2506.04838](http://arxiv.org/abs/2506.04838)|null|
 |**2025-06-05**|**LotusFilter: Fast Diverse Nearest Neighbor Search via a Learned Cutoff Table**|Yusuke Matsui et.al.|[2506.04790](http://arxiv.org/abs/2506.04790)|null|
 |**2025-06-04**|**ScoreRAG: A Retrieval-Augmented Generation Framework with Consistency-Relevance Scoring and Structured Summarization for News Generation**|Pei-Yun Lin et.al.|[2506.03704](http://arxiv.org/abs/2506.03704)|null|
-|**2025-06-03**|**Quake: Adaptive Indexing for Vector Search**|Jason Mohoney et.al.|[2506.03437](http://arxiv.org/abs/2506.03437)|null|
-|**2025-06-05**|**Hermes: High-Performance Homomorphically Encrypted Vector Databases**|Dongfang Zhao et.al.|[2506.03308](http://arxiv.org/abs/2506.03308)|null|
+|**2025-06-06**|**Quake: Adaptive Indexing for Vector Search**|Jason Mohoney et.al.|[2506.03437](http://arxiv.org/abs/2506.03437)|null|
+|**2025-06-05**|**Hermes: High-Performance Homomorphically Encrypted Vector Databases**|Dongfang Zhao et.al.|[2506.03308](http://arxiv.org/abs/2506.03308)|**[link](https://github.com/hpdic/hermes)**|
 |**2025-06-03**|**Toward Understanding Bugs in Vector Database Management Systems**|Yinglin Xie et.al.|[2506.02617](http://arxiv.org/abs/2506.02617)|null|
 |**2025-06-03**|**AURA: Agentic Upskilling via Reinforced Abstractions**|Alvin Zhu et.al.|[2506.02507](http://arxiv.org/abs/2506.02507)|null|
 |**2025-05-30**|**RMoA: Optimizing Mixture-of-Agents through Diversity Maximization and Residual Compensation**|Zhentao Xie et.al.|[2505.24442](http://arxiv.org/abs/2505.24442)|null|
@@ -186,7 +187,7 @@ layout: default
 |**2025-05-05**|**Spatiotemporal Non-Uniformity-Aware Online Task Scheduling in Collaborative Edge Computing for Industrial Internet of Things**|Yang Li et.al.|[2505.02597](http://arxiv.org/abs/2505.02597)|null|
 |**2025-05-04**|**Paired 2-disjoint path covers of Bcube under the partitioned edge fault model**|Qingqiong Cai et.al.|[2505.02150](http://arxiv.org/abs/2505.02150)|null|
 |**2025-05-03**|**LCI: a Lightweight Communication Interface for Efficient Asynchronous Multithreaded Communication**|Jiakun Yan et.al.|[2505.01864](http://arxiv.org/abs/2505.01864)|null|
-|**2025-05-01**|**New Distributed Interactive Proofs for Planarity: A Matter of Left and Right**|Yuval Gil et.al.|[2505.00338](http://arxiv.org/abs/2505.00338)|null|
+|**2025-06-07**|**New Distributed Interactive Proofs for Planarity: A Matter of Left and Right**|Yuval Gil et.al.|[2505.00338](http://arxiv.org/abs/2505.00338)|null|
 |**2025-05-01**|**Intelligent Task Scheduling for Microservices via A3C-Based Reinforcement Learning**|Yang Wang et.al.|[2505.00299](http://arxiv.org/abs/2505.00299)|null|
 |**2025-04-30**|**Coyote v2: Raising the Level of Abstraction for Data Center FPGAs**|Benjamin Ramhorst et.al.|[2504.21538](http://arxiv.org/abs/2504.21538)|null|
 |**2025-04-30**|**Scientific Workflow Scheduling in Cloud Considering Cold Start and Variable Pricing Model**|Suvarthi Sarkar et.al.|[2504.21536](http://arxiv.org/abs/2504.21536)|null|
@@ -289,7 +290,7 @@ layout: default
 |**2025-06-05**|**Memory Hierarchy Design for Caching Middleware in the Age of NVM**|Shahram Ghandeharizadeh et.al.|[2506.05071](http://arxiv.org/abs/2506.05071)|null|
 |**2025-05-16**|**Speculative Decoding via Hybrid Drafting and Rollback-Aware Branch Parallelism**|Yuhao Shen et.al.|[2506.01979](http://arxiv.org/abs/2506.01979)|null|
 |**2025-05-13**|**AI Accelerators for Large Language Model In-ference: Architecture Analysis and Scaling Strategies**|Amit Sharma et.al.|[2506.00008](http://arxiv.org/abs/2506.00008)|null|
-|**2025-05-30**|**Bi-SamplerZ: A Hardware-Efficient Gaussian Sampler Architecture for Quantum-Resistant Falcon Signatures**|Binke Zhao et.al.|[2505.24509](http://arxiv.org/abs/2505.24509)|null|
+|**2025-05-30**|**Bi-SamplerZ: A Hardware-Efficient Gaussian Sampler Architecture for Quantum-Resistant Falcon Signatures**|Binke Zhao et.al.|[2505.24509](http://arxiv.org/abs/2505.24509)|**[link](https://github.com/shaibk/bi-samplerz)**|
 |**2025-05-28**|**LaMDAgent: An Autonomous Framework for Post-Training Pipeline Optimization via LLM Agents**|Taro Yano et.al.|[2505.21963](http://arxiv.org/abs/2505.21963)|null|
 |**2025-05-27**|**Improved Prefetching Techniques for Linked Data Structures**|Nikola Vuk Maruszewski et.al.|[2505.21669](http://arxiv.org/abs/2505.21669)|null|
 |**2025-05-24**|**Garibaldi: A Pairwise Instruction-Data Management for Enhancing Shared Last-Level Cache Performance in Server Workloads**|Jaewon Kwon et.al.|[2505.18554](http://arxiv.org/abs/2505.18554)|null|
