@@ -1,4 +1,4 @@
-## Updated on 2025.06.10
+## Updated on 2025.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -132,12 +132,15 @@
 |**2024-12-30**|**LLM-assisted Vector Similarity Search**|Md Riyadh et.al.|[2412.18819](http://arxiv.org/abs/2412.18819)|null|
 |**2024-12-25**|**Optimization and Scalability of Collaborative Filtering Algorithms in Large Language Models**|Haowei Yang et.al.|[2412.18715](http://arxiv.org/abs/2412.18715)|null|
 
-<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
 
 ## Parallel and Concurrent Algorithms
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**MiniCPM4: Ultra-Efficient LLMs on End Devices**|MiniCPM Team et.al.|[2506.07900](http://arxiv.org/abs/2506.07900)|null|
+|**2025-06-09**|**A unified fluid model for nonthermal plasmas and reacting flows**|Xiao Shao et.al.|[2506.07792](http://arxiv.org/abs/2506.07792)|null|
+|**2025-06-09**|**MoE-GPS: Guidlines for Prediction Strategy for Dynamic Expert Duplication in MoE Load Balancing**|Haiyue Ma et.al.|[2506.07366](http://arxiv.org/abs/2506.07366)|null|
 |**2025-06-04**|**LRScheduler: A Layer-aware and Resource-adaptive Container Scheduler in Edge Computing**|Zhiqing Tang et.al.|[2506.03694](http://arxiv.org/abs/2506.03694)|null|
 |**2025-05-29**|**D-Rex: Heterogeneity-Aware Reliability Framework and Adaptive Algorithms for Distributed Storage**|Maxime Gonthier et.al.|[2506.02026](http://arxiv.org/abs/2506.02026)|null|
 |**2025-05-02**|**SubMIT: A Physics Analysis Facility at MIT**|Josh Bendavid et.al.|[2506.01958](http://arxiv.org/abs/2506.01958)|null|
@@ -290,15 +293,17 @@
 |**2025-01-21**|**Distributed Multi-Head Learning Systems for Power Consumption Prediction**|Jia-Hao Syu et.al.|[2501.12133](http://arxiv.org/abs/2501.12133)|null|
 |**2025-01-21**|**ENTIRE: Learning-based Volume Rendering Time Prediction**|Zikai Yin et.al.|[2501.12119](http://arxiv.org/abs/2501.12119)|null|
 
-<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
 
 ## CPU and Memory Cache
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-08**|**Exploiting Inaccurate Branch History in Side-Channel Attacks**|Yuhui Zhu et.al.|[2506.07263](http://arxiv.org/abs/2506.07263)|null|
+|**2025-06-07**|**Taming Wild Branches: Overcoming Hard-to-Predict Branches using the Bullseye Predictor**|Emet Behrendt et.al.|[2506.06773](http://arxiv.org/abs/2506.06773)|null|
 |**2025-06-05**|**Memory Hierarchy Design for Caching Middleware in the Age of NVM**|Shahram Ghandeharizadeh et.al.|[2506.05071](http://arxiv.org/abs/2506.05071)|null|
 |**2025-05-16**|**Speculative Decoding via Hybrid Drafting and Rollback-Aware Branch Parallelism**|Yuhao Shen et.al.|[2506.01979](http://arxiv.org/abs/2506.01979)|null|
-|**2025-05-13**|**AI Accelerators for Large Language Model In-ference: Architecture Analysis and Scaling Strategies**|Amit Sharma et.al.|[2506.00008](http://arxiv.org/abs/2506.00008)|null|
+|**2025-05-13**|**AI Accelerators for Large Language Model Inference: Architecture Analysis and Scaling Strategies**|Amit Sharma et.al.|[2506.00008](http://arxiv.org/abs/2506.00008)|null|
 |**2025-05-30**|**Bi-SamplerZ: A Hardware-Efficient Gaussian Sampler Architecture for Quantum-Resistant Falcon Signatures**|Binke Zhao et.al.|[2505.24509](http://arxiv.org/abs/2505.24509)|**[link](https://github.com/shaibk/bi-samplerz)**|
 |**2025-05-28**|**LaMDAgent: An Autonomous Framework for Post-Training Pipeline Optimization via LLM Agents**|Taro Yano et.al.|[2505.21963](http://arxiv.org/abs/2505.21963)|null|
 |**2025-05-27**|**Improved Prefetching Techniques for Linked Data Structures**|Nikola Vuk Maruszewski et.al.|[2505.21669](http://arxiv.org/abs/2505.21669)|null|
@@ -386,7 +391,7 @@
 |**2024-08-21**|**Telepathic Datacenters: Fast RPCs using Shared CXL Memory**|Suyash Mahar et.al.|[2408.11325](http://arxiv.org/abs/2408.11325)|null|
 |**2024-08-18**|**Scalable Systems and Software Architectures for High-Performance Computing on cloud platforms**|Risshab Srinivas Ramesh et.al.|[2408.10281](http://arxiv.org/abs/2408.10281)|null|
 
-<p align=right>(<a href=#updated-on-20250610>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
