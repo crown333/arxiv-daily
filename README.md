@@ -1,4 +1,4 @@
-## Updated on 2025.06.18
+## Updated on 2025.06.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**HARMONY: A Scalable Distributed Vector Database for High-Throughput Approximate Nearest Neighbor Search**|Qian Xu et.al.|[2506.14707](http://arxiv.org/abs/2506.14707)|null|
+|**2025-06-17**|**Lightweight Relevance Grader in RAG**|Taehee Jeong et.al.|[2506.14084](http://arxiv.org/abs/2506.14084)|null|
 |**2025-06-16**|**EnhanceGraph: A Continuously Enhanced Graph-based Index for High-dimensional Approximate Nearest Neighbor Search**|Xiaoyao Zhong et.al.|[2506.13144](http://arxiv.org/abs/2506.13144)|null|
 |**2025-06-14**|**The Budget AI Researcher and the Power of RAG Chains**|Franklin Lee et.al.|[2506.12317](http://arxiv.org/abs/2506.12317)|null|
 |**2025-06-09**|**LEANN: A Low-Storage Vector Index**|Yichuan Wang et.al.|[2506.08276](http://arxiv.org/abs/2506.08276)|null|
@@ -135,12 +137,13 @@
 |**2024-12-30**|**LLM-assisted Vector Similarity Search**|Md Riyadh et.al.|[2412.18819](http://arxiv.org/abs/2412.18819)|null|
 |**2024-12-25**|**Optimization and Scalability of Collaborative Filtering Algorithms in Large Language Models**|Haowei Yang et.al.|[2412.18715](http://arxiv.org/abs/2412.18715)|null|
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
 
 ## Parallel and Concurrent Algorithms
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-16**|**Load Balancing Mixture of Experts with Similarity Preserving Routers**|Nabil Omi et.al.|[2506.14038](http://arxiv.org/abs/2506.14038)|null|
 |**2025-06-17**|**HarMoEny: Efficient Multi-GPU Inference of MoE Models**|Zachary Doucet et.al.|[2506.12417](http://arxiv.org/abs/2506.12417)|null|
 |**2025-06-14**|**QoS-aware Scheduling of Periodic Real-time Task Graphs on Heterogeneous Pre-occupied MECs**|Ashutosh Shankar et.al.|[2506.12415](http://arxiv.org/abs/2506.12415)|null|
 |**2025-06-17**|**Deep Learning Model Acceleration and Optimization Strategies for Real-Time Recommendation Systems**|Junli Shao et.al.|[2506.11421](http://arxiv.org/abs/2506.11421)|null|
@@ -181,7 +184,7 @@
 |**2025-06-14**|**Reliable Vertical Federated Learning in 5G Core Network Architecture**|Mohamad Mestoukirdi et.al.|[2505.15244](http://arxiv.org/abs/2505.15244)|**[link](https://github.com/merce-fra/Reliable-VFL-in-5G-Core-NW-Arch)**|
 |**2025-05-21**|**KernelOracle: Predicting the Linux Scheduler's Next Move with Deep Learning**|Sampanna Yashwant Kahu et.al.|[2505.15213](http://arxiv.org/abs/2505.15213)|**[link](https://github.com/sampannakahu/kerneloracle)**|
 |**2025-05-21**|**Enhancing Cloud Task Scheduling Using a Hybrid Particle Swarm and Grey Wolf Optimization Approach**|Raveena Prasad et.al.|[2505.15171](http://arxiv.org/abs/2505.15171)|null|
-|**2025-05-21**|**Exploring Dynamic Load Balancing Algorithms for Block-Structured Mesh-and-Particle Simulations in AMReX**|Amitash Nanda et.al.|[2505.15122](http://arxiv.org/abs/2505.15122)|**[link](https://github.com/amitashnanda/acm_pearc_2025_paper_artifact)**|
+|**2025-06-17**|**Exploring Dynamic Load Balancing Algorithms for Block-Structured Mesh-and-Particle Simulations in AMReX**|Amitash Nanda et.al.|[2505.15122](http://arxiv.org/abs/2505.15122)|**[link](https://github.com/amitashnanda/acm_pearc_2025_paper_artifact)**|
 |**2025-05-20**|**Balanced and Elastic End-to-end Training of Dynamic LLMs**|Mohamed Wahib et.al.|[2505.14864](http://arxiv.org/abs/2505.14864)|null|
 |**2025-05-21**|**PSMOA: Policy Support Multi-Objective Optimization Algorithm for Decentralized Data Replication**|Xi Wang et.al.|[2505.14574](http://arxiv.org/abs/2505.14574)|null|
 |**2025-05-20**|**Interpretable Reinforcement Learning for Load Balancing using Kolmogorov-Arnold Networks**|Kamal Singh et.al.|[2505.14459](http://arxiv.org/abs/2505.14459)|null|
@@ -307,7 +310,7 @@
 |**2025-01-21**|**Distributed Multi-Head Learning Systems for Power Consumption Prediction**|Jia-Hao Syu et.al.|[2501.12133](http://arxiv.org/abs/2501.12133)|null|
 |**2025-01-21**|**ENTIRE: Learning-based Volume Rendering Time Prediction**|Zikai Yin et.al.|[2501.12119](http://arxiv.org/abs/2501.12119)|null|
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
 
 ## CPU and Memory Cache
 
@@ -406,7 +409,7 @@
 |**2024-08-21**|**Telepathic Datacenters: Fast RPCs using Shared CXL Memory**|Suyash Mahar et.al.|[2408.11325](http://arxiv.org/abs/2408.11325)|null|
 |**2024-08-18**|**Scalable Systems and Software Architectures for High-Performance Computing on cloud platforms**|Risshab Srinivas Ramesh et.al.|[2408.10281](http://arxiv.org/abs/2408.10281)|null|
 
-<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
