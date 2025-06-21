@@ -1,4 +1,4 @@
-## Updated on 2025.06.19
+## Updated on 2025.06.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -137,12 +137,13 @@
 |**2024-12-30**|**LLM-assisted Vector Similarity Search**|Md Riyadh et.al.|[2412.18819](http://arxiv.org/abs/2412.18819)|null|
 |**2024-12-25**|**Optimization and Scalability of Collaborative Filtering Algorithms in Large Language Models**|Haowei Yang et.al.|[2412.18715](http://arxiv.org/abs/2412.18715)|null|
 
-<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250621>back to top</a>)</p>
 
 ## Parallel and Concurrent Algorithms
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-18**|**MECHA: Multithreaded and Efficient Cryptographic Hardware Access**|Pratama Derry et.al.|[2506.15034](http://arxiv.org/abs/2506.15034)|null|
 |**2025-06-16**|**Load Balancing Mixture of Experts with Similarity Preserving Routers**|Nabil Omi et.al.|[2506.14038](http://arxiv.org/abs/2506.14038)|null|
 |**2025-06-17**|**HarMoEny: Efficient Multi-GPU Inference of MoE Models**|Zachary Doucet et.al.|[2506.12417](http://arxiv.org/abs/2506.12417)|null|
 |**2025-06-14**|**QoS-aware Scheduling of Periodic Real-time Task Graphs on Heterogeneous Pre-occupied MECs**|Ashutosh Shankar et.al.|[2506.12415](http://arxiv.org/abs/2506.12415)|null|
@@ -152,7 +153,7 @@
 |**2025-06-12**|**Is Sparse Matrix Reordering Effective for Sparse Matrix-Vector Multiplication?**|Omid Asudeh et.al.|[2506.10356](http://arxiv.org/abs/2506.10356)|null|
 |**2025-06-11**|**Analytic Task Scheduler: Recursive Least Squares Based Method for Continual Learning in Embodied Foundation Models**|Lipei Xie et.al.|[2506.09623](http://arxiv.org/abs/2506.09623)|null|
 |**2025-06-11**|**Efficient Task Graph Scheduling for Parallel QR Factorization in SLSQP**|Soumyajit Chatterjee et.al.|[2506.09463](http://arxiv.org/abs/2506.09463)|null|
-|**2025-06-10**|**Agile Reinforcement Learning for Real-Time Task Scheduling in Edge Computing**|Amin Avan et.al.|[2506.08850](http://arxiv.org/abs/2506.08850)|null|
+|**2025-06-10**|**Agile Reinforcement Learning for Real-Time Task Scheduling in Edge Computing**|Amin Avan et.al.|[2506.08850](http://arxiv.org/abs/2506.08850)|**[link](https://github.com/aminavan/arl-rt-ts-ec)**|
 |**2025-06-10**|**ABC-FHE : A Resource-Efficient Accelerator Enabling Bootstrappable Parameters for Client-Side Fully Homomorphic Encryption**|Sungwoong Yune et.al.|[2506.08461](http://arxiv.org/abs/2506.08461)|null|
 |**2025-06-09**|**Congestion-Aware Path Selection for Load Balancing in AI Clusters**|Erfan Nosrati et.al.|[2506.08132](http://arxiv.org/abs/2506.08132)|null|
 |**2025-06-09**|**MiniCPM4: Ultra-Efficient LLMs on End Devices**|MiniCPM Team et.al.|[2506.07900](http://arxiv.org/abs/2506.07900)|**[link](https://github.com/openbmb/minicpm)**|
@@ -310,12 +311,13 @@
 |**2025-01-21**|**Distributed Multi-Head Learning Systems for Power Consumption Prediction**|Jia-Hao Syu et.al.|[2501.12133](http://arxiv.org/abs/2501.12133)|null|
 |**2025-01-21**|**ENTIRE: Learning-based Volume Rendering Time Prediction**|Zikai Yin et.al.|[2501.12119](http://arxiv.org/abs/2501.12119)|null|
 
-<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250621>back to top</a>)</p>
 
 ## CPU and Memory Cache
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-18**|**A Novel Compiler Transformation for Fast Sparse Matrix Multiplication in GPUs**|Hossein Albakri et.al.|[2506.15174](http://arxiv.org/abs/2506.15174)|null|
 |**2025-06-11**|**Mainframe-style channel controllers for modern disaggregated memory systems**|Zikai Liu et.al.|[2506.09758](http://arxiv.org/abs/2506.09758)|null|
 |**2025-06-08**|**Exploiting Inaccurate Branch History in Side-Channel Attacks**|Yuhui Zhu et.al.|[2506.07263](http://arxiv.org/abs/2506.07263)|null|
 |**2025-06-07**|**Taming Wild Branches: Overcoming Hard-to-Predict Branches using the Bullseye Predictor**|Emet Behrendt et.al.|[2506.06773](http://arxiv.org/abs/2506.06773)|null|
@@ -409,7 +411,7 @@
 |**2024-08-21**|**Telepathic Datacenters: Fast RPCs using Shared CXL Memory**|Suyash Mahar et.al.|[2408.11325](http://arxiv.org/abs/2408.11325)|null|
 |**2024-08-18**|**Scalable Systems and Software Architectures for High-Performance Computing on cloud platforms**|Risshab Srinivas Ramesh et.al.|[2408.10281](http://arxiv.org/abs/2408.10281)|null|
 
-<p align=right>(<a href=#updated-on-20250619>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250621>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
