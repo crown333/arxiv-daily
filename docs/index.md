@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.22
+## Updated on 2025.06.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vector Database and Approximate Nearest Neighbor
@@ -10,13 +10,13 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-06-17**|**HARMONY: A Scalable Distributed Vector Database for High-Throughput Approximate Nearest Neighbor Search**|Qian Xu et.al.|[2506.14707](http://arxiv.org/abs/2506.14707)|null|
-|**2025-06-17**|**Lightweight Relevance Grader in RAG**|Taehee Jeong et.al.|[2506.14084](http://arxiv.org/abs/2506.14084)|null|
+|**2025-06-17**|**Lightweight Relevance Grader in RAG**|Taehee Jeong et.al.|[2506.14084](http://arxiv.org/abs/2506.14084)|**[link](https://github.com/taeheej/lightweight-relevance-grader-in-rag)**|
 |**2025-06-16**|**EnhanceGraph: A Continuously Enhanced Graph-based Index for High-dimensional Approximate Nearest Neighbor Search**|Xiaoyao Zhong et.al.|[2506.13144](http://arxiv.org/abs/2506.13144)|null|
 |**2025-06-14**|**The Budget AI Researcher and the Power of RAG Chains**|Franklin Lee et.al.|[2506.12317](http://arxiv.org/abs/2506.12317)|null|
 |**2025-06-09**|**LEANN: A Low-Storage Vector Index**|Yichuan Wang et.al.|[2506.08276](http://arxiv.org/abs/2506.08276)|null|
 |**2025-06-05**|**PCDVQ: Enhancing Vector Quantization for Large Language Models via Polar Coordinate Decoupling**|Yuxuan Yue et.al.|[2506.05432](http://arxiv.org/abs/2506.05432)|null|
 |**2025-06-05**|**On Automating Security Policies with Contemporary LLMs**|Pablo Fernández Saura et.al.|[2506.04838](http://arxiv.org/abs/2506.04838)|null|
-|**2025-06-05**|**LotusFilter: Fast Diverse Nearest Neighbor Search via a Learned Cutoff Table**|Yusuke Matsui et.al.|[2506.04790](http://arxiv.org/abs/2506.04790)|null|
+|**2025-06-05**|**LotusFilter: Fast Diverse Nearest Neighbor Search via a Learned Cutoff Table**|Yusuke Matsui et.al.|[2506.04790](http://arxiv.org/abs/2506.04790)|**[link](https://github.com/matsui528/lotf)**|
 |**2025-06-04**|**ScoreRAG: A Retrieval-Augmented Generation Framework with Consistency-Relevance Scoring and Structured Summarization for News Generation**|Pei-Yun Lin et.al.|[2506.03704](http://arxiv.org/abs/2506.03704)|null|
 |**2025-06-06**|**Quake: Adaptive Indexing for Vector Search**|Jason Mohoney et.al.|[2506.03437](http://arxiv.org/abs/2506.03437)|null|
 |**2025-06-05**|**Hermes: High-Performance Homomorphically Encrypted Vector Databases**|Dongfang Zhao et.al.|[2506.03308](http://arxiv.org/abs/2506.03308)|**[link](https://github.com/hpdic/hermes)**|
