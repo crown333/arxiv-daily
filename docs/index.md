@@ -2,16 +2,20 @@
 layout: default
 ---
 
-## Updated on 2025.06.23
+## Updated on 2025.06.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vector Database and Approximate Nearest Neighbor
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-19**|**Semantic Outlier Removal with Embedding Models and LLMs**|Eren Akbiyik et.al.|[2506.16644](http://arxiv.org/abs/2506.16644)|null|
+|**2025-06-19**|**REIS: A High-Performance and Energy-Efficient Retrieval System with In-Storage Processing**|Kangqi Chen et.al.|[2506.16444](http://arxiv.org/abs/2506.16444)|null|
+|**2025-06-19**|**Filter-Centric Vector Indexing: Geometric Transformation for Efficient Filtered Vector Search**|Alireza Heidari et.al.|[2506.15987](http://arxiv.org/abs/2506.15987)|null|
+|**2025-06-19**|**Empowering Graph-based Approximate Nearest Neighbor Search with Adaptive Awareness Capabilities**|Jiancheng Ruan et.al.|[2506.15986](http://arxiv.org/abs/2506.15986)|null|
 |**2025-06-17**|**HARMONY: A Scalable Distributed Vector Database for High-Throughput Approximate Nearest Neighbor Search**|Qian Xu et.al.|[2506.14707](http://arxiv.org/abs/2506.14707)|null|
 |**2025-06-17**|**Lightweight Relevance Grader in RAG**|Taehee Jeong et.al.|[2506.14084](http://arxiv.org/abs/2506.14084)|**[link](https://github.com/taeheej/lightweight-relevance-grader-in-rag)**|
-|**2025-06-16**|**EnhanceGraph: A Continuously Enhanced Graph-based Index for High-dimensional Approximate Nearest Neighbor Search**|Xiaoyao Zhong et.al.|[2506.13144](http://arxiv.org/abs/2506.13144)|null|
+|**2025-06-23**|**EnhanceGraph: A Continuously Enhanced Graph-based Index for High-dimensional Approximate Nearest Neighbor Search**|Xiaoyao Zhong et.al.|[2506.13144](http://arxiv.org/abs/2506.13144)|null|
 |**2025-06-14**|**The Budget AI Researcher and the Power of RAG Chains**|Franklin Lee et.al.|[2506.12317](http://arxiv.org/abs/2506.12317)|null|
 |**2025-06-09**|**LEANN: A Low-Storage Vector Index**|Yichuan Wang et.al.|[2506.08276](http://arxiv.org/abs/2506.08276)|null|
 |**2025-06-05**|**PCDVQ: Enhancing Vector Quantization for Large Language Models via Polar Coordinate Decoupling**|Yuxuan Yue et.al.|[2506.05432](http://arxiv.org/abs/2506.05432)|null|
@@ -40,7 +44,7 @@ layout: default
 |**2025-05-19**|**Agentic Publications: An LLM-Driven Framework for Interactive Scientific Publishing, Supplementing Traditional Papers with AI-Powered Knowledge Systems**|Roberto Pugliese et.al.|[2505.13246](http://arxiv.org/abs/2505.13246)|null|
 |**2025-05-20**|**Harnessing the Universal Geometry of Embeddings**|Rishi Jha et.al.|[2505.12540](http://arxiv.org/abs/2505.12540)|**[link](https://github.com/rjha18/vec2vec)**|
 |**2025-05-18**|**HAKES: Scalable Vector Database for Embedding Search Service**|Guoyu Hu et.al.|[2505.12524](http://arxiv.org/abs/2505.12524)|null|
-|**2025-05-18**|**LightRetriever: A LLM-based Hybrid Retrieval Architecture with 1000x Faster Query Inference**|Guangyuan Ma et.al.|[2505.12260](http://arxiv.org/abs/2505.12260)|**[link](https://github.com/caskcsg/lightretriever)**|
+|**2025-06-22**|**LightRetriever: A LLM-based Hybrid Retrieval Architecture with 1000x Faster Query Inference**|Guangyuan Ma et.al.|[2505.12260](http://arxiv.org/abs/2505.12260)|**[link](https://github.com/caskcsg/lightretriever)**|
 |**2025-05-17**|**Efficient Vector Search on Disaggregated Memory with d-HNSW**|Yi Liu et.al.|[2505.11783](http://arxiv.org/abs/2505.11783)|null|
 |**2025-05-15**|**From Text to Network: Constructing a Knowledge Graph of Taiwan-Based China Studies Using Generative AI**|Hsuan-Lei Shao et.al.|[2505.10093](http://arxiv.org/abs/2505.10093)|null|
 |**2025-05-14**|**Focus, Merge, Rank: Improved Question Answering Based on Semi-structured Knowledge Bases**|Derian Boer et.al.|[2505.09246](http://arxiv.org/abs/2505.09246)|**[link](https://github.com/kramerlab/focusedretriever)**|
@@ -175,7 +179,7 @@ layout: default
 |**2025-05-22**|**Graph Neural Network-Based Collaborative Perception for Adaptive Scheduling in Distributed Systems**|Wenxuan Zhu et.al.|[2505.16248](http://arxiv.org/abs/2505.16248)|null|
 |**2025-05-21**|**Robo-DM: Data Management For Large Robot Datasets**|Kaiyuan Chen et.al.|[2505.15558](http://arxiv.org/abs/2505.15558)|null|
 |**2025-05-21**|**SoftHGNN: Soft Hypergraph Neural Networks for General Visual Recognition**|Mengqi Lei et.al.|[2505.15325](http://arxiv.org/abs/2505.15325)|**[link](https://github.com/Mengqi-Lei/SoftHGNN)**|
-|**2025-06-14**|**Reliable Vertical Federated Learning in 5G Core Network Architecture**|Mohamad Mestoukirdi et.al.|[2505.15244](http://arxiv.org/abs/2505.15244)|**[link](https://github.com/merce-fra/Reliable-VFL-in-5G-Core-NW-Arch)**|
+|**2025-06-23**|**Reliable Vertical Federated Learning in 5G Core Network Architecture**|Mohamad Mestoukirdi et.al.|[2505.15244](http://arxiv.org/abs/2505.15244)|**[link](https://github.com/merce-fra/Reliable-VFL-in-5G-Core-NW-Arch)**|
 |**2025-05-21**|**KernelOracle: Predicting the Linux Scheduler's Next Move with Deep Learning**|Sampanna Yashwant Kahu et.al.|[2505.15213](http://arxiv.org/abs/2505.15213)|**[link](https://github.com/sampannakahu/kerneloracle)**|
 |**2025-05-21**|**Enhancing Cloud Task Scheduling Using a Hybrid Particle Swarm and Grey Wolf Optimization Approach**|Raveena Prasad et.al.|[2505.15171](http://arxiv.org/abs/2505.15171)|null|
 |**2025-06-17**|**Exploring Dynamic Load Balancing Algorithms for Block-Structured Mesh-and-Particle Simulations in AMReX**|Amitash Nanda et.al.|[2505.15122](http://arxiv.org/abs/2505.15122)|**[link](https://github.com/amitashnanda/acm_pearc_2025_paper_artifact)**|
