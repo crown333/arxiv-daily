@@ -1,4 +1,4 @@
-## Updated on 2025.06.24
+## Updated on 2025.06.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-19**|**Privacy-Preserving LLM Interaction with Socratic Chain-of-Thought Reasoning and Homomorphically Encrypted Vector Databases**|Yubeen Bae et.al.|[2506.17336](http://arxiv.org/abs/2506.17336)|**[link](https://github.com/Yubeen-Bae/PPMI)**|
 |**2025-06-19**|**Semantic Outlier Removal with Embedding Models and LLMs**|Eren Akbiyik et.al.|[2506.16644](http://arxiv.org/abs/2506.16644)|null|
 |**2025-06-19**|**REIS: A High-Performance and Energy-Efficient Retrieval System with In-Storage Processing**|Kangqi Chen et.al.|[2506.16444](http://arxiv.org/abs/2506.16444)|null|
 |**2025-06-19**|**Filter-Centric Vector Indexing: Geometric Transformation for Efficient Filtered Vector Search**|Alireza Heidari et.al.|[2506.15987](http://arxiv.org/abs/2506.15987)|null|
@@ -31,7 +32,7 @@
 |**2025-06-05**|**Hermes: High-Performance Homomorphically Encrypted Vector Databases**|Dongfang Zhao et.al.|[2506.03308](http://arxiv.org/abs/2506.03308)|**[link](https://github.com/hpdic/hermes)**|
 |**2025-06-03**|**Toward Understanding Bugs in Vector Database Management Systems**|Yinglin Xie et.al.|[2506.02617](http://arxiv.org/abs/2506.02617)|null|
 |**2025-06-03**|**AURA: Agentic Upskilling via Reinforced Abstractions**|Alvin Zhu et.al.|[2506.02507](http://arxiv.org/abs/2506.02507)|null|
-|**2025-05-30**|**RMoA: Optimizing Mixture-of-Agents through Diversity Maximization and Residual Compensation**|Zhentao Xie et.al.|[2505.24442](http://arxiv.org/abs/2505.24442)|null|
+|**2025-05-30**|**RMoA: Optimizing Mixture-of-Agents through Diversity Maximization and Residual Compensation**|Zhentao Xie et.al.|[2505.24442](http://arxiv.org/abs/2505.24442)|**[link](https://github.com/mindhunter01/rmoa)**|
 |**2025-05-28**|**Fast Feature Matching of UAV Images via Matrix Band Reduction-based GPU Data Schedule**|San Jiang et.al.|[2505.22089](http://arxiv.org/abs/2505.22089)|null|
 |**2025-05-27**|**LazyVLM: Neuro-Symbolic Approach to Video Analytics**|Xiangru Jian et.al.|[2505.21459](http://arxiv.org/abs/2505.21459)|null|
 |**2025-05-26**|**Probabilistic Kernel Function for Fast Angle Testing**|Kejing Lu et.al.|[2505.20274](http://arxiv.org/abs/2505.20274)|null|
@@ -141,12 +142,13 @@
 |**2024-12-30**|**LLM-assisted Vector Similarity Search**|Md Riyadh et.al.|[2412.18819](http://arxiv.org/abs/2412.18819)|null|
 |**2024-12-25**|**Optimization and Scalability of Collaborative Filtering Algorithms in Large Language Models**|Haowei Yang et.al.|[2412.18715](http://arxiv.org/abs/2412.18715)|null|
 
-<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
 
 ## Parallel and Concurrent Algorithms
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-24**|**Research on Model Parallelism and Data Parallelism Optimization Methods in Large Language Model-Based Recommendation Systems**|Haowei Yang et.al.|[2506.17551](http://arxiv.org/abs/2506.17551)|null|
 |**2025-06-18**|**MECHA: Multithreaded and Efficient Cryptographic Hardware Access**|Pratama Derry et.al.|[2506.15034](http://arxiv.org/abs/2506.15034)|null|
 |**2025-06-16**|**Load Balancing Mixture of Experts with Similarity Preserving Routers**|Nabil Omi et.al.|[2506.14038](http://arxiv.org/abs/2506.14038)|null|
 |**2025-06-17**|**HarMoEny: Efficient Multi-GPU Inference of MoE Models**|Zachary Doucet et.al.|[2506.12417](http://arxiv.org/abs/2506.12417)|null|
@@ -315,12 +317,13 @@
 |**2025-01-21**|**Distributed Multi-Head Learning Systems for Power Consumption Prediction**|Jia-Hao Syu et.al.|[2501.12133](http://arxiv.org/abs/2501.12133)|null|
 |**2025-01-21**|**ENTIRE: Learning-based Volume Rendering Time Prediction**|Zikai Yin et.al.|[2501.12119](http://arxiv.org/abs/2501.12119)|null|
 
-<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
 
 ## CPU and Memory Cache
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-23**|**Design high-confidence computers using trusted instructional set architecture and emulators**|Shuangbao Paul Wang et.al.|[2506.18780](http://arxiv.org/abs/2506.18780)|null|
 |**2025-06-18**|**A Novel Compiler Transformation for Fast Sparse Matrix Multiplication in GPUs**|Hossein Albakri et.al.|[2506.15174](http://arxiv.org/abs/2506.15174)|null|
 |**2025-06-11**|**Mainframe-style channel controllers for modern disaggregated memory systems**|Zikai Liu et.al.|[2506.09758](http://arxiv.org/abs/2506.09758)|null|
 |**2025-06-08**|**Exploiting Inaccurate Branch History in Side-Channel Attacks**|Yuhui Zhu et.al.|[2506.07263](http://arxiv.org/abs/2506.07263)|null|
@@ -415,7 +418,7 @@
 |**2024-08-21**|**Telepathic Datacenters: Fast RPCs using Shared CXL Memory**|Suyash Mahar et.al.|[2408.11325](http://arxiv.org/abs/2408.11325)|null|
 |**2024-08-18**|**Scalable Systems and Software Architectures for High-Performance Computing on cloud platforms**|Risshab Srinivas Ramesh et.al.|[2408.10281](http://arxiv.org/abs/2408.10281)|null|
 
-<p align=right>(<a href=#updated-on-20250624>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250625>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
