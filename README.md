@@ -1,4 +1,4 @@
-## Updated on 2025.06.27
+## Updated on 2025.06.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**ComRAG: Retrieval-Augmented Generation with Dynamic Vector Stores for Real-time Community Question Answering in Industry**|Qinwen Chen et.al.|[2506.21098](http://arxiv.org/abs/2506.21098)|null|
 |**2025-06-25**|**The kernel of graph indices for vector search**|Mariano Tepper et.al.|[2506.20584](http://arxiv.org/abs/2506.20584)|null|
 |**2025-06-25**|**BotHash: Efficient and Training-Free Bot Detection Through Approximate Nearest Neighbor**|Edoardo Di Paolo et.al.|[2506.20503](http://arxiv.org/abs/2506.20503)|null|
 |**2025-06-19**|**Privacy-Preserving LLM Interaction with Socratic Chain-of-Thought Reasoning and Homomorphically Encrypted Vector Databases**|Yubeen Bae et.al.|[2506.17336](http://arxiv.org/abs/2506.17336)|**[link](https://github.com/Yubeen-Bae/PPMI)**|
@@ -144,12 +145,13 @@
 |**2024-12-30**|**LLM-assisted Vector Similarity Search**|Md Riyadh et.al.|[2412.18819](http://arxiv.org/abs/2412.18819)|null|
 |**2024-12-25**|**Optimization and Scalability of Collaborative Filtering Algorithms in Large Language Models**|Haowei Yang et.al.|[2412.18715](http://arxiv.org/abs/2412.18715)|null|
 
-<p align=right>(<a href=#updated-on-20250627>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250628>back to top</a>)</p>
 
 ## Parallel and Concurrent Algorithms
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**Latent Prototype Routing: Achieving Near-Perfect Load Balancing in Mixture-of-Experts**|Jiajie Yang et.al.|[2506.21328](http://arxiv.org/abs/2506.21328)|null|
 |**2025-06-25**|**SuperSONIC: Cloud-Native Infrastructure for ML Inferencing**|Dmitry Kondratyev et.al.|[2506.20657](http://arxiv.org/abs/2506.20657)|null|
 |**2025-06-25**|**A Data-Driven Approach for Topology Correction in Low Voltage Networks with DERs**|Dong Liu et.al.|[2506.20238](http://arxiv.org/abs/2506.20238)|null|
 |**2025-06-24**|**Efficient Extreme Operating Condition Search for Online Relay Setting Calculation in Renewable Power Systems Based on Parallel Graph Neural Network**|Yan Li et.al.|[2506.19289](http://arxiv.org/abs/2506.19289)|null|
@@ -322,7 +324,7 @@
 |**2025-01-21**|**Distributed Multi-Head Learning Systems for Power Consumption Prediction**|Jia-Hao Syu et.al.|[2501.12133](http://arxiv.org/abs/2501.12133)|null|
 |**2025-01-21**|**ENTIRE: Learning-based Volume Rendering Time Prediction**|Zikai Yin et.al.|[2501.12119](http://arxiv.org/abs/2501.12119)|null|
 
-<p align=right>(<a href=#updated-on-20250627>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250628>back to top</a>)</p>
 
 ## CPU and Memory Cache
 
@@ -423,7 +425,7 @@
 |**2024-08-21**|**Telepathic Datacenters: Fast RPCs using Shared CXL Memory**|Suyash Mahar et.al.|[2408.11325](http://arxiv.org/abs/2408.11325)|null|
 |**2024-08-18**|**Scalable Systems and Software Architectures for High-Performance Computing on cloud platforms**|Risshab Srinivas Ramesh et.al.|[2408.10281](http://arxiv.org/abs/2408.10281)|null|
 
-<p align=right>(<a href=#updated-on-20250627>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250628>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

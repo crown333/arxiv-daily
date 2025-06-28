@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.06.27
+## Updated on 2025.06.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vector Database and Approximate Nearest Neighbor
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**ComRAG: Retrieval-Augmented Generation with Dynamic Vector Stores for Real-time Community Question Answering in Industry**|Qinwen Chen et.al.|[2506.21098](http://arxiv.org/abs/2506.21098)|null|
 |**2025-06-25**|**The kernel of graph indices for vector search**|Mariano Tepper et.al.|[2506.20584](http://arxiv.org/abs/2506.20584)|null|
 |**2025-06-25**|**BotHash: Efficient and Training-Free Bot Detection Through Approximate Nearest Neighbor**|Edoardo Di Paolo et.al.|[2506.20503](http://arxiv.org/abs/2506.20503)|null|
 |**2025-06-19**|**Privacy-Preserving LLM Interaction with Socratic Chain-of-Thought Reasoning and Homomorphically Encrypted Vector Databases**|Yubeen Bae et.al.|[2506.17336](http://arxiv.org/abs/2506.17336)|**[link](https://github.com/Yubeen-Bae/PPMI)**|
@@ -143,6 +144,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**Latent Prototype Routing: Achieving Near-Perfect Load Balancing in Mixture-of-Experts**|Jiajie Yang et.al.|[2506.21328](http://arxiv.org/abs/2506.21328)|null|
 |**2025-06-25**|**SuperSONIC: Cloud-Native Infrastructure for ML Inferencing**|Dmitry Kondratyev et.al.|[2506.20657](http://arxiv.org/abs/2506.20657)|null|
 |**2025-06-25**|**A Data-Driven Approach for Topology Correction in Low Voltage Networks with DERs**|Dong Liu et.al.|[2506.20238](http://arxiv.org/abs/2506.20238)|null|
 |**2025-06-24**|**Efficient Extreme Operating Condition Search for Online Relay Setting Calculation in Renewable Power Systems Based on Parallel Graph Neural Network**|Yan Li et.al.|[2506.19289](http://arxiv.org/abs/2506.19289)|null|
