@@ -1,4 +1,4 @@
-## Updated on 2025.06.30
+## Updated on 2025.07.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -145,12 +145,14 @@
 |**2024-12-30**|**LLM-assisted Vector Similarity Search**|Md Riyadh et.al.|[2412.18819](http://arxiv.org/abs/2412.18819)|null|
 |**2024-12-25**|**Optimization and Scalability of Collaborative Filtering Algorithms in Large Language Models**|Haowei Yang et.al.|[2412.18715](http://arxiv.org/abs/2412.18715)|null|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 ## Parallel and Concurrent Algorithms
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-27**|**Towards Distributed Neural Architectures**|Aditya Cowsik et.al.|[2506.22389](http://arxiv.org/abs/2506.22389)|null|
+|**2025-06-27**|**Joint Task Offloading and Resource Allocation in Low-Altitude MEC via Graph Attention Diffusion**|Yifan Xue et.al.|[2506.21933](http://arxiv.org/abs/2506.21933)|null|
 |**2025-06-26**|**Latent Prototype Routing: Achieving Near-Perfect Load Balancing in Mixture-of-Experts**|Jiajie Yang et.al.|[2506.21328](http://arxiv.org/abs/2506.21328)|null|
 |**2025-06-25**|**SuperSONIC: Cloud-Native Infrastructure for ML Inferencing**|Dmitry Kondratyev et.al.|[2506.20657](http://arxiv.org/abs/2506.20657)|null|
 |**2025-06-25**|**A Data-Driven Approach for Topology Correction in Low Voltage Networks with DERs**|Dong Liu et.al.|[2506.20238](http://arxiv.org/abs/2506.20238)|null|
@@ -324,7 +326,7 @@
 |**2025-01-21**|**Distributed Multi-Head Learning Systems for Power Consumption Prediction**|Jia-Hao Syu et.al.|[2501.12133](http://arxiv.org/abs/2501.12133)|null|
 |**2025-01-21**|**ENTIRE: Learning-based Volume Rendering Time Prediction**|Zikai Yin et.al.|[2501.12119](http://arxiv.org/abs/2501.12119)|null|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 ## CPU and Memory Cache
 
@@ -373,8 +375,8 @@
 |**2025-03-17**|**Branch Prediction Analysis of Morris-Pratt and Knuth-Morris-Pratt Algorithms**|Cyril Nicaud et.al.|[2503.13694](http://arxiv.org/abs/2503.13694)|null|
 |**2025-03-17**|**PrETi: Predicting Execution Time in Early Stage with LLVM and Machine Learning**|Risheng Xu et.al.|[2503.13679](http://arxiv.org/abs/2503.13679)|null|
 |**2025-03-24**|**HERMES: High-Performance RISC-V Memory Hierarchy for ML Workloads**|Pranav Suryadevara et.al.|[2503.13064](http://arxiv.org/abs/2503.13064)|null|
-|**2025-03-04**|**VQ-LLM: High-performance Code Generation for Vector Quantization Augmented LLM Inference**|Zihan Liu et.al.|[2503.02236](http://arxiv.org/abs/2503.02236)|null|
-|**2025-02-28**|**Cicada: A Pipeline-Efficient Approach to Serverless Inference with Decoupled Management**|Z. Wu et.al.|[2502.20959](http://arxiv.org/abs/2502.20959)|null|
+|**2025-06-30**|**VQ-LLM: High-performance Code Generation for Vector Quantization Augmented LLM Inference**|Zihan Liu et.al.|[2503.02236](http://arxiv.org/abs/2503.02236)|null|
+|**2025-06-28**|**Cicada: A Pipeline-Efficient Approach to Serverless Inference with Decoupled Management**|Z. Wu et.al.|[2502.20959](http://arxiv.org/abs/2502.20959)|null|
 |**2025-02-28**|**$R^4$ : A Racetrack Register File with Runtime Software Reconfiguration**|Christian Hakert et.al.|[2502.20775](http://arxiv.org/abs/2502.20775)|null|
 |**2025-05-01**|**TerEffic: Highly Efficient Ternary LLM Inference on FPGA**|Chenyang Yin et.al.|[2502.16473](http://arxiv.org/abs/2502.16473)|null|
 |**2025-02-06**|**Light Virtualization: a proof-of-concept for hardware-based virtualization**|Francesco Ciraolo et.al.|[2502.15738](http://arxiv.org/abs/2502.15738)|null|
@@ -425,7 +427,7 @@
 |**2024-08-21**|**Telepathic Datacenters: Fast RPCs using Shared CXL Memory**|Suyash Mahar et.al.|[2408.11325](http://arxiv.org/abs/2408.11325)|null|
 |**2024-08-18**|**Scalable Systems and Software Architectures for High-Performance Computing on cloud platforms**|Risshab Srinivas Ramesh et.al.|[2408.10281](http://arxiv.org/abs/2408.10281)|null|
 
-<p align=right>(<a href=#updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
