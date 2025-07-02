@@ -1,4 +1,4 @@
-## Updated on 2025.07.01
+## Updated on 2025.07.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,10 +14,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-06-26**|**ComRAG: Retrieval-Augmented Generation with Dynamic Vector Stores for Real-time Community Question Answering in Industry**|Qinwen Chen et.al.|[2506.21098](http://arxiv.org/abs/2506.21098)|null|
+|**2025-06-29**|**LLM-Assisted Question-Answering on Technical Documents Using Structured Data-Aware Retrieval Augmented Generation**|Shadman Sobhan et.al.|[2506.23136](http://arxiv.org/abs/2506.23136)|null|
+|**2025-06-28**|**Machine Assistant with Reliable Knowledge: Enhancing Student Learning via RAG-based Retrieval**|Yongsheng Lian et.al.|[2506.23026](http://arxiv.org/abs/2506.23026)|null|
+|**2025-06-24**|**Hallucination Detection with Small Language Models**|Ming Cheung et.al.|[2506.22486](http://arxiv.org/abs/2506.22486)|null|
+|**2025-07-01**|**ComRAG: Retrieval-Augmented Generation with Dynamic Vector Stores for Real-time Community Question Answering in Industry**|Qinwen Chen et.al.|[2506.21098](http://arxiv.org/abs/2506.21098)|null|
 |**2025-06-25**|**The kernel of graph indices for vector search**|Mariano Tepper et.al.|[2506.20584](http://arxiv.org/abs/2506.20584)|null|
 |**2025-06-25**|**BotHash: Efficient and Training-Free Bot Detection Through Approximate Nearest Neighbor**|Edoardo Di Paolo et.al.|[2506.20503](http://arxiv.org/abs/2506.20503)|null|
-|**2025-06-19**|**Privacy-Preserving LLM Interaction with Socratic Chain-of-Thought Reasoning and Homomorphically Encrypted Vector Databases**|Yubeen Bae et.al.|[2506.17336](http://arxiv.org/abs/2506.17336)|**[link](https://github.com/Yubeen-Bae/PPMI)**|
+|**2025-07-01**|**Privacy-Preserving LLM Interaction with Socratic Chain-of-Thought Reasoning and Homomorphically Encrypted Vector Databases**|Yubeen Bae et.al.|[2506.17336](http://arxiv.org/abs/2506.17336)|**[link](https://github.com/Yubeen-Bae/PPMI)**|
 |**2025-06-19**|**Semantic Outlier Removal with Embedding Models and LLMs**|Eren Akbiyik et.al.|[2506.16644](http://arxiv.org/abs/2506.16644)|null|
 |**2025-06-19**|**REIS: A High-Performance and Energy-Efficient Retrieval System with In-Storage Processing**|Kangqi Chen et.al.|[2506.16444](http://arxiv.org/abs/2506.16444)|null|
 |**2025-06-19**|**Filter-Centric Vector Indexing: Geometric Transformation for Efficient Filtered Vector Search**|Alireza Heidari et.al.|[2506.15987](http://arxiv.org/abs/2506.15987)|null|
@@ -145,12 +148,15 @@
 |**2024-12-30**|**LLM-assisted Vector Similarity Search**|Md Riyadh et.al.|[2412.18819](http://arxiv.org/abs/2412.18819)|null|
 |**2024-12-25**|**Optimization and Scalability of Collaborative Filtering Algorithms in Large Language Models**|Haowei Yang et.al.|[2412.18715](http://arxiv.org/abs/2412.18715)|null|
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
 
 ## Parallel and Concurrent Algorithms
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**Data-Driven Power Modeling and Monitoring via Hardware Performance Counter Tracking**|Sergio Mazzola et.al.|[2506.23672](http://arxiv.org/abs/2506.23672)|null|
+|**2025-06-29**|**PCLVis: Visual Analytics of Process Communication Latency in Large-Scale Simulation**|Chongke Bi et.al.|[2506.23257](http://arxiv.org/abs/2506.23257)|null|
+|**2025-06-28**|**Libra: Synergizing CUDA and Tensor Cores for High-Performance Sparse Matrix Multiplication**|Jinliang Shi et.al.|[2506.22714](http://arxiv.org/abs/2506.22714)|null|
 |**2025-06-27**|**Towards Distributed Neural Architectures**|Aditya Cowsik et.al.|[2506.22389](http://arxiv.org/abs/2506.22389)|null|
 |**2025-06-27**|**Joint Task Offloading and Resource Allocation in Low-Altitude MEC via Graph Attention Diffusion**|Yifan Xue et.al.|[2506.21933](http://arxiv.org/abs/2506.21933)|null|
 |**2025-06-26**|**Latent Prototype Routing: Achieving Near-Perfect Load Balancing in Mixture-of-Experts**|Jiajie Yang et.al.|[2506.21328](http://arxiv.org/abs/2506.21328)|null|
@@ -326,12 +332,13 @@
 |**2025-01-21**|**Distributed Multi-Head Learning Systems for Power Consumption Prediction**|Jia-Hao Syu et.al.|[2501.12133](http://arxiv.org/abs/2501.12133)|null|
 |**2025-01-21**|**ENTIRE: Learning-based Volume Rendering Time Prediction**|Zikai Yin et.al.|[2501.12119](http://arxiv.org/abs/2501.12119)|null|
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
 
 ## CPU and Memory Cache
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**MotionGPT3: Human Motion as a Second Modality**|Bingfan Zhu et.al.|[2506.24086](http://arxiv.org/abs/2506.24086)|null|
 |**2025-06-23**|**Design high-confidence computers using trusted instructional set architecture and emulators**|Shuangbao Paul Wang et.al.|[2506.18780](http://arxiv.org/abs/2506.18780)|null|
 |**2025-06-18**|**A Novel Compiler Transformation for Fast Sparse Matrix Multiplication in GPUs**|Hossein Albakri et.al.|[2506.15174](http://arxiv.org/abs/2506.15174)|null|
 |**2025-06-11**|**Mainframe-style channel controllers for modern disaggregated memory systems**|Zikai Liu et.al.|[2506.09758](http://arxiv.org/abs/2506.09758)|null|
@@ -427,7 +434,7 @@
 |**2024-08-21**|**Telepathic Datacenters: Fast RPCs using Shared CXL Memory**|Suyash Mahar et.al.|[2408.11325](http://arxiv.org/abs/2408.11325)|null|
 |**2024-08-18**|**Scalable Systems and Software Architectures for High-Performance Computing on cloud platforms**|Risshab Srinivas Ramesh et.al.|[2408.10281](http://arxiv.org/abs/2408.10281)|null|
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
