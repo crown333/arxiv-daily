@@ -2,13 +2,17 @@
 layout: default
 ---
 
-## Updated on 2025.07.03
+## Updated on 2025.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vector Database and Approximate Nearest Neighbor
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**Frustratingly Simple Retrieval Improves Challenging, Reasoning-Intensive Benchmarks**|Xinxi Lyu et.al.|[2507.01297](http://arxiv.org/abs/2507.01297)|null|
+|**2025-06-28**|**A Data Science Approach to Calcutta High Court Judgments: An Efficient LLM and RAG-powered Framework for Summarization and Similar Cases Retrieval**|Puspendu Banerjee et.al.|[2507.01058](http://arxiv.org/abs/2507.01058)|null|
+|**2025-07-02**|**WebANNS: Fast and Efficient Approximate Nearest Neighbor Search in Web Browsers**|Mugeng Liu et.al.|[2507.00521](http://arxiv.org/abs/2507.00521)|null|
+|**2025-07-01**|**Towards Robustness: A Critique of Current Vector Database Assessments**|Zikai Wang et.al.|[2507.00379](http://arxiv.org/abs/2507.00379)|null|
 |**2025-06-29**|**LLM-Assisted Question-Answering on Technical Documents Using Structured Data-Aware Retrieval Augmented Generation**|Shadman Sobhan et.al.|[2506.23136](http://arxiv.org/abs/2506.23136)|null|
 |**2025-06-28**|**Machine Assistant with Reliable Knowledge: Enhancing Student Learning via RAG-based Retrieval**|Yongsheng Lian et.al.|[2506.23026](http://arxiv.org/abs/2506.23026)|null|
 |**2025-06-24**|**Hallucination Detection with Small Language Models**|Ming Cheung et.al.|[2506.22486](http://arxiv.org/abs/2506.22486)|null|
@@ -147,6 +151,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**AsyncFlow: An Asynchronous Streaming RL Framework for Efficient LLM Post-Training**|Zhenyu Han et.al.|[2507.01663](http://arxiv.org/abs/2507.01663)|null|
+|**2025-07-02**|**Real-Time Emergency Vehicle Siren Detection with Efficient CNNs on Embedded Hardware**|Marco Giordano et.al.|[2507.01563](http://arxiv.org/abs/2507.01563)|null|
+|**2025-07-02**|**A Large Language Model for Chemistry and Retrosynthesis Predictions**|Yueqing Zhang et.al.|[2507.01444](http://arxiv.org/abs/2507.01444)|null|
+|**2025-07-02**|**Long-Tailed Distribution-Aware Router For Mixture-of-Experts in Large Vision-Language Model**|Chaoxiang Cai et.al.|[2507.01351](http://arxiv.org/abs/2507.01351)|null|
+|**2025-07-01**|**A New Family of Thread to Core Allocation Policies for an SMT ARM Processor**|Marta Navarro et.al.|[2507.00855](http://arxiv.org/abs/2507.00855)|null|
+|**2025-07-01**|**DynoStore: A wide-area distribution system for the management of data over heterogeneous storage**|Dante D. Sanchez-Gallegos et.al.|[2507.00576](http://arxiv.org/abs/2507.00576)|null|
+|**2025-06-30**|**Fast Simulation of Damage Diffusion Distribution in Scanning Transmission Electron Microscopy**|Amir Javadi Rad et.al.|[2507.00294](http://arxiv.org/abs/2507.00294)|null|
 |**2025-06-30**|**Data-Driven Power Modeling and Monitoring via Hardware Performance Counter Tracking**|Sergio Mazzola et.al.|[2506.23672](http://arxiv.org/abs/2506.23672)|null|
 |**2025-06-29**|**PCLVis: Visual Analytics of Process Communication Latency in Large-Scale Simulation**|Chongke Bi et.al.|[2506.23257](http://arxiv.org/abs/2506.23257)|null|
 |**2025-06-28**|**Libra: Synergizing CUDA and Tensor Cores for High-Performance Sparse Matrix Multiplication**|Jinliang Shi et.al.|[2506.22714](http://arxiv.org/abs/2506.22714)|null|
