@@ -1,4 +1,4 @@
-## Updated on 2025.07.07
+## Updated on 2025.07.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,7 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-07-02**|**Frustratingly Simple Retrieval Improves Challenging, Reasoning-Intensive Benchmarks**|Xinxi Lyu et.al.|[2507.01297](http://arxiv.org/abs/2507.01297)|null|
+|**2025-07-05**|**Frustratingly Simple Retrieval Improves Challenging, Reasoning-Intensive Benchmarks**|Xinxi Lyu et.al.|[2507.01297](http://arxiv.org/abs/2507.01297)|null|
 |**2025-06-28**|**A Data Science Approach to Calcutta High Court Judgments: An Efficient LLM and RAG-powered Framework for Summarization and Similar Cases Retrieval**|Puspendu Banerjee et.al.|[2507.01058](http://arxiv.org/abs/2507.01058)|null|
 |**2025-07-02**|**WebANNS: Fast and Efficient Approximate Nearest Neighbor Search in Web Browsers**|Mugeng Liu et.al.|[2507.00521](http://arxiv.org/abs/2507.00521)|null|
 |**2025-07-01**|**Towards Robustness: A Critique of Current Vector Database Assessments**|Zikai Wang et.al.|[2507.00379](http://arxiv.org/abs/2507.00379)|null|
@@ -152,7 +152,7 @@
 |**2024-12-30**|**LLM-assisted Vector Similarity Search**|Md Riyadh et.al.|[2412.18819](http://arxiv.org/abs/2412.18819)|null|
 |**2024-12-25**|**Optimization and Scalability of Collaborative Filtering Algorithms in Large Language Models**|Haowei Yang et.al.|[2412.18715](http://arxiv.org/abs/2412.18715)|null|
 
-<p align=right>(<a href=#updated-on-20250707>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
 
 ## Parallel and Concurrent Algorithms
 
@@ -345,7 +345,7 @@
 |**2025-01-21**|**Distributed Multi-Head Learning Systems for Power Consumption Prediction**|Jia-Hao Syu et.al.|[2501.12133](http://arxiv.org/abs/2501.12133)|null|
 |**2025-01-21**|**ENTIRE: Learning-based Volume Rendering Time Prediction**|Zikai Yin et.al.|[2501.12119](http://arxiv.org/abs/2501.12119)|null|
 
-<p align=right>(<a href=#updated-on-20250707>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
 
 ## CPU and Memory Cache
 
@@ -413,7 +413,7 @@
 |**2025-01-25**|**Fully-Automated Code Generation for Efficient Computation of Sparse Matrix Permanents on GPUs**|Deniz Elbek et.al.|[2501.15126](http://arxiv.org/abs/2501.15126)|null|
 |**2025-01-14**|**DNN-Powered MLOps Pipeline Optimization for Large Language Models: A Framework for Automated Deployment and Resource Management**|Mahesh Vaijainthymala Krishnamoorthy et.al.|[2501.14802](http://arxiv.org/abs/2501.14802)|null|
 |**2024-12-17**|**Accelerating End-Cloud Collaborative Inference via Near Bubble-free Pipeline Optimization**|Luyao Gao et.al.|[2501.12388](http://arxiv.org/abs/2501.12388)|null|
-|**2025-01-21**|**Memory Storyboard: Leveraging Temporal Segmentation for Streaming Self-Supervised Learning from Egocentric Videos**|Yanlai Yang et.al.|[2501.12254](http://arxiv.org/abs/2501.12254)|null|
+|**2025-07-04**|**Memory Storyboard: Leveraging Temporal Segmentation for Streaming Self-Supervised Learning from Egocentric Videos**|Yanlai Yang et.al.|[2501.12254](http://arxiv.org/abs/2501.12254)|null|
 |**2025-01-19**|**CIBPU: A Conflict-Invisible Secure Branch Prediction Unit**|Zhe Zhou et.al.|[2501.10983](http://arxiv.org/abs/2501.10983)|null|
 |**2025-04-23**|**The NIC should be part of the OS**|Pengcheng Xu et.al.|[2501.10138](http://arxiv.org/abs/2501.10138)|null|
 |**2025-04-21**|**Modular Compilation for Quantum Chiplet Architectures**|Mingyoung Jessica Jeng et.al.|[2501.08478](http://arxiv.org/abs/2501.08478)|null|
@@ -448,7 +448,7 @@
 |**2024-08-21**|**Telepathic Datacenters: Fast RPCs using Shared CXL Memory**|Suyash Mahar et.al.|[2408.11325](http://arxiv.org/abs/2408.11325)|null|
 |**2024-08-18**|**Scalable Systems and Software Architectures for High-Performance Computing on cloud platforms**|Risshab Srinivas Ramesh et.al.|[2408.10281](http://arxiv.org/abs/2408.10281)|null|
 
-<p align=right>(<a href=#updated-on-20250707>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250708>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

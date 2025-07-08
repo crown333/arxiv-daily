@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.07.07
+## Updated on 2025.07.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vector Database and Approximate Nearest Neighbor
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-02**|**Frustratingly Simple Retrieval Improves Challenging, Reasoning-Intensive Benchmarks**|Xinxi Lyu et.al.|[2507.01297](http://arxiv.org/abs/2507.01297)|null|
+|**2025-07-05**|**Frustratingly Simple Retrieval Improves Challenging, Reasoning-Intensive Benchmarks**|Xinxi Lyu et.al.|[2507.01297](http://arxiv.org/abs/2507.01297)|null|
 |**2025-06-28**|**A Data Science Approach to Calcutta High Court Judgments: An Efficient LLM and RAG-powered Framework for Summarization and Similar Cases Retrieval**|Puspendu Banerjee et.al.|[2507.01058](http://arxiv.org/abs/2507.01058)|null|
 |**2025-07-02**|**WebANNS: Fast and Efficient Approximate Nearest Neighbor Search in Web Browsers**|Mugeng Liu et.al.|[2507.00521](http://arxiv.org/abs/2507.00521)|null|
 |**2025-07-01**|**Towards Robustness: A Critique of Current Vector Database Assessments**|Zikai Wang et.al.|[2507.00379](http://arxiv.org/abs/2507.00379)|null|
@@ -404,7 +404,7 @@ layout: default
 |**2025-01-25**|**Fully-Automated Code Generation for Efficient Computation of Sparse Matrix Permanents on GPUs**|Deniz Elbek et.al.|[2501.15126](http://arxiv.org/abs/2501.15126)|null|
 |**2025-01-14**|**DNN-Powered MLOps Pipeline Optimization for Large Language Models: A Framework for Automated Deployment and Resource Management**|Mahesh Vaijainthymala Krishnamoorthy et.al.|[2501.14802](http://arxiv.org/abs/2501.14802)|null|
 |**2024-12-17**|**Accelerating End-Cloud Collaborative Inference via Near Bubble-free Pipeline Optimization**|Luyao Gao et.al.|[2501.12388](http://arxiv.org/abs/2501.12388)|null|
-|**2025-01-21**|**Memory Storyboard: Leveraging Temporal Segmentation for Streaming Self-Supervised Learning from Egocentric Videos**|Yanlai Yang et.al.|[2501.12254](http://arxiv.org/abs/2501.12254)|null|
+|**2025-07-04**|**Memory Storyboard: Leveraging Temporal Segmentation for Streaming Self-Supervised Learning from Egocentric Videos**|Yanlai Yang et.al.|[2501.12254](http://arxiv.org/abs/2501.12254)|null|
 |**2025-01-19**|**CIBPU: A Conflict-Invisible Secure Branch Prediction Unit**|Zhe Zhou et.al.|[2501.10983](http://arxiv.org/abs/2501.10983)|null|
 |**2025-04-23**|**The NIC should be part of the OS**|Pengcheng Xu et.al.|[2501.10138](http://arxiv.org/abs/2501.10138)|null|
 |**2025-04-21**|**Modular Compilation for Quantum Chiplet Architectures**|Mingyoung Jessica Jeng et.al.|[2501.08478](http://arxiv.org/abs/2501.08478)|null|
