@@ -2,13 +2,16 @@
 layout: default
 ---
 
-## Updated on 2025.07.08
+## Updated on 2025.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vector Database and Approximate Nearest Neighbor
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-06**|**OneDB: A Distributed Multi-Metric Data Similarity Search System**|Tang Qian et.al.|[2507.04256](http://arxiv.org/abs/2507.04256)|null|
+|**2025-07-04**|**Ranking-based Fusion Algorithms for Extreme Multi-label Text Classification (XMTC)**|Celso França et.al.|[2507.03761](http://arxiv.org/abs/2507.03761)|null|
+|**2025-07-04**|**On the rankability of visual embeddings**|Ankit Sonthalia et.al.|[2507.03683](http://arxiv.org/abs/2507.03683)|null|
 |**2025-07-05**|**Frustratingly Simple Retrieval Improves Challenging, Reasoning-Intensive Benchmarks**|Xinxi Lyu et.al.|[2507.01297](http://arxiv.org/abs/2507.01297)|null|
 |**2025-06-28**|**A Data Science Approach to Calcutta High Court Judgments: An Efficient LLM and RAG-powered Framework for Summarization and Similar Cases Retrieval**|Puspendu Banerjee et.al.|[2507.01058](http://arxiv.org/abs/2507.01058)|null|
 |**2025-07-02**|**WebANNS: Fast and Efficient Approximate Nearest Neighbor Search in Web Browsers**|Mugeng Liu et.al.|[2507.00521](http://arxiv.org/abs/2507.00521)|null|
@@ -151,6 +154,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-06**|**OneDB: A Distributed Multi-Metric Data Similarity Search System**|Tang Qian et.al.|[2507.04256](http://arxiv.org/abs/2507.04256)|null|
+|**2025-07-05**|**HAWK: A Hierarchical Workflow Framework for Multi-Agent Collaboration**|Yuyang Cheng et.al.|[2507.04067](http://arxiv.org/abs/2507.04067)|null|
+|**2025-07-04**|**On the Approximability of Train Routing and the Min-Max Disjoint Paths Problem**|Umang Bhaskar et.al.|[2507.03687](http://arxiv.org/abs/2507.03687)|null|
 |**2025-07-03**|**Safe and Socially Aware Multi-Robot Coordination in Multi-Human Social Care Settings**|Ayodeji O. Abioye et.al.|[2507.02521](http://arxiv.org/abs/2507.02521)|null|
 |**2025-07-03**|**F^2TTA: Free-Form Test-Time Adaptation on Cross-Domain Medical Image Classification via Image-Level Disentangled Prompt Tuning**|Wei Li et.al.|[2507.02437](http://arxiv.org/abs/2507.02437)|null|
 |**2025-07-02**|**AsyncFlow: An Asynchronous Streaming RL Framework for Efficient LLM Post-Training**|Zhenyu Han et.al.|[2507.01663](http://arxiv.org/abs/2507.01663)|null|
@@ -192,6 +198,7 @@ layout: default
 |**2025-06-02**|**A Ranking Framework for Network Resource Allocation and Scheduling via Hypergraphs**|Rajpreet Singh et.al.|[2506.01571](http://arxiv.org/abs/2506.01571)|null|
 |**2025-05-31**|**Scaling DeFi with ZK Rollups: Design, Deployment, and Evaluation of a Real-Time Proof-of-Concept**|Krzysztof Gogol et.al.|[2506.00500](http://arxiv.org/abs/2506.00500)|null|
 |**2025-05-30**|**Optimizing Server Load Distribution in Multimedia IoT Environments through LSTM-Based Predictive Algorithms**|Somaye Imanpour et.al.|[2505.24806](http://arxiv.org/abs/2505.24806)|null|
+|**2025-07-04**|**SwitchCodec: A High-Fidelity Nerual Audio Codec With Sparse Quantization**|Jin Wang et.al.|[2505.24437](http://arxiv.org/abs/2505.24437)|null|
 |**2025-05-30**|**5G RAN Slicing with Load Balanced Handovers**|Yongzhou Chen et.al.|[2505.24295](http://arxiv.org/abs/2505.24295)|null|
 |**2025-05-30**|**SkyLB: A Locality-Aware Cross-Region Load Balancer for LLM Inference**|Tian Xia et.al.|[2505.24095](http://arxiv.org/abs/2505.24095)|null|
 |**2025-05-29**|**Energy-Efficient QoS-Aware Scheduling for S-NUCA Many-Cores**|Sudam M. Wasala et.al.|[2505.23351](http://arxiv.org/abs/2505.23351)|null|
@@ -342,6 +349,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**MemOS: A Memory OS for AI System**|Zhiyu Li et.al.|[2507.03724](http://arxiv.org/abs/2507.03724)|null|
+|**2025-07-03**|**BLaST: High Performance Inference and Pretraining using BLock Sparse Transformers**|Patrik Okanovic et.al.|[2507.03117](http://arxiv.org/abs/2507.03117)|null|
 |**2025-07-03**|**TABNet: A Triplet Augmentation Self-Recovery Framework with Boundary-Aware Pseudo-Labels for Medical Image Segmentation**|Peilin Zhang et.al.|[2507.02399](http://arxiv.org/abs/2507.02399)|null|
 |**2025-06-30**|**MotionGPT3: Human Motion as a Second Modality**|Bingfan Zhu et.al.|[2506.24086](http://arxiv.org/abs/2506.24086)|null|
 |**2025-06-23**|**Design high-confidence computers using trusted instructional set architecture and emulators**|Shuangbao Paul Wang et.al.|[2506.18780](http://arxiv.org/abs/2506.18780)|null|
