@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.07.09
+## Updated on 2025.07.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vector Database and Approximate Nearest Neighbor
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**GTRSS: Graph-based Top- $k$ Representative Similar Subtrajectory Query**|Mingchang Ge et.al.|[2507.05542](http://arxiv.org/abs/2507.05542)|null|
 |**2025-07-06**|**OneDB: A Distributed Multi-Metric Data Similarity Search System**|Tang Qian et.al.|[2507.04256](http://arxiv.org/abs/2507.04256)|null|
 |**2025-07-04**|**Ranking-based Fusion Algorithms for Extreme Multi-label Text Classification (XMTC)**|Celso França et.al.|[2507.03761](http://arxiv.org/abs/2507.03761)|null|
 |**2025-07-04**|**On the rankability of visual embeddings**|Ankit Sonthalia et.al.|[2507.03683](http://arxiv.org/abs/2507.03683)|null|
@@ -154,6 +155,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**AI-Based Demand Forecasting and Load Balancing for Optimising Energy use in Healthcare Systems: A real case study**|Iman Rahimi et.al.|[2507.06077](http://arxiv.org/abs/2507.06077)|null|
+|**2025-07-08**|**Efficient Training of Large-Scale AI Models Through Federated Mixture-of-Experts: A System-Level Approach**|Xiaobing Chen et.al.|[2507.05685](http://arxiv.org/abs/2507.05685)|null|
 |**2025-07-06**|**OneDB: A Distributed Multi-Metric Data Similarity Search System**|Tang Qian et.al.|[2507.04256](http://arxiv.org/abs/2507.04256)|null|
 |**2025-07-05**|**HAWK: A Hierarchical Workflow Framework for Multi-Agent Collaboration**|Yuyang Cheng et.al.|[2507.04067](http://arxiv.org/abs/2507.04067)|null|
 |**2025-07-04**|**On the Approximability of Train Routing and the Min-Max Disjoint Paths Problem**|Umang Bhaskar et.al.|[2507.03687](http://arxiv.org/abs/2507.03687)|null|
