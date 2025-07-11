@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.10
+## Updated on 2025.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vector Database and Approximate Nearest Neighbor
@@ -155,6 +155,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Towards Efficient and Scalable Distributed Vector Search with RDMA**|Xiangyu Zhi et.al.|[2507.06653](http://arxiv.org/abs/2507.06653)|null|
 |**2025-07-08**|**AI-Based Demand Forecasting and Load Balancing for Optimising Energy use in Healthcare Systems: A real case study**|Iman Rahimi et.al.|[2507.06077](http://arxiv.org/abs/2507.06077)|null|
 |**2025-07-08**|**Efficient Training of Large-Scale AI Models Through Federated Mixture-of-Experts: A System-Level Approach**|Xiaobing Chen et.al.|[2507.05685](http://arxiv.org/abs/2507.05685)|null|
 |**2025-07-06**|**OneDB: A Distributed Multi-Metric Data Similarity Search System**|Tang Qian et.al.|[2507.04256](http://arxiv.org/abs/2507.04256)|null|
@@ -164,7 +165,7 @@ layout: default
 |**2025-07-03**|**F^2TTA: Free-Form Test-Time Adaptation on Cross-Domain Medical Image Classification via Image-Level Disentangled Prompt Tuning**|Wei Li et.al.|[2507.02437](http://arxiv.org/abs/2507.02437)|null|
 |**2025-07-02**|**AsyncFlow: An Asynchronous Streaming RL Framework for Efficient LLM Post-Training**|Zhenyu Han et.al.|[2507.01663](http://arxiv.org/abs/2507.01663)|null|
 |**2025-07-02**|**Real-Time Emergency Vehicle Siren Detection with Efficient CNNs on Embedded Hardware**|Marco Giordano et.al.|[2507.01563](http://arxiv.org/abs/2507.01563)|null|
-|**2025-07-02**|**A Large Language Model for Chemistry and Retrosynthesis Predictions**|Yueqing Zhang et.al.|[2507.01444](http://arxiv.org/abs/2507.01444)|null|
+|**2025-07-10**|**A Large Language Model for Chemistry and Retrosynthesis Predictions**|Yueqing Zhang et.al.|[2507.01444](http://arxiv.org/abs/2507.01444)|null|
 |**2025-07-02**|**Long-Tailed Distribution-Aware Router For Mixture-of-Experts in Large Vision-Language Model**|Chaoxiang Cai et.al.|[2507.01351](http://arxiv.org/abs/2507.01351)|null|
 |**2025-07-01**|**A New Family of Thread to Core Allocation Policies for an SMT ARM Processor**|Marta Navarro et.al.|[2507.00855](http://arxiv.org/abs/2507.00855)|null|
 |**2025-07-01**|**DynoStore: A wide-area distribution system for the management of data over heterogeneous storage**|Dante D. Sanchez-Gallegos et.al.|[2507.00576](http://arxiv.org/abs/2507.00576)|null|
