@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.07.11
+## Updated on 2025.07.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vector Database and Approximate Nearest Neighbor
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**An Integrated Framework of Prompt Engineering and Multidimensional Knowledge Graphs for Legal Dispute Analysis**|Mingda Zhang et.al.|[2507.07893](http://arxiv.org/abs/2507.07893)|null|
 |**2025-07-07**|**GTRSS: Graph-based Top- $k$ Representative Similar Subtrajectory Query**|Mingchang Ge et.al.|[2507.05542](http://arxiv.org/abs/2507.05542)|null|
 |**2025-07-06**|**OneDB: A Distributed Multi-Metric Data Similarity Search System**|Tang Qian et.al.|[2507.04256](http://arxiv.org/abs/2507.04256)|null|
 |**2025-07-04**|**Ranking-based Fusion Algorithms for Extreme Multi-label Text Classification (XMTC)**|Celso França et.al.|[2507.03761](http://arxiv.org/abs/2507.03761)|null|
@@ -353,6 +354,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**DAF: An Efficient End-to-End Dynamic Activation Framework for on-Device DNN Training**|Renyuan Liu et.al.|[2507.07149](http://arxiv.org/abs/2507.07149)|null|
 |**2025-07-08**|**MemOS: A Memory OS for AI System**|Zhiyu Li et.al.|[2507.03724](http://arxiv.org/abs/2507.03724)|null|
 |**2025-07-03**|**BLaST: High Performance Inference and Pretraining using BLock Sparse Transformers**|Patrik Okanovic et.al.|[2507.03117](http://arxiv.org/abs/2507.03117)|null|
 |**2025-07-03**|**TABNet: A Triplet Augmentation Self-Recovery Framework with Boundary-Aware Pseudo-Labels for Medical Image Segmentation**|Peilin Zhang et.al.|[2507.02399](http://arxiv.org/abs/2507.02399)|null|
