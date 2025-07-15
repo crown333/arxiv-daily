@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.07.14
+## Updated on 2025.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vector Database and Approximate Nearest Neighbor
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-11**|**CUE-RAG: Towards Accurate and Cost-Efficient Graph-Based RAG via Multi-Partite Graph and Query-Driven Iterative Retrieval**|Yaodong Su et.al.|[2507.08445](http://arxiv.org/abs/2507.08445)|null|
 |**2025-07-10**|**An Integrated Framework of Prompt Engineering and Multidimensional Knowledge Graphs for Legal Dispute Analysis**|Mingda Zhang et.al.|[2507.07893](http://arxiv.org/abs/2507.07893)|null|
 |**2025-07-07**|**GTRSS: Graph-based Top- $k$ Representative Similar Subtrajectory Query**|Mingchang Ge et.al.|[2507.05542](http://arxiv.org/abs/2507.05542)|null|
 |**2025-07-06**|**OneDB: A Distributed Multi-Metric Data Similarity Search System**|Tang Qian et.al.|[2507.04256](http://arxiv.org/abs/2507.04256)|null|
@@ -156,6 +157,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**EP-GAT: Energy-based Parallel Graph Attention Neural Network for Stock Trend Classification**|Zhuodong Jiang et.al.|[2507.08184](http://arxiv.org/abs/2507.08184)|null|
 |**2025-07-09**|**Towards Efficient and Scalable Distributed Vector Search with RDMA**|Xiangyu Zhi et.al.|[2507.06653](http://arxiv.org/abs/2507.06653)|null|
 |**2025-07-08**|**AI-Based Demand Forecasting and Load Balancing for Optimising Energy use in Healthcare Systems: A real case study**|Iman Rahimi et.al.|[2507.06077](http://arxiv.org/abs/2507.06077)|null|
 |**2025-07-08**|**Efficient Training of Large-Scale AI Models Through Federated Mixture-of-Experts: A System-Level Approach**|Xiaobing Chen et.al.|[2507.05685](http://arxiv.org/abs/2507.05685)|null|
@@ -372,7 +374,7 @@ layout: default
 |**2025-05-27**|**Improved Prefetching Techniques for Linked Data Structures**|Nikola Vuk Maruszewski et.al.|[2505.21669](http://arxiv.org/abs/2505.21669)|null|
 |**2025-05-24**|**Garibaldi: A Pairwise Instruction-Data Management for Enhancing Shared Last-Level Cache Performance in Server Workloads**|Jaewon Kwon et.al.|[2505.18554](http://arxiv.org/abs/2505.18554)|null|
 |**2025-05-23**|**DiFache: Efficient and Scalable Caching on Disaggregated Memory using Decentralized Coherence**|Hanze Zhang et.al.|[2505.18013](http://arxiv.org/abs/2505.18013)|null|
-|**2025-05-23**|**Trinity-RFT: A General-Purpose and Unified Framework for Reinforcement Fine-Tuning of Large Language Models**|Xuchen Pan et.al.|[2505.17826](http://arxiv.org/abs/2505.17826)|**[link](https://github.com/modelscope/trinity-rft)**|
+|**2025-07-14**|**Trinity-RFT: A General-Purpose and Unified Framework for Reinforcement Fine-Tuning of Large Language Models**|Xuchen Pan et.al.|[2505.17826](http://arxiv.org/abs/2505.17826)|**[link](https://github.com/modelscope/trinity-rft)**|
 |**2025-05-23**|**FlashForge: Ultra-Efficient Prefix-Aware Attention for LLM Decoding**|Zhibin Wang et.al.|[2505.17694](http://arxiv.org/abs/2505.17694)|null|
 |**2025-05-21**|**CP-LLM: Context and Pixel Aware Large Language Model for Video Quality Assessment**|Wen Wen et.al.|[2505.16025](http://arxiv.org/abs/2505.16025)|null|
 |**2025-05-19**|**Addressing memory bandwidth scalability in vector processors for streaming applications**|Jordi Altayo et.al.|[2505.12856](http://arxiv.org/abs/2505.12856)|null|
