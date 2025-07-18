@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.07.17
+## Updated on 2025.07.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vector Database and Approximate Nearest Neighbor
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Developing Visual Augmented Q&A System using Scalable Vision Embedding Retrieval & Late Interaction Re-ranker**|Rachna Saxena et.al.|[2507.12378](http://arxiv.org/abs/2507.12378)|null|
 |**2025-07-14**|**GenAI-Enabled Backlog Grooming in Agile Software Projects: An Empirical Study**|Kasper Lien Oftebro et.al.|[2507.10753](http://arxiv.org/abs/2507.10753)|null|
 |**2025-07-14**|**Large-Scale Graph Building in Dynamic Environments: Low Latency and High Quality**|Filipe Miguel Gonçalves de Almeida et.al.|[2507.10139](http://arxiv.org/abs/2507.10139)|null|
 |**2025-07-14**|**Breaking the Storage-Compute Bottleneck in Billion-Scale ANNS: A GPU-Driven Asynchronous I/O Framework**|Yang Xiao et.al.|[2507.10070](http://arxiv.org/abs/2507.10070)|null|
@@ -162,6 +163,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Mixture of Raytraced Experts**|Andrea Perin et.al.|[2507.12419](http://arxiv.org/abs/2507.12419)|null|
+|**2025-07-16**|**Performance Assessment of Load Balancing Methods in Cloud Computing: Analysis of Round Robin, Equally Spread, and Throttled Strategies Using Cloud Analyst**|Saeid Aghasoleymani Najafabadi et.al.|[2507.11899](http://arxiv.org/abs/2507.11899)|null|
 |**2025-07-15**|**Generating Dynamic Graph Algorithms for Multiple Backends for a Graph DSL**|Nibedita Behera et.al.|[2507.11094](http://arxiv.org/abs/2507.11094)|null|
 |**2025-07-14**|**Zorse: Optimizing LLM Training Efficiency on Heterogeneous GPU Clusters**|Runsheng Benson Guo et.al.|[2507.10392](http://arxiv.org/abs/2507.10392)|null|
 |**2025-07-14**|**Cross-Timeslot Optimization for Distributed GPU Inference Using Reinforcement Learning**|Chengze Du et.al.|[2507.10259](http://arxiv.org/abs/2507.10259)|null|
