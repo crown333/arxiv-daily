@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.18
+## Updated on 2025.07.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vector Database and Approximate Nearest Neighbor
@@ -163,6 +163,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**Guaranteeing and Explaining Stability across Heterogeneous Load Balancing using Calculus Network Dynamics**|Mengbang Zou et.al.|[2507.12892](http://arxiv.org/abs/2507.12892)|null|
+|**2025-07-17**|**Building State Machine Replication Using Practical Network Synchrony**|Yiliang Wan et.al.|[2507.12792](http://arxiv.org/abs/2507.12792)|null|
 |**2025-07-16**|**Mixture of Raytraced Experts**|Andrea Perin et.al.|[2507.12419](http://arxiv.org/abs/2507.12419)|null|
 |**2025-07-16**|**Performance Assessment of Load Balancing Methods in Cloud Computing: Analysis of Round Robin, Equally Spread, and Throttled Strategies Using Cloud Analyst**|Saeid Aghasoleymani Najafabadi et.al.|[2507.11899](http://arxiv.org/abs/2507.11899)|null|
 |**2025-07-15**|**Generating Dynamic Graph Algorithms for Multiple Backends for a Graph DSL**|Nibedita Behera et.al.|[2507.11094](http://arxiv.org/abs/2507.11094)|null|
