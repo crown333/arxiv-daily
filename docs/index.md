@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.20
+## Updated on 2025.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vector Database and Approximate Nearest Neighbor
@@ -172,8 +172,8 @@ layout: default
 |**2025-07-14**|**Cross-Timeslot Optimization for Distributed GPU Inference Using Reinforcement Learning**|Chengze Du et.al.|[2507.10259](http://arxiv.org/abs/2507.10259)|null|
 |**2025-07-14**|**ElasticMM: Efficient Multimodal LLMs Serving with Elastic Multimodal Parallelism**|Zedong Liu et.al.|[2507.10069](http://arxiv.org/abs/2507.10069)|null|
 |**2025-07-14**|**EAT: QoS-Aware Edge-Collaborative AIGC Task Scheduling via Attention-Guided Diffusion Reinforcement Learning**|Zhifei Xu et.al.|[2507.10026](http://arxiv.org/abs/2507.10026)|null|
-|**2025-07-14**|**The new GATE 10 Monte Carlo particle transport simulation software -- Part I: Development and new features**|David Sarrut et.al.|[2507.09842](http://arxiv.org/abs/2507.09842)|null|
-|**2025-07-14**|**The new GATE 10 Monte Carlo particle transport simulation software -- Part II: Architecture and innovations**|Nils Krah et.al.|[2507.09840](http://arxiv.org/abs/2507.09840)|null|
+|**2025-07-17**|**GATE 10 Monte Carlo particle transport simulation -- Part I: development and new features**|David Sarrut et.al.|[2507.09842](http://arxiv.org/abs/2507.09842)|null|
+|**2025-07-17**|**GATE 10 Monte Carlo particle transport simulation -- Part II: architecture and innovations**|Nils Krah et.al.|[2507.09840](http://arxiv.org/abs/2507.09840)|null|
 |**2025-07-12**|**Reliable Task Offloading in MEC through Transmission Diversity and Jamming-Aware Scheduling**|Ghazal Asemian et.al.|[2507.09352](http://arxiv.org/abs/2507.09352)|null|
 |**2025-07-12**|**Fast and Adaptive Task Management in MEC: A Deep Learning Approach Using Pointer Networks**|Arild Yonkeu et.al.|[2507.09346](http://arxiv.org/abs/2507.09346)|null|
 |**2025-07-10**|**EP-GAT: Energy-based Parallel Graph Attention Neural Network for Stock Trend Classification**|Zhuodong Jiang et.al.|[2507.08184](http://arxiv.org/abs/2507.08184)|null|
