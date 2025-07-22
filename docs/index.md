@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.21
+## Updated on 2025.07.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Vector Database and Approximate Nearest Neighbor
@@ -163,6 +163,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**Leveraging Multi-Instance GPUs through moldable task scheduling**|Jorge Villarrubia et.al.|[2507.13601](http://arxiv.org/abs/2507.13601)|null|
 |**2025-07-17**|**Guaranteeing and Explaining Stability across Heterogeneous Load Balancing using Calculus Network Dynamics**|Mengbang Zou et.al.|[2507.12892](http://arxiv.org/abs/2507.12892)|null|
 |**2025-07-17**|**Building State Machine Replication Using Practical Network Synchrony**|Yiliang Wan et.al.|[2507.12792](http://arxiv.org/abs/2507.12792)|null|
 |**2025-07-16**|**Mixture of Raytraced Experts**|Andrea Perin et.al.|[2507.12419](http://arxiv.org/abs/2507.12419)|null|
@@ -375,6 +376,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**Towards Next Generation Data Engineering Pipelines**|Kevin M. Kramer et.al.|[2507.13892](http://arxiv.org/abs/2507.13892)|null|
 |**2025-07-14**|**Dissecting the NVIDIA Blackwell Architecture with Microbenchmarks**|Aaron Jarmusch et.al.|[2507.10789](http://arxiv.org/abs/2507.10789)|null|
 |**2025-07-09**|**DAF: An Efficient End-to-End Dynamic Activation Framework for on-Device DNN Training**|Renyuan Liu et.al.|[2507.07149](http://arxiv.org/abs/2507.07149)|null|
 |**2025-07-08**|**MemOS: A Memory OS for AI System**|Zhiyu Li et.al.|[2507.03724](http://arxiv.org/abs/2507.03724)|null|
