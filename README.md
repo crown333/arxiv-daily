@@ -1,4 +1,4 @@
-## Updated on 2025.07.22
+## Updated on 2025.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -14,6 +14,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-18**|**LOVO: Efficient Complex Object Query in Large-Scale Video Datasets**|Yuxin Liu et.al.|[2507.14301](http://arxiv.org/abs/2507.14301)|null|
+|**2025-07-18**|**FAMST: Fast Approximate Minimum Spanning Tree Construction for Large-Scale and High-Dimensional Data**|Mahmood K. M. Almansoori et.al.|[2507.14261](http://arxiv.org/abs/2507.14261)|null|
 |**2025-07-16**|**Developing Visual Augmented Q&A System using Scalable Vision Embedding Retrieval & Late Interaction Re-ranker**|Rachna Saxena et.al.|[2507.12378](http://arxiv.org/abs/2507.12378)|null|
 |**2025-07-14**|**GenAI-Enabled Backlog Grooming in Agile Software Projects: An Empirical Study**|Kasper Lien Oftebro et.al.|[2507.10753](http://arxiv.org/abs/2507.10753)|null|
 |**2025-07-14**|**Large-Scale Graph Building in Dynamic Environments: Low Latency and High Quality**|Filipe Miguel Gonçalves de Almeida et.al.|[2507.10139](http://arxiv.org/abs/2507.10139)|null|
@@ -21,7 +23,7 @@
 |**2025-07-12**|**Back to the Basics: Rethinking Issue-Commit Linking with LLM-Assisted Retrieval**|Huihui Huang et.al.|[2507.09199](http://arxiv.org/abs/2507.09199)|null|
 |**2025-07-12**|**AInsight: Augmenting Expert Decision-Making with On-the-Fly Insights Grounded in Historical Data**|Mohammad Abolnejadian et.al.|[2507.09100](http://arxiv.org/abs/2507.09100)|null|
 |**2025-07-11**|**CUE-RAG: Towards Accurate and Cost-Efficient Graph-Based RAG via Multi-Partite Graph and Query-Driven Iterative Retrieval**|Yaodong Su et.al.|[2507.08445](http://arxiv.org/abs/2507.08445)|null|
-|**2025-07-10**|**An Integrated Framework of Prompt Engineering and Multidimensional Knowledge Graphs for Legal Dispute Analysis**|Mingda Zhang et.al.|[2507.07893](http://arxiv.org/abs/2507.07893)|null|
+|**2025-07-22**|**An Integrated Framework of Prompt Engineering and Multidimensional Knowledge Graphs for Legal Dispute Analysis**|Mingda Zhang et.al.|[2507.07893](http://arxiv.org/abs/2507.07893)|null|
 |**2025-07-07**|**GTRSS: Graph-based Top- $k$ Representative Similar Subtrajectory Query**|Mingchang Ge et.al.|[2507.05542](http://arxiv.org/abs/2507.05542)|null|
 |**2025-07-06**|**OneDB: A Distributed Multi-Metric Data Similarity Search System**|Tang Qian et.al.|[2507.04256](http://arxiv.org/abs/2507.04256)|null|
 |**2025-07-04**|**Ranking-based Fusion Algorithms for Extreme Multi-label Text Classification (XMTC)**|Celso França et.al.|[2507.03761](http://arxiv.org/abs/2507.03761)|null|
@@ -164,12 +166,14 @@
 |**2024-12-30**|**LLM-assisted Vector Similarity Search**|Md Riyadh et.al.|[2412.18819](http://arxiv.org/abs/2412.18819)|null|
 |**2024-12-25**|**Optimization and Scalability of Collaborative Filtering Algorithms in Large Language Models**|Haowei Yang et.al.|[2412.18715](http://arxiv.org/abs/2412.18715)|null|
 
-<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250723>back to top</a>)</p>
 
 ## Parallel and Concurrent Algorithms
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-20**|**AMPED: Accelerating MTTKRP for Billion-Scale Sparse Tensor Decomposition on Multiple GPUs**|Sasindu Wijeratne et.al.|[2507.15121](http://arxiv.org/abs/2507.15121)|null|
+|**2025-07-18**|**Beyond DNS: Unlocking the Internet of AI Agents via the NANDA Index and Verified AgentFacts**|Ramesh Raskar et.al.|[2507.14263](http://arxiv.org/abs/2507.14263)|null|
 |**2025-07-18**|**Leveraging Multi-Instance GPUs through moldable task scheduling**|Jorge Villarrubia et.al.|[2507.13601](http://arxiv.org/abs/2507.13601)|null|
 |**2025-07-17**|**Guaranteeing and Explaining Stability across Heterogeneous Load Balancing using Calculus Network Dynamics**|Mengbang Zou et.al.|[2507.12892](http://arxiv.org/abs/2507.12892)|null|
 |**2025-07-17**|**Building State Machine Replication Using Practical Network Synchrony**|Yiliang Wan et.al.|[2507.12792](http://arxiv.org/abs/2507.12792)|null|
@@ -379,14 +383,14 @@
 |**2025-01-21**|**Distributed Multi-Head Learning Systems for Power Consumption Prediction**|Jia-Hao Syu et.al.|[2501.12133](http://arxiv.org/abs/2501.12133)|null|
 |**2025-01-21**|**ENTIRE: Learning-based Volume Rendering Time Prediction**|Zikai Yin et.al.|[2501.12119](http://arxiv.org/abs/2501.12119)|null|
 
-<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250723>back to top</a>)</p>
 
 ## CPU and Memory Cache
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-07-18**|**Towards Next Generation Data Engineering Pipelines**|Kevin M. Kramer et.al.|[2507.13892](http://arxiv.org/abs/2507.13892)|null|
-|**2025-07-14**|**Dissecting the NVIDIA Blackwell Architecture with Microbenchmarks**|Aaron Jarmusch et.al.|[2507.10789](http://arxiv.org/abs/2507.10789)|null|
+|**2025-07-21**|**Dissecting the NVIDIA Blackwell Architecture with Microbenchmarks**|Aaron Jarmusch et.al.|[2507.10789](http://arxiv.org/abs/2507.10789)|null|
 |**2025-07-09**|**DAF: An Efficient End-to-End Dynamic Activation Framework for on-Device DNN Training**|Renyuan Liu et.al.|[2507.07149](http://arxiv.org/abs/2507.07149)|null|
 |**2025-07-08**|**MemOS: A Memory OS for AI System**|Zhiyu Li et.al.|[2507.03724](http://arxiv.org/abs/2507.03724)|null|
 |**2025-07-03**|**BLaST: High Performance Inference and Pretraining using BLock Sparse Transformers**|Patrik Okanovic et.al.|[2507.03117](http://arxiv.org/abs/2507.03117)|null|
@@ -487,7 +491,7 @@
 |**2024-08-21**|**Telepathic Datacenters: Fast RPCs using Shared CXL Memory**|Suyash Mahar et.al.|[2408.11325](http://arxiv.org/abs/2408.11325)|null|
 |**2024-08-18**|**Scalable Systems and Software Architectures for High-Performance Computing on cloud platforms**|Risshab Srinivas Ramesh et.al.|[2408.10281](http://arxiv.org/abs/2408.10281)|null|
 
-<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250723>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
