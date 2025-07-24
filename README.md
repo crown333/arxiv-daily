@@ -1,4 +1,4 @@
-## Updated on 2025.07.23
+## Updated on 2025.07.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -166,12 +166,14 @@
 |**2024-12-30**|**LLM-assisted Vector Similarity Search**|Md Riyadh et.al.|[2412.18819](http://arxiv.org/abs/2412.18819)|null|
 |**2024-12-25**|**Optimization and Scalability of Collaborative Filtering Algorithms in Large Language Models**|Haowei Yang et.al.|[2412.18715](http://arxiv.org/abs/2412.18715)|null|
 
-<p align=right>(<a href=#updated-on-20250723>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250724>back to top</a>)</p>
 
 ## Parallel and Concurrent Algorithms
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**AcceleratedKernels.jl: Cross-Architecture Parallel Algorithms from a Unified, Transpiled Codebase**|Andrei-Leonard Nicusan et.al.|[2507.16710](http://arxiv.org/abs/2507.16710)|null|
+|**2025-07-22**|**FOGNITE: Federated Learning-Enhanced Fog-Cloud Architecture**|Somayeh Sobati-M et.al.|[2507.16668](http://arxiv.org/abs/2507.16668)|null|
 |**2025-07-20**|**AMPED: Accelerating MTTKRP for Billion-Scale Sparse Tensor Decomposition on Multiple GPUs**|Sasindu Wijeratne et.al.|[2507.15121](http://arxiv.org/abs/2507.15121)|null|
 |**2025-07-18**|**Beyond DNS: Unlocking the Internet of AI Agents via the NANDA Index and Verified AgentFacts**|Ramesh Raskar et.al.|[2507.14263](http://arxiv.org/abs/2507.14263)|null|
 |**2025-07-18**|**Leveraging Multi-Instance GPUs through moldable task scheduling**|Jorge Villarrubia et.al.|[2507.13601](http://arxiv.org/abs/2507.13601)|null|
@@ -383,12 +385,14 @@
 |**2025-01-21**|**Distributed Multi-Head Learning Systems for Power Consumption Prediction**|Jia-Hao Syu et.al.|[2501.12133](http://arxiv.org/abs/2501.12133)|null|
 |**2025-01-21**|**ENTIRE: Learning-based Volume Rendering Time Prediction**|Zikai Yin et.al.|[2501.12119](http://arxiv.org/abs/2501.12119)|null|
 
-<p align=right>(<a href=#updated-on-20250723>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250724>back to top</a>)</p>
 
 ## CPU and Memory Cache
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**From Profiling to Optimization: Unveiling the Profile Guided Optimization**|Bingxin Liu et.al.|[2507.16649](http://arxiv.org/abs/2507.16649)|null|
+|**2025-07-22**|**Augmenting Von Neumann's Architecture for an Intelligent Future**|Rajpreet Singh et.al.|[2507.16628](http://arxiv.org/abs/2507.16628)|null|
 |**2025-07-18**|**Towards Next Generation Data Engineering Pipelines**|Kevin M. Kramer et.al.|[2507.13892](http://arxiv.org/abs/2507.13892)|null|
 |**2025-07-21**|**Dissecting the NVIDIA Blackwell Architecture with Microbenchmarks**|Aaron Jarmusch et.al.|[2507.10789](http://arxiv.org/abs/2507.10789)|null|
 |**2025-07-09**|**DAF: An Efficient End-to-End Dynamic Activation Framework for on-Device DNN Training**|Renyuan Liu et.al.|[2507.07149](http://arxiv.org/abs/2507.07149)|null|
@@ -447,7 +451,7 @@
 |**2025-04-24**|**SPAARC: Spatial Proximity and Association based prefetching for Augmented Reality in edge Cache**|Nikhil Sreekumar et.al.|[2502.15192](http://arxiv.org/abs/2502.15192)|null|
 |**2025-02-18**|**HARP: A Taxonomy for Heterogeneous and Hierarchical Processors for Mixed-reuse Workloads**|Raveesh Garg et.al.|[2502.13113](http://arxiv.org/abs/2502.13113)|null|
 |**2025-04-15**|**Gem5-AcceSys: Enabling System-Level Exploration of Standard Interconnects for Novel Accelerators**|Qunyou Liu et.al.|[2502.12273](http://arxiv.org/abs/2502.12273)|null|
-|**2025-02-16**|**Enabling Efficient Transaction Processing on CXL-Based Memory Sharing**|Zhao Wang et.al.|[2502.11046](http://arxiv.org/abs/2502.11046)|null|
+|**2025-07-23**|**Enabling Efficient Transaction Processing on CXL-Based Memory Sharing**|Zhao Wang et.al.|[2502.11046](http://arxiv.org/abs/2502.11046)|null|
 |**2025-02-15**|**Reverse Engineering the Apple M1 Conditional Branch Predictor for Out-of-Place Spectre Mistraining**|Adam Tuby et.al.|[2502.10719](http://arxiv.org/abs/2502.10719)|null|
 |**2025-02-14**|**INF^2: High-Throughput Generative Inference of Large Language Models using Near-Storage Processing**|Hongsun Jang et.al.|[2502.09921](http://arxiv.org/abs/2502.09921)|null|
 |**2025-03-07**|**OTFS-ISAC System with Sub-Nyquist ADC Sampling Rate**|Henglin Pu et.al.|[2502.04663](http://arxiv.org/abs/2502.04663)|null|
@@ -491,7 +495,7 @@
 |**2024-08-21**|**Telepathic Datacenters: Fast RPCs using Shared CXL Memory**|Suyash Mahar et.al.|[2408.11325](http://arxiv.org/abs/2408.11325)|null|
 |**2024-08-18**|**Scalable Systems and Software Architectures for High-Performance Computing on cloud platforms**|Risshab Srinivas Ramesh et.al.|[2408.10281](http://arxiv.org/abs/2408.10281)|null|
 
-<p align=right>(<a href=#updated-on-20250723>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250724>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
