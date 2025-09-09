@@ -22,8 +22,12 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "Vector Database and Approximate Nearest Neighbor": 
-        filters: ["Vector Database", "Approximate Nearest Neighbor", "Vector Similarity", "High-Dimensional", "Graph Index"]
+    "MoE inference":
+        filters: ["MoE inference", "MoE models", "MoE", "Accelerate"]
+    "LLM inference":
+        filters: ["LLM", "LLM inference", "GEMM" ,"GEMV","Large Language Model Inference","Accelerators","inference"]
+    "chiplet":
+        filters: ["chiplet", "LLM inference", "edge", "Wafer-Scale","3D", "Heterogeneous","2.5D"]
     "Parallel and Concurrent Algorithms":
         filters: ["Multithreading", "Task Scheduling", "Load Balancing", "Parallel Graph"]
     "CPU and Memory Cache":
